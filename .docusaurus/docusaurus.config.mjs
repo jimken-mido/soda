@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Sequence",
+  "title": "SequenceSoda",
   "tagline": "Automate all the tings",
   "url": "https://sequence.sh",
   "baseUrl": "/",
