@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixAddToItemSet.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixAddToItemSet",
-  "permalink": "/steps/Nuix/NuixAddToItemSet",
+  "permalink": "/soda/steps/Nuix/NuixAddToItemSet",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixAddToItemSet.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Nuix/NuixAddToItemSet.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/tags/nuix"
+      "permalink": "/soda/steps/tags/nuix"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixAddItem",
-    "permalink": "/steps/Nuix/NuixAddItem"
+    "permalink": "/soda/steps/Nuix/NuixAddItem"
   },
   "next": {
     "title": "NuixAddToProductionSet",
-    "permalink": "/steps/Nuix/NuixAddToProductionSet"
+    "permalink": "/soda/steps/Nuix/NuixAddToProductionSet"
   }
 }

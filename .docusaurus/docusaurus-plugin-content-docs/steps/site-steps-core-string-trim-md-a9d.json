@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/StringTrim.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringTrim",
-  "permalink": "/steps/next/Core/StringTrim",
+  "permalink": "/soda/steps/next/Core/StringTrim",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringTrim.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StringTrim.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringToInt",
-    "permalink": "/steps/next/Core/StringToInt"
+    "permalink": "/soda/steps/next/Core/StringToInt"
   },
   "next": {
     "title": "Subtract",
-    "permalink": "/steps/next/Core/Subtract"
+    "permalink": "/soda/steps/next/Core/Subtract"
   }
 }

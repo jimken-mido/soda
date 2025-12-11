@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/DoubleProduct.md",
   "sourceDirName": "Core",
   "slug": "/Core/DoubleProduct",
-  "permalink": "/steps/next/Core/DoubleProduct",
+  "permalink": "/soda/steps/next/Core/DoubleProduct",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/DoubleProduct.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/DoubleProduct.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "DoublePower",
-    "permalink": "/steps/next/Core/DoublePower"
+    "permalink": "/soda/steps/next/Core/DoublePower"
   },
   "next": {
     "title": "DoubleSubtract",
-    "permalink": "/steps/next/Core/DoubleSubtract"
+    "permalink": "/soda/steps/next/Core/DoubleSubtract"
   }
 }

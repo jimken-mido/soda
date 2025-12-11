@@ -6,7 +6,7 @@
   "source": "@site/docs/sequence-configuration-language.md",
   "sourceDirName": ".",
   "slug": "/sequence-configuration-language",
-  "permalink": "/docs/next/sequence-configuration-language",
+  "permalink": "/soda/docs/next/sequence-configuration-language",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/sequence-configuration-language.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Quick Start",
-    "permalink": "/docs/next/quick-start"
+    "permalink": "/soda/docs/next/quick-start"
   },
   "next": {
     "title": "Entities",
-    "permalink": "/docs/next/entities"
+    "permalink": "/soda/docs/next/entities"
   }
 }

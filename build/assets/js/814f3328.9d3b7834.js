@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkPhoenix_docs=globalThis.webpackChunkPhoenix_docs||[]).push([[67472],{55513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Performance Improvements in v0.18.0","permalink":"/soda/blog/performance-improvements-in-v0.18.0"},{"title":"Wrangling Dates with SCL","permalink":"/soda/blog/wrangling-dates-with-scl"}]}')}}]);

@@ -6,17 +6,17 @@
   "source": "@site/steps/Enums/ItemSetDeduplication.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/ItemSetDeduplication",
-  "permalink": "/steps/next/Enums/ItemSetDeduplication",
+  "permalink": "/soda/steps/next/Enums/ItemSetDeduplication",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Enums/ItemSetDeduplication.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Enums/ItemSetDeduplication.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/next/tags/enums"
+      "permalink": "/soda/steps/next/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/next/tags/unit"
+      "permalink": "/soda/steps/next/tags/unit"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ImageFormat",
-    "permalink": "/steps/next/Enums/ImageFormat"
+    "permalink": "/soda/steps/next/Enums/ImageFormat"
   },
   "next": {
     "title": "ItemSortOrder",
-    "permalink": "/steps/next/Enums/ItemSortOrder"
+    "permalink": "/soda/steps/next/Enums/ItemSortOrder"
   }
 }

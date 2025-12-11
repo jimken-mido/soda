@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/singer/import-data-from-slack.md",
   "sourceDirName": "examples/connectors/singer",
   "slug": "/examples/connectors/singer/import-data-from-slack",
-  "permalink": "/docs/next/examples/connectors/singer/import-data-from-slack",
+  "permalink": "/soda/docs/next/examples/connectors/singer/import-data-from-slack",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/singer/import-data-from-slack.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Singer Connector",
-    "permalink": "/docs/next/examples/connectors/singer/"
+    "permalink": "/soda/docs/next/examples/connectors/singer/"
   },
   "next": {
     "title": "SQL Connector",
-    "permalink": "/docs/next/examples/connectors/sql/"
+    "permalink": "/soda/docs/next/examples/connectors/sql/"
   }
 }

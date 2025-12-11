@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Enums/ImageFormat.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/ImageFormat",
-  "permalink": "/steps/Enums/ImageFormat",
+  "permalink": "/soda/steps/Enums/ImageFormat",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/ImageFormat.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Enums/ImageFormat.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/tags/enums"
+      "permalink": "/soda/steps/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/tags/unit"
+      "permalink": "/soda/steps/tags/unit"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "HashAlgorithm",
-    "permalink": "/steps/Enums/HashAlgorithm"
+    "permalink": "/soda/steps/Enums/HashAlgorithm"
   },
   "next": {
     "title": "ItemSetDeduplication",
-    "permalink": "/steps/Enums/ItemSetDeduplication"
+    "permalink": "/soda/steps/Enums/ItemSetDeduplication"
   }
 }

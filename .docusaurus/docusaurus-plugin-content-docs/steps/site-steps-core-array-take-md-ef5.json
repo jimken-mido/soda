@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/ArrayTake.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayTake",
-  "permalink": "/steps/next/Core/ArrayTake",
+  "permalink": "/soda/steps/next/Core/ArrayTake",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/ArrayTake.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayTake.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ArraySort",
-    "permalink": "/steps/next/Core/ArraySort"
+    "permalink": "/soda/steps/next/Core/ArraySort"
   },
   "next": {
     "title": "AssertEqual",
-    "permalink": "/steps/next/Core/AssertEqual"
+    "permalink": "/soda/steps/next/Core/AssertEqual"
   }
 }

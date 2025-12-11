@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Sql/SqlInsert.md",
   "sourceDirName": "Sql",
   "slug": "/Sql/SqlInsert",
-  "permalink": "/steps/Sql/SqlInsert",
+  "permalink": "/soda/steps/Sql/SqlInsert",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Sql/SqlInsert.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Sql/SqlInsert.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Sql",
-      "permalink": "/steps/tags/sql"
+      "permalink": "/soda/steps/tags/sql"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "SqlCreateTable",
-    "permalink": "/steps/Sql/SqlCreateTable"
+    "permalink": "/soda/steps/Sql/SqlCreateTable"
   },
   "next": {
     "title": "SqlQuery",
-    "permalink": "/steps/Sql/SqlQuery"
+    "permalink": "/soda/steps/Sql/SqlQuery"
   }
 }

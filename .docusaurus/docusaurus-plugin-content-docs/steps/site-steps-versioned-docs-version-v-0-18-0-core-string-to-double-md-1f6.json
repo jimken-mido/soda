@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringToDouble.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringToDouble",
-  "permalink": "/steps/Core/StringToDouble",
+  "permalink": "/soda/steps/Core/StringToDouble",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StringToDouble.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/StringToDouble.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringToDate",
-    "permalink": "/steps/Core/StringToDate"
+    "permalink": "/soda/steps/Core/StringToDate"
   },
   "next": {
     "title": "StringToInt",
-    "permalink": "/steps/Core/StringToInt"
+    "permalink": "/soda/steps/Core/StringToInt"
   }
 }

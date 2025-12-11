@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/nuix/nuix-create-ingest-export.md",
   "sourceDirName": "examples/connectors/nuix",
   "slug": "/examples/connectors/nuix/nuix-create-ingest-export",
-  "permalink": "/docs/examples/connectors/nuix/nuix-create-ingest-export",
+  "permalink": "/soda/docs/examples/connectors/nuix/nuix-create-ingest-export",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/nuix/nuix-create-ingest-export.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Nuix Connector",
-    "permalink": "/docs/examples/connectors/nuix/"
+    "permalink": "/soda/docs/examples/connectors/nuix/"
   },
   "next": {
     "title": "Create Case, Ingest and Filter",
-    "permalink": "/docs/examples/connectors/nuix/nuix-create-ingest-filter"
+    "permalink": "/soda/docs/examples/connectors/nuix/nuix-create-ingest-filter"
   }
 }

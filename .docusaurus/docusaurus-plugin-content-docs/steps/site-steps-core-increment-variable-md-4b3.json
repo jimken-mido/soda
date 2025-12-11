@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/IncrementVariable.md",
   "sourceDirName": "Core",
   "slug": "/Core/IncrementVariable",
-  "permalink": "/steps/next/Core/IncrementVariable",
+  "permalink": "/soda/steps/next/Core/IncrementVariable",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/IncrementVariable.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/IncrementVariable.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "If",
-    "permalink": "/steps/next/Core/If"
+    "permalink": "/soda/steps/next/Core/If"
   },
   "next": {
     "title": "IsNull",
-    "permalink": "/steps/next/Core/IsNull"
+    "permalink": "/soda/steps/next/Core/IsNull"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.16.0/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/v0.16.0/intro",
+  "permalink": "/soda/docs/v0.16.0/intro",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/intro.md",
   "tags": [],
@@ -17,6 +17,6 @@
   "sidebar": "docs",
   "next": {
     "title": "Quick Start",
-    "permalink": "/docs/v0.16.0/quick-start"
+    "permalink": "/soda/docs/v0.16.0/quick-start"
   }
 }

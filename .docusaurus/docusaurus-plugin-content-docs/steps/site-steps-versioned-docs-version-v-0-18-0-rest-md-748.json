@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Rest.md",
   "sourceDirName": ".",
   "slug": "/Rest",
-  "permalink": "/steps/Rest",
+  "permalink": "/soda/steps/Rest",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Rest.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Rest.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/tags/contents"
+      "permalink": "/soda/steps/tags/contents"
     },
     {
       "label": "Rest",
-      "permalink": "/steps/tags/rest"
+      "permalink": "/soda/steps/tags/rest"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityUpdateObject",
-    "permalink": "/steps/Relativity/RelativityUpdateObject"
+    "permalink": "/soda/steps/Relativity/RelativityUpdateObject"
   },
   "next": {
     "title": "RESTDelete",
-    "permalink": "/steps/Rest/RESTDelete"
+    "permalink": "/soda/steps/Rest/RESTDelete"
   }
 }

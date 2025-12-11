@@ -6,17 +6,17 @@
   "source": "@site/steps/Nuix/NuixPerformOCR.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixPerformOCR",
-  "permalink": "/steps/next/Nuix/NuixPerformOCR",
+  "permalink": "/soda/steps/next/Nuix/NuixPerformOCR",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixPerformOCR.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixPerformOCR.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/next/tags/nuix"
+      "permalink": "/soda/steps/next/tags/nuix"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixOpenConnection",
-    "permalink": "/steps/next/Nuix/NuixOpenConnection"
+    "permalink": "/soda/steps/next/Nuix/NuixOpenConnection"
   },
   "next": {
     "title": "NuixRemoveFromItemSet",
-    "permalink": "/steps/next/Nuix/NuixRemoveFromItemSet"
+    "permalink": "/soda/steps/next/Nuix/NuixRemoveFromItemSet"
   }
 }

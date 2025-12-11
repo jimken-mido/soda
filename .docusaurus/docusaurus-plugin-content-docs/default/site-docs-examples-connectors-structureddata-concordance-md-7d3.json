@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/structureddata/concordance.md",
   "sourceDirName": "examples/connectors/structureddata",
   "slug": "/examples/connectors/structureddata/concordance",
-  "permalink": "/docs/next/examples/connectors/structureddata/concordance",
+  "permalink": "/soda/docs/next/examples/connectors/structureddata/concordance",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/structureddata/concordance.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Structured Data Connector",
-    "permalink": "/docs/next/examples/connectors/structureddata/"
+    "permalink": "/soda/docs/next/examples/connectors/structureddata/"
   },
   "next": {
     "title": "Working with CSV Files",
-    "permalink": "/docs/next/examples/connectors/structureddata/csv-files"
+    "permalink": "/soda/docs/next/examples/connectors/structureddata/csv-files"
   }
 }

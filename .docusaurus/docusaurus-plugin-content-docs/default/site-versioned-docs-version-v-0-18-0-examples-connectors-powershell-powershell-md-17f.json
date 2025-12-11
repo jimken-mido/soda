@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/powershell/powershell.md",
   "sourceDirName": "examples/connectors/powershell",
   "slug": "/examples/connectors/powershell/",
-  "permalink": "/docs/examples/connectors/powershell/",
+  "permalink": "/soda/docs/examples/connectors/powershell/",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/powershell/powershell.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Search and Tag Items",
-    "permalink": "/docs/examples/connectors/nuix/nuix-search-and-tag"
+    "permalink": "/soda/docs/examples/connectors/nuix/nuix-search-and-tag"
   },
   "next": {
     "title": "Download CSV",
-    "permalink": "/docs/examples/connectors/powershell/download-csv"
+    "permalink": "/soda/docs/examples/connectors/powershell/download-csv"
   }
 }

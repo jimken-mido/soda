@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/scl-grammar-test",
+  "permalink": "/soda/scl-grammar-test",
   "source": "@site/src/pages/scl-grammar-test.md",
   "title": "Phoenix Configuration Language Grammar Test",
   "description": "Dev Page to Test SCL Grammar Parsing in SCL.",

@@ -6,17 +6,17 @@
   "source": "@site/steps/Nuix/NuixDoesCaseExist.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixDoesCaseExist",
-  "permalink": "/steps/next/Nuix/NuixDoesCaseExist",
+  "permalink": "/soda/steps/next/Nuix/NuixDoesCaseExist",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixDoesCaseExist.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixDoesCaseExist.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/next/tags/nuix"
+      "permalink": "/soda/steps/next/tags/nuix"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixCreateTermList",
-    "permalink": "/steps/next/Nuix/NuixCreateTermList"
+    "permalink": "/soda/steps/next/Nuix/NuixCreateTermList"
   },
   "next": {
     "title": "NuixExcludeDecryptedItems",
-    "permalink": "/steps/next/Nuix/NuixExcludeDecryptedItems"
+    "permalink": "/soda/steps/next/Nuix/NuixExcludeDecryptedItems"
   }
 }

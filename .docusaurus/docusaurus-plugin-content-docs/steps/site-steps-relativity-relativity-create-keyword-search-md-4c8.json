@@ -6,17 +6,17 @@
   "source": "@site/steps/Relativity/RelativityCreateKeywordSearch.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityCreateKeywordSearch",
-  "permalink": "/steps/next/Relativity/RelativityCreateKeywordSearch",
+  "permalink": "/soda/steps/next/Relativity/RelativityCreateKeywordSearch",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativityCreateKeywordSearch.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityCreateKeywordSearch.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/next/tags/relativity"
+      "permalink": "/soda/steps/next/tags/relativity"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityCreateFolder",
-    "permalink": "/steps/next/Relativity/RelativityCreateFolder"
+    "permalink": "/soda/steps/next/Relativity/RelativityCreateFolder"
   },
   "next": {
     "title": "RelativityCreateMatter",
-    "permalink": "/steps/next/Relativity/RelativityCreateMatter"
+    "permalink": "/soda/steps/next/Relativity/RelativityCreateMatter"
   }
 }

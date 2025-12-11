@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/connectors/sql.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/sql",
-  "permalink": "/docs/connectors/sql",
+  "permalink": "/soda/docs/connectors/sql",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/connectors/sql.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Singer Connector",
-    "permalink": "/docs/connectors/singer"
+    "permalink": "/soda/docs/connectors/singer"
   },
   "next": {
     "title": "Structured Data Connector",
-    "permalink": "/docs/connectors/structureddata"
+    "permalink": "/soda/docs/connectors/structureddata"
   }
 }

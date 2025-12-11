@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/And.md",
   "sourceDirName": "Core",
   "slug": "/Core/And",
-  "permalink": "/steps/next/Core/And",
+  "permalink": "/soda/steps/next/Core/And",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/And.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/And.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Core",
-    "permalink": "/steps/next/Core"
+    "permalink": "/soda/steps/next/Core"
   },
   "next": {
     "title": "ArrayConcat",
-    "permalink": "/steps/next/Core/ArrayConcat"
+    "permalink": "/soda/steps/next/Core/ArrayConcat"
   }
 }

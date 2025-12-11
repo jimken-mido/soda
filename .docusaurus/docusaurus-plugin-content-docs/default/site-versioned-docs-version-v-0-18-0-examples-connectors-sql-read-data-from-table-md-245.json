@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/sql/read-data-from-table.md",
   "sourceDirName": "examples/connectors/sql",
   "slug": "/examples/connectors/sql/read-data-from-table",
-  "permalink": "/docs/examples/connectors/sql/read-data-from-table",
+  "permalink": "/soda/docs/examples/connectors/sql/read-data-from-table",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/sql/read-data-from-table.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Create SQL Table and Insert Data",
-    "permalink": "/docs/examples/connectors/sql/create-table-insert-data"
+    "permalink": "/soda/docs/examples/connectors/sql/create-table-insert-data"
   },
   "next": {
     "title": "Structured Data Connector",
-    "permalink": "/docs/examples/connectors/structureddata/"
+    "permalink": "/soda/docs/examples/connectors/structureddata/"
   }
 }

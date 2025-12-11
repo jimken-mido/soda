@@ -6,7 +6,7 @@
   "source": "@site/docs/schemas.md",
   "sourceDirName": ".",
   "slug": "/schemas",
-  "permalink": "/docs/next/schemas",
+  "permalink": "/soda/docs/next/schemas",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/schemas.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Entities",
-    "permalink": "/docs/next/entities"
+    "permalink": "/soda/docs/next/entities"
   },
   "next": {
     "title": "Core",
-    "permalink": "/docs/next/connectors/core"
+    "permalink": "/soda/docs/next/connectors/core"
   }
 }

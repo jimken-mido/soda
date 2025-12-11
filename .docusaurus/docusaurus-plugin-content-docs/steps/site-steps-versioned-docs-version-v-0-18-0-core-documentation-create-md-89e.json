@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/DocumentationCreate.md",
   "sourceDirName": "Core",
   "slug": "/Core/DocumentationCreate",
-  "permalink": "/steps/Core/DocumentationCreate",
+  "permalink": "/soda/steps/Core/DocumentationCreate",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/DocumentationCreate.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/DocumentationCreate.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "DoNothing",
-    "permalink": "/steps/Core/DoNothing"
+    "permalink": "/soda/steps/Core/DoNothing"
   },
   "next": {
     "title": "DoubleDivide",
-    "permalink": "/steps/Core/DoubleDivide"
+    "permalink": "/soda/steps/Core/DoubleDivide"
   }
 }

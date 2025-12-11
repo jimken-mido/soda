@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetSubfolders.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityGetSubfolders",
-  "permalink": "/steps/v0.17.0/Relativity/RelativityGetSubfolders",
+  "permalink": "/soda/steps/v0.17.0/Relativity/RelativityGetSubfolders",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetSubfolders.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetSubfolders.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/v0.17.0/tags/relativity"
+      "permalink": "/soda/steps/v0.17.0/tags/relativity"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityGetMatterStatuses",
-    "permalink": "/steps/v0.17.0/Relativity/RelativityGetMatterStatuses"
+    "permalink": "/soda/steps/v0.17.0/Relativity/RelativityGetMatterStatuses"
   },
   "next": {
     "title": "RelativityImport",
-    "permalink": "/steps/v0.17.0/Relativity/RelativityImport"
+    "permalink": "/soda/steps/v0.17.0/Relativity/RelativityImport"
   }
 }

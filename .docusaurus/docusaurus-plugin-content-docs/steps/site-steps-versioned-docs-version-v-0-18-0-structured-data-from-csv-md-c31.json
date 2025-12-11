@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/StructuredData/FromCSV.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromCSV",
-  "permalink": "/steps/StructuredData/FromCSV",
+  "permalink": "/soda/steps/StructuredData/FromCSV",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/StructuredData/FromCSV.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/StructuredData/FromCSV.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "StructuredData",
-      "permalink": "/steps/tags/structured-data"
+      "permalink": "/soda/steps/tags/structured-data"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StructuredData",
-    "permalink": "/steps/StructuredData"
+    "permalink": "/soda/steps/StructuredData"
   },
   "next": {
     "title": "FromConcordance",
-    "permalink": "/steps/StructuredData/FromConcordance"
+    "permalink": "/soda/steps/StructuredData/FromConcordance"
   }
 }

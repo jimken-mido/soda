@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/FileSystem/FileRead.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/FileRead",
-  "permalink": "/steps/FileSystem/FileRead",
+  "permalink": "/soda/steps/FileSystem/FileRead",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/FileSystem/FileRead.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/FileSystem/FileRead.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "FileSystem",
-      "permalink": "/steps/tags/file-system"
+      "permalink": "/soda/steps/tags/file-system"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "FileMove",
-    "permalink": "/steps/FileSystem/FileMove"
+    "permalink": "/soda/steps/FileSystem/FileMove"
   },
   "next": {
     "title": "FileWrite",
-    "permalink": "/steps/FileSystem/FileWrite"
+    "permalink": "/soda/steps/FileSystem/FileWrite"
   }
 }

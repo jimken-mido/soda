@@ -6,17 +6,17 @@
   "source": "@site/steps/Nuix/NuixCreateNRTReport.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCreateNRTReport",
-  "permalink": "/steps/next/Nuix/NuixCreateNRTReport",
+  "permalink": "/soda/steps/next/Nuix/NuixCreateNRTReport",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixCreateNRTReport.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixCreateNRTReport.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/next/tags/nuix"
+      "permalink": "/soda/steps/next/tags/nuix"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixCreateIrregularItemsReport",
-    "permalink": "/steps/next/Nuix/NuixCreateIrregularItemsReport"
+    "permalink": "/soda/steps/next/Nuix/NuixCreateIrregularItemsReport"
   },
   "next": {
     "title": "NuixCreateReport",
-    "permalink": "/steps/next/Nuix/NuixCreateReport"
+    "permalink": "/soda/steps/next/Nuix/NuixCreateReport"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps/Rest/RESTDelete.md",
   "sourceDirName": "Rest",
   "slug": "/Rest/RESTDelete",
-  "permalink": "/steps/next/Rest/RESTDelete",
+  "permalink": "/soda/steps/next/Rest/RESTDelete",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Rest/RESTDelete.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Rest/RESTDelete.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Rest",
-      "permalink": "/steps/next/tags/rest"
+      "permalink": "/soda/steps/next/tags/rest"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Rest",
-    "permalink": "/steps/next/Rest"
+    "permalink": "/soda/steps/next/Rest"
   },
   "next": {
     "title": "RESTGetJSON",
-    "permalink": "/steps/next/Rest/RESTGetJSON"
+    "permalink": "/soda/steps/next/Rest/RESTGetJSON"
   }
 }

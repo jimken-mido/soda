@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/Power.md",
   "sourceDirName": "Core",
   "slug": "/Core/Power",
-  "permalink": "/steps/next/Core/Power",
+  "permalink": "/soda/steps/next/Core/Power",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/Power.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/Power.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Or",
-    "permalink": "/steps/next/Core/Or"
+    "permalink": "/soda/steps/next/Core/Or"
   },
   "next": {
     "title": "Print",
-    "permalink": "/steps/next/Core/Print"
+    "permalink": "/soda/steps/next/Core/Print"
   }
 }

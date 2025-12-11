@@ -6,7 +6,7 @@
   "source": "@site/docs/quick-start.md",
   "sourceDirName": ".",
   "slug": "/quick-start",
-  "permalink": "/docs/next/quick-start",
+  "permalink": "/soda/docs/next/quick-start",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/quick-start.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "What is Phoenix",
-    "permalink": "/docs/next/intro"
+    "permalink": "/soda/docs/next/intro"
   },
   "next": {
     "title": "Phoenix Configuration Language",
-    "permalink": "/docs/next/sequence-configuration-language"
+    "permalink": "/soda/docs/next/sequence-configuration-language"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Enums/ArtifactType.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/ArtifactType",
-  "permalink": "/steps/Enums/ArtifactType",
+  "permalink": "/soda/steps/Enums/ArtifactType",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/ArtifactType.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Enums/ArtifactType.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/tags/enums"
+      "permalink": "/soda/steps/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/tags/unit"
+      "permalink": "/soda/steps/tags/unit"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "While",
-    "permalink": "/steps/Core/While"
+    "permalink": "/soda/steps/Core/While"
   },
   "next": {
     "title": "AutopsyCaseType",
-    "permalink": "/steps/Enums/AutopsyCaseType"
+    "permalink": "/soda/steps/Enums/AutopsyCaseType"
   }
 }

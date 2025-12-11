@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/TSK/AutopsyAddDataSource.md",
   "sourceDirName": "TSK",
   "slug": "/TSK/AutopsyAddDataSource",
-  "permalink": "/steps/TSK/AutopsyAddDataSource",
+  "permalink": "/soda/steps/TSK/AutopsyAddDataSource",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/TSK/AutopsyAddDataSource.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/TSK/AutopsyAddDataSource.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "TSK",
-      "permalink": "/steps/tags/tsk"
+      "permalink": "/soda/steps/tags/tsk"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "TSK",
-    "permalink": "/steps/TSK"
+    "permalink": "/soda/steps/TSK"
   },
   "next": {
     "title": "AutopsyCreateNewCase",
-    "permalink": "/steps/TSK/AutopsyCreateNewCase"
+    "permalink": "/soda/steps/TSK/AutopsyCreateNewCase"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/ArrayConcat.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayConcat",
-  "permalink": "/steps/next/Core/ArrayConcat",
+  "permalink": "/soda/steps/next/Core/ArrayConcat",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/ArrayConcat.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayConcat.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "And",
-    "permalink": "/steps/next/Core/And"
+    "permalink": "/soda/steps/next/Core/And"
   },
   "next": {
     "title": "ArrayDistinct",
-    "permalink": "/steps/next/Core/ArrayDistinct"
+    "permalink": "/soda/steps/next/Core/ArrayDistinct"
   }
 }

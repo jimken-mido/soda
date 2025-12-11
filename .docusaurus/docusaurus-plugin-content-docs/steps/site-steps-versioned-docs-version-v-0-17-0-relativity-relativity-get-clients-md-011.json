@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetClients.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityGetClients",
-  "permalink": "/steps/v0.17.0/Relativity/RelativityGetClients",
+  "permalink": "/soda/steps/v0.17.0/Relativity/RelativityGetClients",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetClients.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetClients.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/v0.17.0/tags/relativity"
+      "permalink": "/soda/steps/v0.17.0/tags/relativity"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityExport",
-    "permalink": "/steps/v0.17.0/Relativity/RelativityExport"
+    "permalink": "/soda/steps/v0.17.0/Relativity/RelativityExport"
   },
   "next": {
     "title": "RelativityGetMatterStatuses",
-    "permalink": "/steps/v0.17.0/Relativity/RelativityGetMatterStatuses"
+    "permalink": "/soda/steps/v0.17.0/Relativity/RelativityGetMatterStatuses"
   }
 }

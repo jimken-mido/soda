@@ -6,17 +6,17 @@
   "source": "@site/steps/Relativity/RelativitySendQuery.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativitySendQuery",
-  "permalink": "/steps/next/Relativity/RelativitySendQuery",
+  "permalink": "/soda/steps/next/Relativity/RelativitySendQuery",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativitySendQuery.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativitySendQuery.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/next/tags/relativity"
+      "permalink": "/soda/steps/next/tags/relativity"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityRetrieveWorkspaceStatistics",
-    "permalink": "/steps/next/Relativity/RelativityRetrieveWorkspaceStatistics"
+    "permalink": "/soda/steps/next/Relativity/RelativityRetrieveWorkspaceStatistics"
   },
   "next": {
     "title": "RelativityUpdateFolder",
-    "permalink": "/steps/next/Relativity/RelativityUpdateFolder"
+    "permalink": "/soda/steps/next/Relativity/RelativityUpdateFolder"
   }
 }

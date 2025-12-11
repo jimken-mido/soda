@@ -6,17 +6,17 @@
   "source": "@site/steps/FileSystem.md",
   "sourceDirName": ".",
   "slug": "/FileSystem",
-  "permalink": "/steps/next/FileSystem",
+  "permalink": "/soda/steps/next/FileSystem",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/FileSystem.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/FileSystem.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/next/tags/contents"
+      "permalink": "/soda/steps/next/tags/contents"
     },
     {
       "label": "FileSystem",
-      "permalink": "/steps/next/tags/file-system"
+      "permalink": "/soda/steps/next/tags/file-system"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "UpdateBehaviour",
-    "permalink": "/steps/next/Enums/UpdateBehaviour"
+    "permalink": "/soda/steps/next/Enums/UpdateBehaviour"
   },
   "next": {
     "title": "DeleteItem",
-    "permalink": "/steps/next/FileSystem/DeleteItem"
+    "permalink": "/soda/steps/next/FileSystem/DeleteItem"
   }
 }

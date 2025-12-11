@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/sql/sql.md",
   "sourceDirName": "examples/connectors/sql",
   "slug": "/examples/connectors/sql/",
-  "permalink": "/docs/next/examples/connectors/sql/",
+  "permalink": "/soda/docs/next/examples/connectors/sql/",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/sql/sql.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Import Data from Slack",
-    "permalink": "/docs/next/examples/connectors/singer/import-data-from-slack"
+    "permalink": "/soda/docs/next/examples/connectors/singer/import-data-from-slack"
   },
   "next": {
     "title": "Create SQL Table and Insert Data",
-    "permalink": "/docs/next/examples/connectors/sql/create-table-insert-data"
+    "permalink": "/soda/docs/next/examples/connectors/sql/create-table-insert-data"
   }
 }

@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "All Phoenix Steps",
-        "href": "/steps/next/all",
+        "href": "/soda/steps/next/all",
         "docId": "all"
       },
       {
@@ -24,629 +24,629 @@
           {
             "type": "link",
             "label": "And",
-            "href": "/steps/next/Core/And",
+            "href": "/soda/steps/next/Core/And",
             "docId": "Core/And"
           },
           {
             "type": "link",
             "label": "ArrayConcat",
-            "href": "/steps/next/Core/ArrayConcat",
+            "href": "/soda/steps/next/Core/ArrayConcat",
             "docId": "Core/ArrayConcat"
           },
           {
             "type": "link",
             "label": "ArrayDistinct",
-            "href": "/steps/next/Core/ArrayDistinct",
+            "href": "/soda/steps/next/Core/ArrayDistinct",
             "docId": "Core/ArrayDistinct"
           },
           {
             "type": "link",
             "label": "ArrayElementAtIndex",
-            "href": "/steps/next/Core/ArrayElementAtIndex",
+            "href": "/soda/steps/next/Core/ArrayElementAtIndex",
             "docId": "Core/ArrayElementAtIndex"
           },
           {
             "type": "link",
             "label": "ArrayFilter",
-            "href": "/steps/next/Core/ArrayFilter",
+            "href": "/soda/steps/next/Core/ArrayFilter",
             "docId": "Core/ArrayFilter"
           },
           {
             "type": "link",
             "label": "ArrayFind",
-            "href": "/steps/next/Core/ArrayFind",
+            "href": "/soda/steps/next/Core/ArrayFind",
             "docId": "Core/ArrayFind"
           },
           {
             "type": "link",
             "label": "ArrayFirst",
-            "href": "/steps/next/Core/ArrayFirst",
+            "href": "/soda/steps/next/Core/ArrayFirst",
             "docId": "Core/ArrayFirst"
           },
           {
             "type": "link",
             "label": "ArrayGroupBy",
-            "href": "/steps/next/Core/ArrayGroupBy",
+            "href": "/soda/steps/next/Core/ArrayGroupBy",
             "docId": "Core/ArrayGroupBy"
           },
           {
             "type": "link",
             "label": "ArrayIsEmpty",
-            "href": "/steps/next/Core/ArrayIsEmpty",
+            "href": "/soda/steps/next/Core/ArrayIsEmpty",
             "docId": "Core/ArrayIsEmpty"
           },
           {
             "type": "link",
             "label": "ArrayLast",
-            "href": "/steps/next/Core/ArrayLast",
+            "href": "/soda/steps/next/Core/ArrayLast",
             "docId": "Core/ArrayLast"
           },
           {
             "type": "link",
             "label": "ArrayLength",
-            "href": "/steps/next/Core/ArrayLength",
+            "href": "/soda/steps/next/Core/ArrayLength",
             "docId": "Core/ArrayLength"
           },
           {
             "type": "link",
             "label": "ArrayMap",
-            "href": "/steps/next/Core/ArrayMap",
+            "href": "/soda/steps/next/Core/ArrayMap",
             "docId": "Core/ArrayMap"
           },
           {
             "type": "link",
             "label": "ArrayNew",
-            "href": "/steps/next/Core/ArrayNew",
+            "href": "/soda/steps/next/Core/ArrayNew",
             "docId": "Core/ArrayNew"
           },
           {
             "type": "link",
             "label": "ArrayReverse",
-            "href": "/steps/next/Core/ArrayReverse",
+            "href": "/soda/steps/next/Core/ArrayReverse",
             "docId": "Core/ArrayReverse"
           },
           {
             "type": "link",
             "label": "ArraySkip",
-            "href": "/steps/next/Core/ArraySkip",
+            "href": "/soda/steps/next/Core/ArraySkip",
             "docId": "Core/ArraySkip"
           },
           {
             "type": "link",
             "label": "ArraySort",
-            "href": "/steps/next/Core/ArraySort",
+            "href": "/soda/steps/next/Core/ArraySort",
             "docId": "Core/ArraySort"
           },
           {
             "type": "link",
             "label": "ArrayTake",
-            "href": "/steps/next/Core/ArrayTake",
+            "href": "/soda/steps/next/Core/ArrayTake",
             "docId": "Core/ArrayTake"
           },
           {
             "type": "link",
             "label": "AssertEqual",
-            "href": "/steps/next/Core/AssertEqual",
+            "href": "/soda/steps/next/Core/AssertEqual",
             "docId": "Core/AssertEqual"
           },
           {
             "type": "link",
             "label": "AssertError",
-            "href": "/steps/next/Core/AssertError",
+            "href": "/soda/steps/next/Core/AssertError",
             "docId": "Core/AssertError"
           },
           {
             "type": "link",
             "label": "AssertTrue",
-            "href": "/steps/next/Core/AssertTrue",
+            "href": "/soda/steps/next/Core/AssertTrue",
             "docId": "Core/AssertTrue"
           },
           {
             "type": "link",
             "label": "CharAtIndex",
-            "href": "/steps/next/Core/CharAtIndex",
+            "href": "/soda/steps/next/Core/CharAtIndex",
             "docId": "Core/CharAtIndex"
           },
           {
             "type": "link",
             "label": "Clone",
-            "href": "/steps/next/Core/Clone",
+            "href": "/soda/steps/next/Core/Clone",
             "docId": "Core/Clone"
           },
           {
             "type": "link",
             "label": "ConvertSizeUnits",
-            "href": "/steps/next/Core/ConvertSizeUnits",
+            "href": "/soda/steps/next/Core/ConvertSizeUnits",
             "docId": "Core/ConvertSizeUnits"
           },
           {
             "type": "link",
             "label": "DateToString",
-            "href": "/steps/next/Core/DateToString",
+            "href": "/soda/steps/next/Core/DateToString",
             "docId": "Core/DateToString"
           },
           {
             "type": "link",
             "label": "Delay",
-            "href": "/steps/next/Core/Delay",
+            "href": "/soda/steps/next/Core/Delay",
             "docId": "Core/Delay"
           },
           {
             "type": "link",
             "label": "Divide",
-            "href": "/steps/next/Core/Divide",
+            "href": "/soda/steps/next/Core/Divide",
             "docId": "Core/Divide"
           },
           {
             "type": "link",
             "label": "DoNothing",
-            "href": "/steps/next/Core/DoNothing",
+            "href": "/soda/steps/next/Core/DoNothing",
             "docId": "Core/DoNothing"
           },
           {
             "type": "link",
             "label": "DocumentationCreate",
-            "href": "/steps/next/Core/DocumentationCreate",
+            "href": "/soda/steps/next/Core/DocumentationCreate",
             "docId": "Core/DocumentationCreate"
           },
           {
             "type": "link",
             "label": "DoubleDivide",
-            "href": "/steps/next/Core/DoubleDivide",
+            "href": "/soda/steps/next/Core/DoubleDivide",
             "docId": "Core/DoubleDivide"
           },
           {
             "type": "link",
             "label": "DoublePower",
-            "href": "/steps/next/Core/DoublePower",
+            "href": "/soda/steps/next/Core/DoublePower",
             "docId": "Core/DoublePower"
           },
           {
             "type": "link",
             "label": "DoubleProduct",
-            "href": "/steps/next/Core/DoubleProduct",
+            "href": "/soda/steps/next/Core/DoubleProduct",
             "docId": "Core/DoubleProduct"
           },
           {
             "type": "link",
             "label": "DoubleSubtract",
-            "href": "/steps/next/Core/DoubleSubtract",
+            "href": "/soda/steps/next/Core/DoubleSubtract",
             "docId": "Core/DoubleSubtract"
           },
           {
             "type": "link",
             "label": "DoubleSum",
-            "href": "/steps/next/Core/DoubleSum",
+            "href": "/soda/steps/next/Core/DoubleSum",
             "docId": "Core/DoubleSum"
           },
           {
             "type": "link",
             "label": "EntityCombine",
-            "href": "/steps/next/Core/EntityCombine",
+            "href": "/soda/steps/next/Core/EntityCombine",
             "docId": "Core/EntityCombine"
           },
           {
             "type": "link",
             "label": "EntityFlatten",
-            "href": "/steps/next/Core/EntityFlatten",
+            "href": "/soda/steps/next/Core/EntityFlatten",
             "docId": "Core/EntityFlatten"
           },
           {
             "type": "link",
             "label": "EntityFormat",
-            "href": "/steps/next/Core/EntityFormat",
+            "href": "/soda/steps/next/Core/EntityFormat",
             "docId": "Core/EntityFormat"
           },
           {
             "type": "link",
             "label": "EntityGetProperties",
-            "href": "/steps/next/Core/EntityGetProperties",
+            "href": "/soda/steps/next/Core/EntityGetProperties",
             "docId": "Core/EntityGetProperties"
           },
           {
             "type": "link",
             "label": "EntityGetValue",
-            "href": "/steps/next/Core/EntityGetValue",
+            "href": "/soda/steps/next/Core/EntityGetValue",
             "docId": "Core/EntityGetValue"
           },
           {
             "type": "link",
             "label": "EntityHasProperty",
-            "href": "/steps/next/Core/EntityHasProperty",
+            "href": "/soda/steps/next/Core/EntityHasProperty",
             "docId": "Core/EntityHasProperty"
           },
           {
             "type": "link",
             "label": "EntityMapProperties",
-            "href": "/steps/next/Core/EntityMapProperties",
+            "href": "/soda/steps/next/Core/EntityMapProperties",
             "docId": "Core/EntityMapProperties"
           },
           {
             "type": "link",
             "label": "EntityRemoveProperty",
-            "href": "/steps/next/Core/EntityRemoveProperty",
+            "href": "/soda/steps/next/Core/EntityRemoveProperty",
             "docId": "Core/EntityRemoveProperty"
           },
           {
             "type": "link",
             "label": "EntitySetValue",
-            "href": "/steps/next/Core/EntitySetValue",
+            "href": "/soda/steps/next/Core/EntitySetValue",
             "docId": "Core/EntitySetValue"
           },
           {
             "type": "link",
             "label": "EntityValidateRelations",
-            "href": "/steps/next/Core/EntityValidateRelations",
+            "href": "/soda/steps/next/Core/EntityValidateRelations",
             "docId": "Core/EntityValidateRelations"
           },
           {
             "type": "link",
             "label": "Equals",
-            "href": "/steps/next/Core/Equals",
+            "href": "/soda/steps/next/Core/Equals",
             "docId": "Core/Equals"
           },
           {
             "type": "link",
             "label": "For",
-            "href": "/steps/next/Core/For",
+            "href": "/soda/steps/next/Core/For",
             "docId": "Core/For"
           },
           {
             "type": "link",
             "label": "ForEach",
-            "href": "/steps/next/Core/ForEach",
+            "href": "/soda/steps/next/Core/ForEach",
             "docId": "Core/ForEach"
           },
           {
             "type": "link",
             "label": "GetApplicationVersion",
-            "href": "/steps/next/Core/GetApplicationVersion",
+            "href": "/soda/steps/next/Core/GetApplicationVersion",
             "docId": "Core/GetApplicationVersion"
           },
           {
             "type": "link",
             "label": "GetAutomaticVariable",
-            "href": "/steps/next/Core/GetAutomaticVariable",
+            "href": "/soda/steps/next/Core/GetAutomaticVariable",
             "docId": "Core/GetAutomaticVariable"
           },
           {
             "type": "link",
             "label": "GetConnectorInformation",
-            "href": "/steps/next/Core/GetConnectorInformation",
+            "href": "/soda/steps/next/Core/GetConnectorInformation",
             "docId": "Core/GetConnectorInformation"
           },
           {
             "type": "link",
             "label": "GetSettings",
-            "href": "/steps/next/Core/GetSettings",
+            "href": "/soda/steps/next/Core/GetSettings",
             "docId": "Core/GetSettings"
           },
           {
             "type": "link",
             "label": "GetVariable",
-            "href": "/steps/next/Core/GetVariable",
+            "href": "/soda/steps/next/Core/GetVariable",
             "docId": "Core/GetVariable"
           },
           {
             "type": "link",
             "label": "GreaterThan",
-            "href": "/steps/next/Core/GreaterThan",
+            "href": "/soda/steps/next/Core/GreaterThan",
             "docId": "Core/GreaterThan"
           },
           {
             "type": "link",
             "label": "GreaterThanOrEqual",
-            "href": "/steps/next/Core/GreaterThanOrEqual",
+            "href": "/soda/steps/next/Core/GreaterThanOrEqual",
             "docId": "Core/GreaterThanOrEqual"
           },
           {
             "type": "link",
             "label": "Hash",
-            "href": "/steps/next/Core/Hash",
+            "href": "/soda/steps/next/Core/Hash",
             "docId": "Core/Hash"
           },
           {
             "type": "link",
             "label": "HttpRequest",
-            "href": "/steps/next/Core/HttpRequest",
+            "href": "/soda/steps/next/Core/HttpRequest",
             "docId": "Core/HttpRequest"
           },
           {
             "type": "link",
             "label": "If",
-            "href": "/steps/next/Core/If",
+            "href": "/soda/steps/next/Core/If",
             "docId": "Core/If"
           },
           {
             "type": "link",
             "label": "IncrementVariable",
-            "href": "/steps/next/Core/IncrementVariable",
+            "href": "/soda/steps/next/Core/IncrementVariable",
             "docId": "Core/IncrementVariable"
           },
           {
             "type": "link",
             "label": "IsNull",
-            "href": "/steps/next/Core/IsNull",
+            "href": "/soda/steps/next/Core/IsNull",
             "docId": "Core/IsNull"
           },
           {
             "type": "link",
             "label": "LessThan",
-            "href": "/steps/next/Core/LessThan",
+            "href": "/soda/steps/next/Core/LessThan",
             "docId": "Core/LessThan"
           },
           {
             "type": "link",
             "label": "LessThanOrEqual",
-            "href": "/steps/next/Core/LessThanOrEqual",
+            "href": "/soda/steps/next/Core/LessThanOrEqual",
             "docId": "Core/LessThanOrEqual"
           },
           {
             "type": "link",
             "label": "Log",
-            "href": "/steps/next/Core/Log",
+            "href": "/soda/steps/next/Core/Log",
             "docId": "Core/Log"
           },
           {
             "type": "link",
             "label": "Modulo",
-            "href": "/steps/next/Core/Modulo",
+            "href": "/soda/steps/next/Core/Modulo",
             "docId": "Core/Modulo"
           },
           {
             "type": "link",
             "label": "Not",
-            "href": "/steps/next/Core/Not",
+            "href": "/soda/steps/next/Core/Not",
             "docId": "Core/Not"
           },
           {
             "type": "link",
             "label": "NotEquals",
-            "href": "/steps/next/Core/NotEquals",
+            "href": "/soda/steps/next/Core/NotEquals",
             "docId": "Core/NotEquals"
           },
           {
             "type": "link",
             "label": "Or",
-            "href": "/steps/next/Core/Or",
+            "href": "/soda/steps/next/Core/Or",
             "docId": "Core/Or"
           },
           {
             "type": "link",
             "label": "Power",
-            "href": "/steps/next/Core/Power",
+            "href": "/soda/steps/next/Core/Power",
             "docId": "Core/Power"
           },
           {
             "type": "link",
             "label": "Print",
-            "href": "/steps/next/Core/Print",
+            "href": "/soda/steps/next/Core/Print",
             "docId": "Core/Print"
           },
           {
             "type": "link",
             "label": "Product",
-            "href": "/steps/next/Core/Product",
+            "href": "/soda/steps/next/Core/Product",
             "docId": "Core/Product"
           },
           {
             "type": "link",
             "label": "Repeat",
-            "href": "/steps/next/Core/Repeat",
+            "href": "/soda/steps/next/Core/Repeat",
             "docId": "Core/Repeat"
           },
           {
             "type": "link",
             "label": "Round",
-            "href": "/steps/next/Core/Round",
+            "href": "/soda/steps/next/Core/Round",
             "docId": "Core/Round"
           },
           {
             "type": "link",
             "label": "RunExternalProcess",
-            "href": "/steps/next/Core/RunExternalProcess",
+            "href": "/soda/steps/next/Core/RunExternalProcess",
             "docId": "Core/RunExternalProcess"
           },
           {
             "type": "link",
             "label": "RunSCL",
-            "href": "/steps/next/Core/RunSCL",
+            "href": "/soda/steps/next/Core/RunSCL",
             "docId": "Core/RunSCL"
           },
           {
             "type": "link",
             "label": "RunStep",
-            "href": "/steps/next/Core/RunStep",
+            "href": "/soda/steps/next/Core/RunStep",
             "docId": "Core/RunStep"
           },
           {
             "type": "link",
             "label": "SchemaCreate",
-            "href": "/steps/next/Core/SchemaCreate",
+            "href": "/soda/steps/next/Core/SchemaCreate",
             "docId": "Core/SchemaCreate"
           },
           {
             "type": "link",
             "label": "SchemaCreateCoerced",
-            "href": "/steps/next/Core/SchemaCreateCoerced",
+            "href": "/soda/steps/next/Core/SchemaCreateCoerced",
             "docId": "Core/SchemaCreateCoerced"
           },
           {
             "type": "link",
             "label": "Phoenix",
-            "href": "/steps/next/Core/Sequence",
+            "href": "/soda/steps/next/Core/Sequence",
             "docId": "Core/Sequence"
           },
           {
             "type": "link",
             "label": "SetVariable",
-            "href": "/steps/next/Core/SetVariable",
+            "href": "/soda/steps/next/Core/SetVariable",
             "docId": "Core/SetVariable"
           },
           {
             "type": "link",
             "label": "StandardErrorWrite",
-            "href": "/steps/next/Core/StandardErrorWrite",
+            "href": "/soda/steps/next/Core/StandardErrorWrite",
             "docId": "Core/StandardErrorWrite"
           },
           {
             "type": "link",
             "label": "StandardInRead",
-            "href": "/steps/next/Core/StandardInRead",
+            "href": "/soda/steps/next/Core/StandardInRead",
             "docId": "Core/StandardInRead"
           },
           {
             "type": "link",
             "label": "StandardOutWrite",
-            "href": "/steps/next/Core/StandardOutWrite",
+            "href": "/soda/steps/next/Core/StandardOutWrite",
             "docId": "Core/StandardOutWrite"
           },
           {
             "type": "link",
             "label": "StringAppend",
-            "href": "/steps/next/Core/StringAppend",
+            "href": "/soda/steps/next/Core/StringAppend",
             "docId": "Core/StringAppend"
           },
           {
             "type": "link",
             "label": "StringContains",
-            "href": "/steps/next/Core/StringContains",
+            "href": "/soda/steps/next/Core/StringContains",
             "docId": "Core/StringContains"
           },
           {
             "type": "link",
             "label": "StringFind",
-            "href": "/steps/next/Core/StringFind",
+            "href": "/soda/steps/next/Core/StringFind",
             "docId": "Core/StringFind"
           },
           {
             "type": "link",
             "label": "StringFindLast",
-            "href": "/steps/next/Core/StringFindLast",
+            "href": "/soda/steps/next/Core/StringFindLast",
             "docId": "Core/StringFindLast"
           },
           {
             "type": "link",
             "label": "StringInterpolate",
-            "href": "/steps/next/Core/StringInterpolate",
+            "href": "/soda/steps/next/Core/StringInterpolate",
             "docId": "Core/StringInterpolate"
           },
           {
             "type": "link",
             "label": "StringIsEmpty",
-            "href": "/steps/next/Core/StringIsEmpty",
+            "href": "/soda/steps/next/Core/StringIsEmpty",
             "docId": "Core/StringIsEmpty"
           },
           {
             "type": "link",
             "label": "StringJoin",
-            "href": "/steps/next/Core/StringJoin",
+            "href": "/soda/steps/next/Core/StringJoin",
             "docId": "Core/StringJoin"
           },
           {
             "type": "link",
             "label": "StringLength",
-            "href": "/steps/next/Core/StringLength",
+            "href": "/soda/steps/next/Core/StringLength",
             "docId": "Core/StringLength"
           },
           {
             "type": "link",
             "label": "StringMatch",
-            "href": "/steps/next/Core/StringMatch",
+            "href": "/soda/steps/next/Core/StringMatch",
             "docId": "Core/StringMatch"
           },
           {
             "type": "link",
             "label": "StringReplace",
-            "href": "/steps/next/Core/StringReplace",
+            "href": "/soda/steps/next/Core/StringReplace",
             "docId": "Core/StringReplace"
           },
           {
             "type": "link",
             "label": "StringSplit",
-            "href": "/steps/next/Core/StringSplit",
+            "href": "/soda/steps/next/Core/StringSplit",
             "docId": "Core/StringSplit"
           },
           {
             "type": "link",
             "label": "StringSubstring",
-            "href": "/steps/next/Core/StringSubstring",
+            "href": "/soda/steps/next/Core/StringSubstring",
             "docId": "Core/StringSubstring"
           },
           {
             "type": "link",
             "label": "StringToBool",
-            "href": "/steps/next/Core/StringToBool",
+            "href": "/soda/steps/next/Core/StringToBool",
             "docId": "Core/StringToBool"
           },
           {
             "type": "link",
             "label": "StringToCase",
-            "href": "/steps/next/Core/StringToCase",
+            "href": "/soda/steps/next/Core/StringToCase",
             "docId": "Core/StringToCase"
           },
           {
             "type": "link",
             "label": "StringToDate",
-            "href": "/steps/next/Core/StringToDate",
+            "href": "/soda/steps/next/Core/StringToDate",
             "docId": "Core/StringToDate"
           },
           {
             "type": "link",
             "label": "StringToDouble",
-            "href": "/steps/next/Core/StringToDouble",
+            "href": "/soda/steps/next/Core/StringToDouble",
             "docId": "Core/StringToDouble"
           },
           {
             "type": "link",
             "label": "StringToInt",
-            "href": "/steps/next/Core/StringToInt",
+            "href": "/soda/steps/next/Core/StringToInt",
             "docId": "Core/StringToInt"
           },
           {
             "type": "link",
             "label": "StringTrim",
-            "href": "/steps/next/Core/StringTrim",
+            "href": "/soda/steps/next/Core/StringTrim",
             "docId": "Core/StringTrim"
           },
           {
             "type": "link",
             "label": "Subtract",
-            "href": "/steps/next/Core/Subtract",
+            "href": "/soda/steps/next/Core/Subtract",
             "docId": "Core/Subtract"
           },
           {
             "type": "link",
             "label": "Sum",
-            "href": "/steps/next/Core/Sum",
+            "href": "/soda/steps/next/Core/Sum",
             "docId": "Core/Sum"
           },
           {
             "type": "link",
             "label": "Transform",
-            "href": "/steps/next/Core/Transform",
+            "href": "/soda/steps/next/Core/Transform",
             "docId": "Core/Transform"
           },
           {
             "type": "link",
             "label": "Try",
-            "href": "/steps/next/Core/Try",
+            "href": "/soda/steps/next/Core/Try",
             "docId": "Core/Try"
           },
           {
             "type": "link",
             "label": "Validate",
-            "href": "/steps/next/Core/Validate",
+            "href": "/soda/steps/next/Core/Validate",
             "docId": "Core/Validate"
           },
           {
             "type": "link",
             "label": "While",
-            "href": "/steps/next/Core/While",
+            "href": "/soda/steps/next/Core/While",
             "docId": "Core/While"
           }
         ],
-        "href": "/steps/next/Core"
+        "href": "/soda/steps/next/Core"
       },
       {
         "type": "category",
@@ -657,151 +657,151 @@
           {
             "type": "link",
             "label": "ArtifactType",
-            "href": "/steps/next/Enums/ArtifactType",
+            "href": "/soda/steps/next/Enums/ArtifactType",
             "docId": "Enums/ArtifactType"
           },
           {
             "type": "link",
             "label": "AutopsyCaseType",
-            "href": "/steps/next/Enums/AutopsyCaseType",
+            "href": "/soda/steps/next/Enums/AutopsyCaseType",
             "docId": "Enums/AutopsyCaseType"
           },
           {
             "type": "link",
             "label": "DeduplicateBy",
-            "href": "/steps/next/Enums/DeduplicateBy",
+            "href": "/soda/steps/next/Enums/DeduplicateBy",
             "docId": "Enums/DeduplicateBy"
           },
           {
             "type": "link",
             "label": "EncodingEnum",
-            "href": "/steps/next/Enums/EncodingEnum",
+            "href": "/soda/steps/next/Enums/EncodingEnum",
             "docId": "Enums/EncodingEnum"
           },
           {
             "type": "link",
             "label": "ErrorBehavior",
-            "href": "/steps/next/Enums/ErrorBehavior",
+            "href": "/soda/steps/next/Enums/ErrorBehavior",
             "docId": "Enums/ErrorBehavior"
           },
           {
             "type": "link",
             "label": "ExportDeduplication",
-            "href": "/steps/next/Enums/ExportDeduplication",
+            "href": "/soda/steps/next/Enums/ExportDeduplication",
             "docId": "Enums/ExportDeduplication"
           },
           {
             "type": "link",
             "label": "ExportSortOrder",
-            "href": "/steps/next/Enums/ExportSortOrder",
+            "href": "/soda/steps/next/Enums/ExportSortOrder",
             "docId": "Enums/ExportSortOrder"
           },
           {
             "type": "link",
             "label": "ExportTraversalStrategy",
-            "href": "/steps/next/Enums/ExportTraversalStrategy",
+            "href": "/soda/steps/next/Enums/ExportTraversalStrategy",
             "docId": "Enums/ExportTraversalStrategy"
           },
           {
             "type": "link",
             "label": "FileImportType",
-            "href": "/steps/next/Enums/FileImportType",
+            "href": "/soda/steps/next/Enums/FileImportType",
             "docId": "Enums/FileImportType"
           },
           {
             "type": "link",
             "label": "HashAlgorithm",
-            "href": "/steps/next/Enums/HashAlgorithm",
+            "href": "/soda/steps/next/Enums/HashAlgorithm",
             "docId": "Enums/HashAlgorithm"
           },
           {
             "type": "link",
             "label": "ImageFormat",
-            "href": "/steps/next/Enums/ImageFormat",
+            "href": "/soda/steps/next/Enums/ImageFormat",
             "docId": "Enums/ImageFormat"
           },
           {
             "type": "link",
             "label": "ItemSetDeduplication",
-            "href": "/steps/next/Enums/ItemSetDeduplication",
+            "href": "/soda/steps/next/Enums/ItemSetDeduplication",
             "docId": "Enums/ItemSetDeduplication"
           },
           {
             "type": "link",
             "label": "ItemSortOrder",
-            "href": "/steps/next/Enums/ItemSortOrder",
+            "href": "/soda/steps/next/Enums/ItemSortOrder",
             "docId": "Enums/ItemSortOrder"
           },
           {
             "type": "link",
             "label": "LoadFileType",
-            "href": "/steps/next/Enums/LoadFileType",
+            "href": "/soda/steps/next/Enums/LoadFileType",
             "docId": "Enums/LoadFileType"
           },
           {
             "type": "link",
             "label": "MatterStatus",
-            "href": "/steps/next/Enums/MatterStatus",
+            "href": "/soda/steps/next/Enums/MatterStatus",
             "docId": "Enums/MatterStatus"
           },
           {
             "type": "link",
             "label": "PrintPreviewState",
-            "href": "/steps/next/Enums/PrintPreviewState",
+            "href": "/soda/steps/next/Enums/PrintPreviewState",
             "docId": "Enums/PrintPreviewState"
           },
           {
             "type": "link",
             "label": "SearchScope",
-            "href": "/steps/next/Enums/SearchScope",
+            "href": "/soda/steps/next/Enums/SearchScope",
             "docId": "Enums/SearchScope"
           },
           {
             "type": "link",
             "label": "SearchType",
-            "href": "/steps/next/Enums/SearchType",
+            "href": "/soda/steps/next/Enums/SearchType",
             "docId": "Enums/SearchType"
           },
           {
             "type": "link",
             "label": "Severity",
-            "href": "/steps/next/Enums/Severity",
+            "href": "/soda/steps/next/Enums/Severity",
             "docId": "Enums/Severity"
           },
           {
             "type": "link",
             "label": "SizeUnit",
-            "href": "/steps/next/Enums/SizeUnit",
+            "href": "/soda/steps/next/Enums/SizeUnit",
             "docId": "Enums/SizeUnit"
           },
           {
             "type": "link",
             "label": "SortEnum",
-            "href": "/steps/next/Enums/SortEnum",
+            "href": "/soda/steps/next/Enums/SortEnum",
             "docId": "Enums/SortEnum"
           },
           {
             "type": "link",
             "label": "SortOrder",
-            "href": "/steps/next/Enums/SortOrder",
+            "href": "/soda/steps/next/Enums/SortOrder",
             "docId": "Enums/SortOrder"
           },
           {
             "type": "link",
             "label": "TextCase",
-            "href": "/steps/next/Enums/TextCase",
+            "href": "/soda/steps/next/Enums/TextCase",
             "docId": "Enums/TextCase"
           },
           {
             "type": "link",
             "label": "TrimSide",
-            "href": "/steps/next/Enums/TrimSide",
+            "href": "/soda/steps/next/Enums/TrimSide",
             "docId": "Enums/TrimSide"
           },
           {
             "type": "link",
             "label": "UpdateBehaviour",
-            "href": "/steps/next/Enums/UpdateBehaviour",
+            "href": "/soda/steps/next/Enums/UpdateBehaviour",
             "docId": "Enums/UpdateBehaviour"
           }
         ]
@@ -815,83 +815,83 @@
           {
             "type": "link",
             "label": "DeleteItem",
-            "href": "/steps/next/FileSystem/DeleteItem",
+            "href": "/soda/steps/next/FileSystem/DeleteItem",
             "docId": "FileSystem/DeleteItem"
           },
           {
             "type": "link",
             "label": "DirectoryCopy",
-            "href": "/steps/next/FileSystem/DirectoryCopy",
+            "href": "/soda/steps/next/FileSystem/DirectoryCopy",
             "docId": "FileSystem/DirectoryCopy"
           },
           {
             "type": "link",
             "label": "DirectoryCreate",
-            "href": "/steps/next/FileSystem/DirectoryCreate",
+            "href": "/soda/steps/next/FileSystem/DirectoryCreate",
             "docId": "FileSystem/DirectoryCreate"
           },
           {
             "type": "link",
             "label": "DirectoryExists",
-            "href": "/steps/next/FileSystem/DirectoryExists",
+            "href": "/soda/steps/next/FileSystem/DirectoryExists",
             "docId": "FileSystem/DirectoryExists"
           },
           {
             "type": "link",
             "label": "DirectoryGetItems",
-            "href": "/steps/next/FileSystem/DirectoryGetItems",
+            "href": "/soda/steps/next/FileSystem/DirectoryGetItems",
             "docId": "FileSystem/DirectoryGetItems"
           },
           {
             "type": "link",
             "label": "DirectoryMove",
-            "href": "/steps/next/FileSystem/DirectoryMove",
+            "href": "/soda/steps/next/FileSystem/DirectoryMove",
             "docId": "FileSystem/DirectoryMove"
           },
           {
             "type": "link",
             "label": "FileCopy",
-            "href": "/steps/next/FileSystem/FileCopy",
+            "href": "/soda/steps/next/FileSystem/FileCopy",
             "docId": "FileSystem/FileCopy"
           },
           {
             "type": "link",
             "label": "FileExists",
-            "href": "/steps/next/FileSystem/FileExists",
+            "href": "/soda/steps/next/FileSystem/FileExists",
             "docId": "FileSystem/FileExists"
           },
           {
             "type": "link",
             "label": "FileExtract",
-            "href": "/steps/next/FileSystem/FileExtract",
+            "href": "/soda/steps/next/FileSystem/FileExtract",
             "docId": "FileSystem/FileExtract"
           },
           {
             "type": "link",
             "label": "FileMove",
-            "href": "/steps/next/FileSystem/FileMove",
+            "href": "/soda/steps/next/FileSystem/FileMove",
             "docId": "FileSystem/FileMove"
           },
           {
             "type": "link",
             "label": "FileRead",
-            "href": "/steps/next/FileSystem/FileRead",
+            "href": "/soda/steps/next/FileSystem/FileRead",
             "docId": "FileSystem/FileRead"
           },
           {
             "type": "link",
             "label": "FileWrite",
-            "href": "/steps/next/FileSystem/FileWrite",
+            "href": "/soda/steps/next/FileSystem/FileWrite",
             "docId": "FileSystem/FileWrite"
           },
           {
             "type": "link",
             "label": "PathCombine",
-            "href": "/steps/next/FileSystem/PathCombine",
+            "href": "/soda/steps/next/FileSystem/PathCombine",
             "docId": "FileSystem/PathCombine"
           }
         ],
-        "href": "/steps/next/FileSystem"
+        "href": "/soda/steps/next/FileSystem"
       },
       {
         "type": "category",
@@ -902,53 +902,53 @@
           {
             "type": "link",
             "label": "M365ChannelMessagesRead",
-            "href": "/steps/next/Microsoft365/M365ChannelMessagesRead",
+            "href": "/soda/steps/next/Microsoft365/M365ChannelMessagesRead",
             "docId": "Microsoft365/M365ChannelMessagesRead"
           },
           {
             "type": "link",
             "label": "M365ChannelsRead",
-            "href": "/steps/next/Microsoft365/M365ChannelsRead",
+            "href": "/soda/steps/next/Microsoft365/M365ChannelsRead",
             "docId": "Microsoft365/M365ChannelsRead"
           },
           {
             "type": "link",
             "label": "M365ChatsRead",
-            "href": "/steps/next/Microsoft365/M365ChatsRead",
+            "href": "/soda/steps/next/Microsoft365/M365ChatsRead",
             "docId": "Microsoft365/M365ChatsRead"
           },
           {
             "type": "link",
             "label": "M365GetToken",
-            "href": "/steps/next/Microsoft365/M365GetToken",
+            "href": "/soda/steps/next/Microsoft365/M365GetToken",
             "docId": "Microsoft365/M365GetToken"
           },
           {
             "type": "link",
             "label": "M365Login",
-            "href": "/steps/next/Microsoft365/M365Login",
+            "href": "/soda/steps/next/Microsoft365/M365Login",
             "docId": "Microsoft365/M365Login"
           },
           {
             "type": "link",
             "label": "M365MailRead",
-            "href": "/steps/next/Microsoft365/M365MailRead",
+            "href": "/soda/steps/next/Microsoft365/M365MailRead",
             "docId": "Microsoft365/M365MailRead"
           },
           {
             "type": "link",
             "label": "M365TeamsRead",
-            "href": "/steps/next/Microsoft365/M365TeamsRead",
+            "href": "/soda/steps/next/Microsoft365/M365TeamsRead",
             "docId": "Microsoft365/M365TeamsRead"
           },
           {
             "type": "link",
             "label": "M365UsersRead",
-            "href": "/steps/next/Microsoft365/M365UsersRead",
+            "href": "/soda/steps/next/Microsoft365/M365UsersRead",
             "docId": "Microsoft365/M365UsersRead"
           }
         ],
-        "href": "/steps/next/Microsoft365"
+        "href": "/soda/steps/next/Microsoft365"
       },
       {
         "type": "category",
@@ -959,215 +959,215 @@
           {
             "type": "link",
             "label": "NuixAddConcordance",
-            "href": "/steps/next/Nuix/NuixAddConcordance",
+            "href": "/soda/steps/next/Nuix/NuixAddConcordance",
             "docId": "Nuix/NuixAddConcordance"
           },
           {
             "type": "link",
             "label": "NuixAddItem",
-            "href": "/steps/next/Nuix/NuixAddItem",
+            "href": "/soda/steps/next/Nuix/NuixAddItem",
             "docId": "Nuix/NuixAddItem"
           },
           {
             "type": "link",
             "label": "NuixAddToItemSet",
-            "href": "/steps/next/Nuix/NuixAddToItemSet",
+            "href": "/soda/steps/next/Nuix/NuixAddToItemSet",
             "docId": "Nuix/NuixAddToItemSet"
           },
           {
             "type": "link",
             "label": "NuixAddToProductionSet",
-            "href": "/steps/next/Nuix/NuixAddToProductionSet",
+            "href": "/soda/steps/next/Nuix/NuixAddToProductionSet",
             "docId": "Nuix/NuixAddToProductionSet"
           },
           {
             "type": "link",
             "label": "NuixAnnotateDocumentIdList",
-            "href": "/steps/next/Nuix/NuixAnnotateDocumentIdList",
+            "href": "/soda/steps/next/Nuix/NuixAnnotateDocumentIdList",
             "docId": "Nuix/NuixAnnotateDocumentIdList"
           },
           {
             "type": "link",
             "label": "NuixAssertPrintPreviewState",
-            "href": "/steps/next/Nuix/NuixAssertPrintPreviewState",
+            "href": "/soda/steps/next/Nuix/NuixAssertPrintPreviewState",
             "docId": "Nuix/NuixAssertPrintPreviewState"
           },
           {
             "type": "link",
             "label": "NuixAssignCustodian",
-            "href": "/steps/next/Nuix/NuixAssignCustodian",
+            "href": "/soda/steps/next/Nuix/NuixAssignCustodian",
             "docId": "Nuix/NuixAssignCustodian"
           },
           {
             "type": "link",
             "label": "NuixCloseConnection",
-            "href": "/steps/next/Nuix/NuixCloseConnection",
+            "href": "/soda/steps/next/Nuix/NuixCloseConnection",
             "docId": "Nuix/NuixCloseConnection"
           },
           {
             "type": "link",
             "label": "NuixCountItems",
-            "href": "/steps/next/Nuix/NuixCountItems",
+            "href": "/soda/steps/next/Nuix/NuixCountItems",
             "docId": "Nuix/NuixCountItems"
           },
           {
             "type": "link",
             "label": "NuixCreateCase",
-            "href": "/steps/next/Nuix/NuixCreateCase",
+            "href": "/soda/steps/next/Nuix/NuixCreateCase",
             "docId": "Nuix/NuixCreateCase"
           },
           {
             "type": "link",
             "label": "NuixCreateIrregularItemsReport",
-            "href": "/steps/next/Nuix/NuixCreateIrregularItemsReport",
+            "href": "/soda/steps/next/Nuix/NuixCreateIrregularItemsReport",
             "docId": "Nuix/NuixCreateIrregularItemsReport"
           },
           {
             "type": "link",
             "label": "NuixCreateNRTReport",
-            "href": "/steps/next/Nuix/NuixCreateNRTReport",
+            "href": "/soda/steps/next/Nuix/NuixCreateNRTReport",
             "docId": "Nuix/NuixCreateNRTReport"
           },
           {
             "type": "link",
             "label": "NuixCreateReport",
-            "href": "/steps/next/Nuix/NuixCreateReport",
+            "href": "/soda/steps/next/Nuix/NuixCreateReport",
             "docId": "Nuix/NuixCreateReport"
           },
           {
             "type": "link",
             "label": "NuixCreateTermList",
-            "href": "/steps/next/Nuix/NuixCreateTermList",
+            "href": "/soda/steps/next/Nuix/NuixCreateTermList",
             "docId": "Nuix/NuixCreateTermList"
           },
           {
             "type": "link",
             "label": "NuixDoesCaseExist",
-            "href": "/steps/next/Nuix/NuixDoesCaseExist",
+            "href": "/soda/steps/next/Nuix/NuixDoesCaseExist",
             "docId": "Nuix/NuixDoesCaseExist"
           },
           {
             "type": "link",
             "label": "NuixExcludeDecryptedItems",
-            "href": "/steps/next/Nuix/NuixExcludeDecryptedItems",
+            "href": "/soda/steps/next/Nuix/NuixExcludeDecryptedItems",
             "docId": "Nuix/NuixExcludeDecryptedItems"
           },
           {
             "type": "link",
             "label": "NuixExportConcordance",
-            "href": "/steps/next/Nuix/NuixExportConcordance",
+            "href": "/soda/steps/next/Nuix/NuixExportConcordance",
             "docId": "Nuix/NuixExportConcordance"
           },
           {
             "type": "link",
             "label": "NuixExtractEntities",
-            "href": "/steps/next/Nuix/NuixExtractEntities",
+            "href": "/soda/steps/next/Nuix/NuixExtractEntities",
             "docId": "Nuix/NuixExtractEntities"
           },
           {
             "type": "link",
             "label": "NuixGeneratePrintPreviews",
-            "href": "/steps/next/Nuix/NuixGeneratePrintPreviews",
+            "href": "/soda/steps/next/Nuix/NuixGeneratePrintPreviews",
             "docId": "Nuix/NuixGeneratePrintPreviews"
           },
           {
             "type": "link",
             "label": "NuixGetAuditedSize",
-            "href": "/steps/next/Nuix/NuixGetAuditedSize",
+            "href": "/soda/steps/next/Nuix/NuixGetAuditedSize",
             "docId": "Nuix/NuixGetAuditedSize"
           },
           {
             "type": "link",
             "label": "NuixGetCaseDetails",
-            "href": "/steps/next/Nuix/NuixGetCaseDetails",
+            "href": "/soda/steps/next/Nuix/NuixGetCaseDetails",
             "docId": "Nuix/NuixGetCaseDetails"
           },
           {
             "type": "link",
             "label": "NuixGetItemProperties",
-            "href": "/steps/next/Nuix/NuixGetItemProperties",
+            "href": "/soda/steps/next/Nuix/NuixGetItemProperties",
             "docId": "Nuix/NuixGetItemProperties"
           },
           {
             "type": "link",
             "label": "NuixGetLicenseDetails",
-            "href": "/steps/next/Nuix/NuixGetLicenseDetails",
+            "href": "/soda/steps/next/Nuix/NuixGetLicenseDetails",
             "docId": "Nuix/NuixGetLicenseDetails"
           },
           {
             "type": "link",
             "label": "NuixGetVersion",
-            "href": "/steps/next/Nuix/NuixGetVersion",
+            "href": "/soda/steps/next/Nuix/NuixGetVersion",
             "docId": "Nuix/NuixGetVersion"
           },
           {
             "type": "link",
             "label": "NuixImportDocumentIds",
-            "href": "/steps/next/Nuix/NuixImportDocumentIds",
+            "href": "/soda/steps/next/Nuix/NuixImportDocumentIds",
             "docId": "Nuix/NuixImportDocumentIds"
           },
           {
             "type": "link",
             "label": "NuixMigrateCase",
-            "href": "/steps/next/Nuix/NuixMigrateCase",
+            "href": "/soda/steps/next/Nuix/NuixMigrateCase",
             "docId": "Nuix/NuixMigrateCase"
           },
           {
             "type": "link",
             "label": "NuixOpenCase",
-            "href": "/steps/next/Nuix/NuixOpenCase",
+            "href": "/soda/steps/next/Nuix/NuixOpenCase",
             "docId": "Nuix/NuixOpenCase"
           },
           {
             "type": "link",
             "label": "NuixOpenConnection",
-            "href": "/steps/next/Nuix/NuixOpenConnection",
+            "href": "/soda/steps/next/Nuix/NuixOpenConnection",
             "docId": "Nuix/NuixOpenConnection"
           },
           {
             "type": "link",
             "label": "NuixPerformOCR",
-            "href": "/steps/next/Nuix/NuixPerformOCR",
+            "href": "/soda/steps/next/Nuix/NuixPerformOCR",
             "docId": "Nuix/NuixPerformOCR"
           },
           {
             "type": "link",
             "label": "NuixRemoveFromItemSet",
-            "href": "/steps/next/Nuix/NuixRemoveFromItemSet",
+            "href": "/soda/steps/next/Nuix/NuixRemoveFromItemSet",
             "docId": "Nuix/NuixRemoveFromItemSet"
           },
           {
             "type": "link",
             "label": "NuixRemoveFromProductionSet",
-            "href": "/steps/next/Nuix/NuixRemoveFromProductionSet",
+            "href": "/soda/steps/next/Nuix/NuixRemoveFromProductionSet",
             "docId": "Nuix/NuixRemoveFromProductionSet"
           },
           {
             "type": "link",
             "label": "NuixReorderProductionSet",
-            "href": "/steps/next/Nuix/NuixReorderProductionSet",
+            "href": "/soda/steps/next/Nuix/NuixReorderProductionSet",
             "docId": "Nuix/NuixReorderProductionSet"
           },
           {
             "type": "link",
             "label": "NuixRunScript",
-            "href": "/steps/next/Nuix/NuixRunScript",
+            "href": "/soda/steps/next/Nuix/NuixRunScript",
             "docId": "Nuix/NuixRunScript"
           },
           {
             "type": "link",
             "label": "NuixSearchAndExclude",
-            "href": "/steps/next/Nuix/NuixSearchAndExclude",
+            "href": "/soda/steps/next/Nuix/NuixSearchAndExclude",
             "docId": "Nuix/NuixSearchAndExclude"
           },
           {
             "type": "link",
             "label": "NuixSearchAndTag",
-            "href": "/steps/next/Nuix/NuixSearchAndTag",
+            "href": "/soda/steps/next/Nuix/NuixSearchAndTag",
             "docId": "Nuix/NuixSearchAndTag"
           }
         ],
-        "href": "/steps/next/Nuix"
+        "href": "/soda/steps/next/Nuix"
       },
       {
         "type": "category",
@@ -1178,17 +1178,17 @@
           {
             "type": "link",
             "label": "PwshRunScript",
-            "href": "/steps/next/Pwsh/PwshRunScript",
+            "href": "/soda/steps/next/Pwsh/PwshRunScript",
             "docId": "Pwsh/PwshRunScript"
           },
           {
             "type": "link",
             "label": "PwshRunScriptAsync",
-            "href": "/steps/next/Pwsh/PwshRunScriptAsync",
+            "href": "/soda/steps/next/Pwsh/PwshRunScriptAsync",
             "docId": "Pwsh/PwshRunScriptAsync"
           }
         ],
-        "href": "/steps/next/Pwsh"
+        "href": "/soda/steps/next/Pwsh"
       },
       {
         "type": "category",
@@ -1199,167 +1199,167 @@
           {
             "type": "link",
             "label": "RelativityCreateDynamicObjects",
-            "href": "/steps/next/Relativity/RelativityCreateDynamicObjects",
+            "href": "/soda/steps/next/Relativity/RelativityCreateDynamicObjects",
             "docId": "Relativity/RelativityCreateDynamicObjects"
           },
           {
             "type": "link",
             "label": "RelativityCreateField",
-            "href": "/steps/next/Relativity/RelativityCreateField",
+            "href": "/soda/steps/next/Relativity/RelativityCreateField",
             "docId": "Relativity/RelativityCreateField"
           },
           {
             "type": "link",
             "label": "RelativityCreateFolder",
-            "href": "/steps/next/Relativity/RelativityCreateFolder",
+            "href": "/soda/steps/next/Relativity/RelativityCreateFolder",
             "docId": "Relativity/RelativityCreateFolder"
           },
           {
             "type": "link",
             "label": "RelativityCreateKeywordSearch",
-            "href": "/steps/next/Relativity/RelativityCreateKeywordSearch",
+            "href": "/soda/steps/next/Relativity/RelativityCreateKeywordSearch",
             "docId": "Relativity/RelativityCreateKeywordSearch"
           },
           {
             "type": "link",
             "label": "RelativityCreateMatter",
-            "href": "/steps/next/Relativity/RelativityCreateMatter",
+            "href": "/soda/steps/next/Relativity/RelativityCreateMatter",
             "docId": "Relativity/RelativityCreateMatter"
           },
           {
             "type": "link",
             "label": "RelativityCreateWorkspace",
-            "href": "/steps/next/Relativity/RelativityCreateWorkspace",
+            "href": "/soda/steps/next/Relativity/RelativityCreateWorkspace",
             "docId": "Relativity/RelativityCreateWorkspace"
           },
           {
             "type": "link",
             "label": "RelativityDeleteDocument",
-            "href": "/steps/next/Relativity/RelativityDeleteDocument",
+            "href": "/soda/steps/next/Relativity/RelativityDeleteDocument",
             "docId": "Relativity/RelativityDeleteDocument"
           },
           {
             "type": "link",
             "label": "RelativityDeleteKeywordSearch",
-            "href": "/steps/next/Relativity/RelativityDeleteKeywordSearch",
+            "href": "/soda/steps/next/Relativity/RelativityDeleteKeywordSearch",
             "docId": "Relativity/RelativityDeleteKeywordSearch"
           },
           {
             "type": "link",
             "label": "RelativityDeleteMatter",
-            "href": "/steps/next/Relativity/RelativityDeleteMatter",
+            "href": "/soda/steps/next/Relativity/RelativityDeleteMatter",
             "docId": "Relativity/RelativityDeleteMatter"
           },
           {
             "type": "link",
             "label": "RelativityDeleteUnusedFolders",
-            "href": "/steps/next/Relativity/RelativityDeleteUnusedFolders",
+            "href": "/soda/steps/next/Relativity/RelativityDeleteUnusedFolders",
             "docId": "Relativity/RelativityDeleteUnusedFolders"
           },
           {
             "type": "link",
             "label": "RelativityDeleteWorkspace",
-            "href": "/steps/next/Relativity/RelativityDeleteWorkspace",
+            "href": "/soda/steps/next/Relativity/RelativityDeleteWorkspace",
             "docId": "Relativity/RelativityDeleteWorkspace"
           },
           {
             "type": "link",
             "label": "RelativityExport",
-            "href": "/steps/next/Relativity/RelativityExport",
+            "href": "/soda/steps/next/Relativity/RelativityExport",
             "docId": "Relativity/RelativityExport"
           },
           {
             "type": "link",
             "label": "RelativityGetClients",
-            "href": "/steps/next/Relativity/RelativityGetClients",
+            "href": "/soda/steps/next/Relativity/RelativityGetClients",
             "docId": "Relativity/RelativityGetClients"
           },
           {
             "type": "link",
             "label": "RelativityGetMatterStatuses",
-            "href": "/steps/next/Relativity/RelativityGetMatterStatuses",
+            "href": "/soda/steps/next/Relativity/RelativityGetMatterStatuses",
             "docId": "Relativity/RelativityGetMatterStatuses"
           },
           {
             "type": "link",
             "label": "RelativityGetSubfolders",
-            "href": "/steps/next/Relativity/RelativityGetSubfolders",
+            "href": "/soda/steps/next/Relativity/RelativityGetSubfolders",
             "docId": "Relativity/RelativityGetSubfolders"
           },
           {
             "type": "link",
             "label": "RelativityImport",
-            "href": "/steps/next/Relativity/RelativityImport",
+            "href": "/soda/steps/next/Relativity/RelativityImport",
             "docId": "Relativity/RelativityImport"
           },
           {
             "type": "link",
             "label": "RelativityImportEntities",
-            "href": "/steps/next/Relativity/RelativityImportEntities",
+            "href": "/soda/steps/next/Relativity/RelativityImportEntities",
             "docId": "Relativity/RelativityImportEntities"
           },
           {
             "type": "link",
             "label": "RelativityMoveFolder",
-            "href": "/steps/next/Relativity/RelativityMoveFolder",
+            "href": "/soda/steps/next/Relativity/RelativityMoveFolder",
             "docId": "Relativity/RelativityMoveFolder"
           },
           {
             "type": "link",
             "label": "RelativityReadKeywordSearch",
-            "href": "/steps/next/Relativity/RelativityReadKeywordSearch",
+            "href": "/soda/steps/next/Relativity/RelativityReadKeywordSearch",
             "docId": "Relativity/RelativityReadKeywordSearch"
           },
           {
             "type": "link",
             "label": "RelativityRetrieveMatter",
-            "href": "/steps/next/Relativity/RelativityRetrieveMatter",
+            "href": "/soda/steps/next/Relativity/RelativityRetrieveMatter",
             "docId": "Relativity/RelativityRetrieveMatter"
           },
           {
             "type": "link",
             "label": "RelativityRetrieveRootFolder",
-            "href": "/steps/next/Relativity/RelativityRetrieveRootFolder",
+            "href": "/soda/steps/next/Relativity/RelativityRetrieveRootFolder",
             "docId": "Relativity/RelativityRetrieveRootFolder"
           },
           {
             "type": "link",
             "label": "RelativityRetrieveWorkspace",
-            "href": "/steps/next/Relativity/RelativityRetrieveWorkspace",
+            "href": "/soda/steps/next/Relativity/RelativityRetrieveWorkspace",
             "docId": "Relativity/RelativityRetrieveWorkspace"
           },
           {
             "type": "link",
             "label": "RelativityRetrieveWorkspaceStatistics",
-            "href": "/steps/next/Relativity/RelativityRetrieveWorkspaceStatistics",
+            "href": "/soda/steps/next/Relativity/RelativityRetrieveWorkspaceStatistics",
             "docId": "Relativity/RelativityRetrieveWorkspaceStatistics"
           },
           {
             "type": "link",
             "label": "RelativitySendQuery",
-            "href": "/steps/next/Relativity/RelativitySendQuery",
+            "href": "/soda/steps/next/Relativity/RelativitySendQuery",
             "docId": "Relativity/RelativitySendQuery"
           },
           {
             "type": "link",
             "label": "RelativityUpdateFolder",
-            "href": "/steps/next/Relativity/RelativityUpdateFolder",
+            "href": "/soda/steps/next/Relativity/RelativityUpdateFolder",
             "docId": "Relativity/RelativityUpdateFolder"
           },
           {
             "type": "link",
             "label": "RelativityUpdateMatter",
-            "href": "/steps/next/Relativity/RelativityUpdateMatter",
+            "href": "/soda/steps/next/Relativity/RelativityUpdateMatter",
             "docId": "Relativity/RelativityUpdateMatter"
           },
           {
             "type": "link",
             "label": "RelativityUpdateObject",
-            "href": "/steps/next/Relativity/RelativityUpdateObject",
+            "href": "/soda/steps/next/Relativity/RelativityUpdateObject",
             "docId": "Relativity/RelativityUpdateObject"
           }
         ],
-        "href": "/steps/next/Relativity"
+        "href": "/soda/steps/next/Relativity"
       },
       {
         "type": "category",
@@ -1370,41 +1370,41 @@
           {
             "type": "link",
             "label": "RESTDelete",
-            "href": "/steps/next/Rest/RESTDelete",
+            "href": "/soda/steps/next/Rest/RESTDelete",
             "docId": "Rest/RESTDelete"
           },
           {
             "type": "link",
             "label": "RESTGetJSON",
-            "href": "/steps/next/Rest/RESTGetJSON",
+            "href": "/soda/steps/next/Rest/RESTGetJSON",
             "docId": "Rest/RESTGetJSON"
           },
           {
             "type": "link",
             "label": "RESTGetStream",
-            "href": "/steps/next/Rest/RESTGetStream",
+            "href": "/soda/steps/next/Rest/RESTGetStream",
             "docId": "Rest/RESTGetStream"
           },
           {
             "type": "link",
             "label": "RESTPatch",
-            "href": "/steps/next/Rest/RESTPatch",
+            "href": "/soda/steps/next/Rest/RESTPatch",
             "docId": "Rest/RESTPatch"
           },
           {
             "type": "link",
             "label": "RESTPost",
-            "href": "/steps/next/Rest/RESTPost",
+            "href": "/soda/steps/next/Rest/RESTPost",
             "docId": "Rest/RESTPost"
           },
           {
             "type": "link",
             "label": "RESTPut",
-            "href": "/steps/next/Rest/RESTPut",
+            "href": "/soda/steps/next/Rest/RESTPut",
             "docId": "Rest/RESTPut"
           }
         ],
-        "href": "/steps/next/Rest"
+        "href": "/soda/steps/next/Rest"
       },
       {
         "type": "category",
@@ -1415,11 +1415,11 @@
           {
             "type": "link",
             "label": "FromSinger",
-            "href": "/steps/next/Singer/FromSinger",
+            "href": "/soda/steps/next/Singer/FromSinger",
             "docId": "Singer/FromSinger"
           }
         ],
-        "href": "/steps/next/Singer"
+        "href": "/soda/steps/next/Singer"
       },
       {
         "type": "category",
@@ -1430,59 +1430,59 @@
           {
             "type": "link",
             "label": "CreateMsSQLConnectionString",
-            "href": "/steps/next/Sql/CreateMsSQLConnectionString",
+            "href": "/soda/steps/next/Sql/CreateMsSQLConnectionString",
             "docId": "Sql/CreateMsSQLConnectionString"
           },
           {
             "type": "link",
             "label": "CreateMySQLConnectionString",
-            "href": "/steps/next/Sql/CreateMySQLConnectionString",
+            "href": "/soda/steps/next/Sql/CreateMySQLConnectionString",
             "docId": "Sql/CreateMySQLConnectionString"
           },
           {
             "type": "link",
             "label": "CreatePostgresConnectionString",
-            "href": "/steps/next/Sql/CreatePostgresConnectionString",
+            "href": "/soda/steps/next/Sql/CreatePostgresConnectionString",
             "docId": "Sql/CreatePostgresConnectionString"
           },
           {
             "type": "link",
             "label": "OpenConnection",
-            "href": "/steps/next/Sql/OpenConnection",
+            "href": "/soda/steps/next/Sql/OpenConnection",
             "docId": "Sql/OpenConnection"
           },
           {
             "type": "link",
             "label": "SqlCommand",
-            "href": "/steps/next/Sql/SqlCommand",
+            "href": "/soda/steps/next/Sql/SqlCommand",
             "docId": "Sql/SqlCommand"
           },
           {
             "type": "link",
             "label": "SqlCreateSchemaFromTable",
-            "href": "/steps/next/Sql/SqlCreateSchemaFromTable",
+            "href": "/soda/steps/next/Sql/SqlCreateSchemaFromTable",
             "docId": "Sql/SqlCreateSchemaFromTable"
           },
           {
             "type": "link",
             "label": "SqlCreateTable",
-            "href": "/steps/next/Sql/SqlCreateTable",
+            "href": "/soda/steps/next/Sql/SqlCreateTable",
             "docId": "Sql/SqlCreateTable"
           },
           {
             "type": "link",
             "label": "SqlInsert",
-            "href": "/steps/next/Sql/SqlInsert",
+            "href": "/soda/steps/next/Sql/SqlInsert",
             "docId": "Sql/SqlInsert"
           },
           {
             "type": "link",
             "label": "SqlQuery",
-            "href": "/steps/next/Sql/SqlQuery",
+            "href": "/soda/steps/next/Sql/SqlQuery",
             "docId": "Sql/SqlQuery"
           }
         ],
-        "href": "/steps/next/Sql"
+        "href": "/soda/steps/next/Sql"
       },
       {
         "type": "category",
@@ -1493,101 +1493,101 @@
           {
             "type": "link",
             "label": "FromCSV",
-            "href": "/steps/next/StructuredData/FromCSV",
+            "href": "/soda/steps/next/StructuredData/FromCSV",
             "docId": "StructuredData/FromCSV"
           },
           {
             "type": "link",
             "label": "FromConcordance",
-            "href": "/steps/next/StructuredData/FromConcordance",
+            "href": "/soda/steps/next/StructuredData/FromConcordance",
             "docId": "StructuredData/FromConcordance"
           },
           {
             "type": "link",
             "label": "FromIDX",
-            "href": "/steps/next/StructuredData/FromIDX",
+            "href": "/soda/steps/next/StructuredData/FromIDX",
             "docId": "StructuredData/FromIDX"
           },
           {
             "type": "link",
             "label": "FromJson",
-            "href": "/steps/next/StructuredData/FromJson",
+            "href": "/soda/steps/next/StructuredData/FromJson",
             "docId": "StructuredData/FromJson"
           },
           {
             "type": "link",
             "label": "FromJsonArray",
-            "href": "/steps/next/StructuredData/FromJsonArray",
+            "href": "/soda/steps/next/StructuredData/FromJsonArray",
             "docId": "StructuredData/FromJsonArray"
           },
           {
             "type": "link",
             "label": "FromXml",
-            "href": "/steps/next/StructuredData/FromXml",
+            "href": "/soda/steps/next/StructuredData/FromXml",
             "docId": "StructuredData/FromXml"
           },
           {
             "type": "link",
             "label": "FromXmlArray",
-            "href": "/steps/next/StructuredData/FromXmlArray",
+            "href": "/soda/steps/next/StructuredData/FromXmlArray",
             "docId": "StructuredData/FromXmlArray"
           },
           {
             "type": "link",
             "label": "FromYaml",
-            "href": "/steps/next/StructuredData/FromYaml",
+            "href": "/soda/steps/next/StructuredData/FromYaml",
             "docId": "StructuredData/FromYaml"
           },
           {
             "type": "link",
             "label": "ToCSV",
-            "href": "/steps/next/StructuredData/ToCSV",
+            "href": "/soda/steps/next/StructuredData/ToCSV",
             "docId": "StructuredData/ToCSV"
           },
           {
             "type": "link",
             "label": "ToConcordance",
-            "href": "/steps/next/StructuredData/ToConcordance",
+            "href": "/soda/steps/next/StructuredData/ToConcordance",
             "docId": "StructuredData/ToConcordance"
           },
           {
             "type": "link",
             "label": "ToIDX",
-            "href": "/steps/next/StructuredData/ToIDX",
+            "href": "/soda/steps/next/StructuredData/ToIDX",
             "docId": "StructuredData/ToIDX"
           },
           {
             "type": "link",
             "label": "ToJson",
-            "href": "/steps/next/StructuredData/ToJson",
+            "href": "/soda/steps/next/StructuredData/ToJson",
             "docId": "StructuredData/ToJson"
           },
           {
             "type": "link",
             "label": "ToJsonArray",
-            "href": "/steps/next/StructuredData/ToJsonArray",
+            "href": "/soda/steps/next/StructuredData/ToJsonArray",
             "docId": "StructuredData/ToJsonArray"
           },
           {
             "type": "link",
             "label": "ToXml",
-            "href": "/steps/next/StructuredData/ToXml",
+            "href": "/soda/steps/next/StructuredData/ToXml",
             "docId": "StructuredData/ToXml"
           },
           {
             "type": "link",
             "label": "ToXmlArray",
-            "href": "/steps/next/StructuredData/ToXmlArray",
+            "href": "/soda/steps/next/StructuredData/ToXmlArray",
             "docId": "StructuredData/ToXmlArray"
           },
           {
             "type": "link",
             "label": "ToYaml",
-            "href": "/steps/next/StructuredData/ToYaml",
+            "href": "/soda/steps/next/StructuredData/ToYaml",
             "docId": "StructuredData/ToYaml"
           }
         ],
-        "href": "/steps/next/StructuredData"
+        "href": "/soda/steps/next/StructuredData"
       },
       {
         "type": "category",
@@ -1598,29 +1598,29 @@
           {
             "type": "link",
             "label": "AutopsyAddDataSource",
-            "href": "/steps/next/TSK/AutopsyAddDataSource",
+            "href": "/soda/steps/next/TSK/AutopsyAddDataSource",
             "docId": "TSK/AutopsyAddDataSource"
           },
           {
             "type": "link",
             "label": "AutopsyCreateNewCase",
-            "href": "/steps/next/TSK/AutopsyCreateNewCase",
+            "href": "/soda/steps/next/TSK/AutopsyCreateNewCase",
             "docId": "TSK/AutopsyCreateNewCase"
           },
           {
             "type": "link",
             "label": "AutopsyGenerateReports",
-            "href": "/steps/next/TSK/AutopsyGenerateReports",
+            "href": "/soda/steps/next/TSK/AutopsyGenerateReports",
             "docId": "TSK/AutopsyGenerateReports"
           },
           {
             "type": "link",
             "label": "AutopsyListDataSources",
-            "href": "/steps/next/TSK/AutopsyListDataSources",
+            "href": "/soda/steps/next/TSK/AutopsyListDataSources",
             "docId": "TSK/AutopsyListDataSources"
           }
         ],
-        "href": "/steps/next/TSK"
+        "href": "/soda/steps/next/TSK"
       },
       {
         "type": "category",
@@ -1631,17 +1631,17 @@
           {
             "type": "link",
             "label": "GetImageFormat",
-            "href": "/steps/next/Tesseract/GetImageFormat",
+            "href": "/soda/steps/next/Tesseract/GetImageFormat",
             "docId": "Tesseract/GetImageFormat"
           },
           {
             "type": "link",
             "label": "TesseractOCR",
-            "href": "/steps/next/Tesseract/TesseractOCR",
+            "href": "/soda/steps/next/Tesseract/TesseractOCR",
             "docId": "Tesseract/TesseractOCR"
           }
         ],
-        "href": "/steps/next/Tesseract"
+        "href": "/soda/steps/next/Tesseract"
       }
     ]
   },

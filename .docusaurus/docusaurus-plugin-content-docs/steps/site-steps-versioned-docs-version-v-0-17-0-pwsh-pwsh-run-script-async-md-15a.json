@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Pwsh/PwshRunScriptAsync.md",
   "sourceDirName": "Pwsh",
   "slug": "/Pwsh/PwshRunScriptAsync",
-  "permalink": "/steps/v0.17.0/Pwsh/PwshRunScriptAsync",
+  "permalink": "/soda/steps/v0.17.0/Pwsh/PwshRunScriptAsync",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Pwsh/PwshRunScriptAsync.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Pwsh/PwshRunScriptAsync.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Pwsh",
-      "permalink": "/steps/v0.17.0/tags/pwsh"
+      "permalink": "/soda/steps/v0.17.0/tags/pwsh"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "PwshRunScript",
-    "permalink": "/steps/v0.17.0/Pwsh/PwshRunScript"
+    "permalink": "/soda/steps/v0.17.0/Pwsh/PwshRunScript"
   },
   "next": {
     "title": "Relativity",
-    "permalink": "/steps/v0.17.0/Relativity"
+    "permalink": "/soda/steps/v0.17.0/Relativity"
   }
 }

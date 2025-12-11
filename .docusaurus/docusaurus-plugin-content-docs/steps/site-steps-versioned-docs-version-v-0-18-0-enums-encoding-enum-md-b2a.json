@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Enums/EncodingEnum.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/EncodingEnum",
-  "permalink": "/steps/Enums/EncodingEnum",
+  "permalink": "/soda/steps/Enums/EncodingEnum",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/EncodingEnum.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Enums/EncodingEnum.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/tags/enums"
+      "permalink": "/soda/steps/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/tags/unit"
+      "permalink": "/soda/steps/tags/unit"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "DeduplicateBy",
-    "permalink": "/steps/Enums/DeduplicateBy"
+    "permalink": "/soda/steps/Enums/DeduplicateBy"
   },
   "next": {
     "title": "ErrorBehavior",
-    "permalink": "/steps/Enums/ErrorBehavior"
+    "permalink": "/soda/steps/Enums/ErrorBehavior"
   }
 }

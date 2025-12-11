@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/filesystem/extract-an-archive.md",
   "sourceDirName": "examples/connectors/filesystem",
   "slug": "/examples/connectors/filesystem/extract-an-archive",
-  "permalink": "/docs/v0.16.0/examples/connectors/filesystem/extract-an-archive",
+  "permalink": "/soda/docs/v0.16.0/examples/connectors/filesystem/extract-an-archive",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/filesystem/extract-an-archive.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "File System Connector",
-    "permalink": "/docs/v0.16.0/examples/connectors/filesystem/"
+    "permalink": "/soda/docs/v0.16.0/examples/connectors/filesystem/"
   },
   "next": {
     "title": "Read a File",
-    "permalink": "/docs/v0.16.0/examples/connectors/filesystem/read-a-file"
+    "permalink": "/soda/docs/v0.16.0/examples/connectors/filesystem/read-a-file"
   }
 }

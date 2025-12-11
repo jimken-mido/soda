@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/HttpRequest.md",
   "sourceDirName": "Core",
   "slug": "/Core/HttpRequest",
-  "permalink": "/steps/next/Core/HttpRequest",
+  "permalink": "/soda/steps/next/Core/HttpRequest",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/HttpRequest.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/HttpRequest.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Hash",
-    "permalink": "/steps/next/Core/Hash"
+    "permalink": "/soda/steps/next/Core/Hash"
   },
   "next": {
     "title": "If",
-    "permalink": "/steps/next/Core/If"
+    "permalink": "/soda/steps/next/Core/If"
   }
 }

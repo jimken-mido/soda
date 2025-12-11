@@ -6,17 +6,17 @@
   "source": "@site/steps/Microsoft365/M365Login.md",
   "sourceDirName": "Microsoft365",
   "slug": "/Microsoft365/M365Login",
-  "permalink": "/steps/next/Microsoft365/M365Login",
+  "permalink": "/soda/steps/next/Microsoft365/M365Login",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Microsoft365/M365Login.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Microsoft365/M365Login.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Microsoft365",
-      "permalink": "/steps/next/tags/microsoft-365"
+      "permalink": "/soda/steps/next/tags/microsoft-365"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "M365GetToken",
-    "permalink": "/steps/next/Microsoft365/M365GetToken"
+    "permalink": "/soda/steps/next/Microsoft365/M365GetToken"
   },
   "next": {
     "title": "M365MailRead",
-    "permalink": "/steps/next/Microsoft365/M365MailRead"
+    "permalink": "/soda/steps/next/Microsoft365/M365MailRead"
   }
 }

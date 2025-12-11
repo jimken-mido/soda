@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/StructuredData/ToJson.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/ToJson",
-  "permalink": "/steps/v0.16.0/StructuredData/ToJson",
+  "permalink": "/soda/steps/v0.16.0/StructuredData/ToJson",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/StructuredData/ToJson.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/StructuredData/ToJson.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "StructuredData",
-      "permalink": "/steps/v0.16.0/tags/structured-data"
+      "permalink": "/soda/steps/v0.16.0/tags/structured-data"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ToIDX",
-    "permalink": "/steps/v0.16.0/StructuredData/ToIDX"
+    "permalink": "/soda/steps/v0.16.0/StructuredData/ToIDX"
   },
   "next": {
     "title": "ToJsonArray",
-    "permalink": "/steps/v0.16.0/StructuredData/ToJsonArray"
+    "permalink": "/soda/steps/v0.16.0/StructuredData/ToJsonArray"
   }
 }

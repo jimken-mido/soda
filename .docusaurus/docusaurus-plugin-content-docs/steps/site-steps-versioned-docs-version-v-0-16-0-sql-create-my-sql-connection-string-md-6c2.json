@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Sql/CreateMySQLConnectionString.md",
   "sourceDirName": "Sql",
   "slug": "/Sql/CreateMySQLConnectionString",
-  "permalink": "/steps/v0.16.0/Sql/CreateMySQLConnectionString",
+  "permalink": "/soda/steps/v0.16.0/Sql/CreateMySQLConnectionString",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Sql/CreateMySQLConnectionString.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Sql/CreateMySQLConnectionString.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Sql",
-      "permalink": "/steps/v0.16.0/tags/sql"
+      "permalink": "/soda/steps/v0.16.0/tags/sql"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "CreateMsSQLConnectionString",
-    "permalink": "/steps/v0.16.0/Sql/CreateMsSQLConnectionString"
+    "permalink": "/soda/steps/v0.16.0/Sql/CreateMsSQLConnectionString"
   },
   "next": {
     "title": "CreatePostgresConnectionString",
-    "permalink": "/steps/v0.16.0/Sql/CreatePostgresConnectionString"
+    "permalink": "/soda/steps/v0.16.0/Sql/CreatePostgresConnectionString"
   }
 }

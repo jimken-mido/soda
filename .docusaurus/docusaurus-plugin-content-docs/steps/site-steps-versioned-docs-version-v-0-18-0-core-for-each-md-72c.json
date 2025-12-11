@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/ForEach.md",
   "sourceDirName": "Core",
   "slug": "/Core/ForEach",
-  "permalink": "/steps/Core/ForEach",
+  "permalink": "/soda/steps/Core/ForEach",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/ForEach.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/ForEach.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "For",
-    "permalink": "/steps/Core/For"
+    "permalink": "/soda/steps/Core/For"
   },
   "next": {
     "title": "GetApplicationVersion",
-    "permalink": "/steps/Core/GetApplicationVersion"
+    "permalink": "/soda/steps/Core/GetApplicationVersion"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/StandardErrorWrite.md",
   "sourceDirName": "Core",
   "slug": "/Core/StandardErrorWrite",
-  "permalink": "/steps/v0.17.0/Core/StandardErrorWrite",
+  "permalink": "/soda/steps/v0.17.0/Core/StandardErrorWrite",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/StandardErrorWrite.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/StandardErrorWrite.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.17.0/tags/core"
+      "permalink": "/soda/steps/v0.17.0/tags/core"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "SetVariable",
-    "permalink": "/steps/v0.17.0/Core/SetVariable"
+    "permalink": "/soda/steps/v0.17.0/Core/SetVariable"
   },
   "next": {
     "title": "StandardInRead",
-    "permalink": "/steps/v0.17.0/Core/StandardInRead"
+    "permalink": "/soda/steps/v0.17.0/Core/StandardInRead"
   }
 }

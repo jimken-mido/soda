@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Microsoft365.md",
   "sourceDirName": ".",
   "slug": "/Microsoft365",
-  "permalink": "/steps/v0.17.0/Microsoft365",
+  "permalink": "/soda/steps/v0.17.0/Microsoft365",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Microsoft365.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Microsoft365.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/v0.17.0/tags/contents"
+      "permalink": "/soda/steps/v0.17.0/tags/contents"
     },
     {
       "label": "Microsoft365",
-      "permalink": "/steps/v0.17.0/tags/microsoft-365"
+      "permalink": "/soda/steps/v0.17.0/tags/microsoft-365"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "PathCombine",
-    "permalink": "/steps/v0.17.0/FileSystem/PathCombine"
+    "permalink": "/soda/steps/v0.17.0/FileSystem/PathCombine"
   },
   "next": {
     "title": "M365ChannelMessagesRead",
-    "permalink": "/steps/v0.17.0/Microsoft365/M365ChannelMessagesRead"
+    "permalink": "/soda/steps/v0.17.0/Microsoft365/M365ChannelMessagesRead"
   }
 }

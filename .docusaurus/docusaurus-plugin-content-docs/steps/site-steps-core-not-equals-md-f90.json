@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/NotEquals.md",
   "sourceDirName": "Core",
   "slug": "/Core/NotEquals",
-  "permalink": "/steps/next/Core/NotEquals",
+  "permalink": "/soda/steps/next/Core/NotEquals",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/NotEquals.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/NotEquals.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Not",
-    "permalink": "/steps/next/Core/Not"
+    "permalink": "/soda/steps/next/Core/Not"
   },
   "next": {
     "title": "Or",
-    "permalink": "/steps/next/Core/Or"
+    "permalink": "/soda/steps/next/Core/Or"
   }
 }

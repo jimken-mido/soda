@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/nuix/nuix-ingest-custom-profile.md",
   "sourceDirName": "examples/connectors/nuix",
   "slug": "/examples/connectors/nuix/nuix-ingest-custom-profile",
-  "permalink": "/docs/next/examples/connectors/nuix/nuix-ingest-custom-profile",
+  "permalink": "/soda/docs/next/examples/connectors/nuix/nuix-ingest-custom-profile",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/nuix/nuix-ingest-custom-profile.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Download Sample Data",
-    "permalink": "/docs/next/examples/connectors/nuix/nuix-download-sample-data"
+    "permalink": "/soda/docs/next/examples/connectors/nuix/nuix-download-sample-data"
   },
   "next": {
     "title": "Search and Tag Items",
-    "permalink": "/docs/next/examples/connectors/nuix/nuix-search-and-tag"
+    "permalink": "/soda/docs/next/examples/connectors/nuix/nuix-search-and-tag"
   }
 }

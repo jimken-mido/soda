@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Round.md",
   "sourceDirName": "Core",
   "slug": "/Core/Round",
-  "permalink": "/steps/Core/Round",
+  "permalink": "/soda/steps/Core/Round",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/Round.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/Round.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Repeat",
-    "permalink": "/steps/Core/Repeat"
+    "permalink": "/soda/steps/Core/Repeat"
   },
   "next": {
     "title": "RunExternalProcess",
-    "permalink": "/steps/Core/RunExternalProcess"
+    "permalink": "/soda/steps/Core/RunExternalProcess"
   }
 }

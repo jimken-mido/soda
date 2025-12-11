@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/StringInterpolate.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringInterpolate",
-  "permalink": "/steps/next/Core/StringInterpolate",
+  "permalink": "/soda/steps/next/Core/StringInterpolate",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringInterpolate.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StringInterpolate.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringFindLast",
-    "permalink": "/steps/next/Core/StringFindLast"
+    "permalink": "/soda/steps/next/Core/StringFindLast"
   },
   "next": {
     "title": "StringIsEmpty",
-    "permalink": "/steps/next/Core/StringIsEmpty"
+    "permalink": "/soda/steps/next/Core/StringIsEmpty"
   }
 }

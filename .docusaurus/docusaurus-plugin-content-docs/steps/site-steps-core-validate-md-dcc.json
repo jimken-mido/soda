@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/Validate.md",
   "sourceDirName": "Core",
   "slug": "/Core/Validate",
-  "permalink": "/steps/next/Core/Validate",
+  "permalink": "/soda/steps/next/Core/Validate",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/Validate.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/Validate.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Try",
-    "permalink": "/steps/next/Core/Try"
+    "permalink": "/soda/steps/next/Core/Try"
   },
   "next": {
     "title": "While",
-    "permalink": "/steps/next/Core/While"
+    "permalink": "/soda/steps/next/Core/While"
   }
 }

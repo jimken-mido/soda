@@ -6,17 +6,17 @@
   "source": "@site/steps/FileSystem/FileExists.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/FileExists",
-  "permalink": "/steps/next/FileSystem/FileExists",
+  "permalink": "/soda/steps/next/FileSystem/FileExists",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/FileSystem/FileExists.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/FileSystem/FileExists.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "FileSystem",
-      "permalink": "/steps/next/tags/file-system"
+      "permalink": "/soda/steps/next/tags/file-system"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "FileCopy",
-    "permalink": "/steps/next/FileSystem/FileCopy"
+    "permalink": "/soda/steps/next/FileSystem/FileCopy"
   },
   "next": {
     "title": "FileExtract",
-    "permalink": "/steps/next/FileSystem/FileExtract"
+    "permalink": "/soda/steps/next/FileSystem/FileExtract"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Divide.md",
   "sourceDirName": "Core",
   "slug": "/Core/Divide",
-  "permalink": "/steps/v0.16.0/Core/Divide",
+  "permalink": "/soda/steps/v0.16.0/Core/Divide",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Divide.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/Divide.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.16.0/tags/core"
+      "permalink": "/soda/steps/v0.16.0/tags/core"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Delay",
-    "permalink": "/steps/v0.16.0/Core/Delay"
+    "permalink": "/soda/steps/v0.16.0/Core/Delay"
   },
   "next": {
     "title": "DoNothing",
-    "permalink": "/steps/v0.16.0/Core/DoNothing"
+    "permalink": "/soda/steps/v0.16.0/Core/DoNothing"
   }
 }

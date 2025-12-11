@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Tesseract.md",
   "sourceDirName": ".",
   "slug": "/Tesseract",
-  "permalink": "/steps/Tesseract",
+  "permalink": "/soda/steps/Tesseract",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Tesseract.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Tesseract.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/tags/contents"
+      "permalink": "/soda/steps/tags/contents"
     },
     {
       "label": "Tesseract",
-      "permalink": "/steps/tags/tesseract"
+      "permalink": "/soda/steps/tags/tesseract"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "AutopsyListDataSources",
-    "permalink": "/steps/TSK/AutopsyListDataSources"
+    "permalink": "/soda/steps/TSK/AutopsyListDataSources"
   },
   "next": {
     "title": "GetImageFormat",
-    "permalink": "/steps/Tesseract/GetImageFormat"
+    "permalink": "/soda/steps/Tesseract/GetImageFormat"
   }
 }

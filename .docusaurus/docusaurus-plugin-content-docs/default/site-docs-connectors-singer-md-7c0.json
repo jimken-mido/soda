@@ -6,7 +6,7 @@
   "source": "@site/docs/connectors/singer.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/singer",
-  "permalink": "/docs/next/connectors/singer",
+  "permalink": "/soda/docs/next/connectors/singer",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/singer.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "REST Connector",
-    "permalink": "/docs/next/connectors/rest"
+    "permalink": "/soda/docs/next/connectors/rest"
   },
   "next": {
     "title": "SQL Connector",
-    "permalink": "/docs/next/connectors/sql"
+    "permalink": "/soda/docs/next/connectors/sql"
   }
 }

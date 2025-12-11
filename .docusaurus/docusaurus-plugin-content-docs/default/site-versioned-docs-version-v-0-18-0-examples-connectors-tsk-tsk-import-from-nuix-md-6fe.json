@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/tsk/tsk-import-from-nuix.md",
   "sourceDirName": "examples/connectors/tsk",
   "slug": "/examples/connectors/tsk/tsk-import-from-nuix",
-  "permalink": "/docs/examples/connectors/tsk/tsk-import-from-nuix",
+  "permalink": "/soda/docs/examples/connectors/tsk/tsk-import-from-nuix",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/tsk/tsk-import-from-nuix.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Generate Reports for Autopsy Case",
-    "permalink": "/docs/examples/connectors/tsk/tsk-create-reports"
+    "permalink": "/soda/docs/examples/connectors/tsk/tsk-create-reports"
   },
   "next": {
     "title": "Schemas",
-    "permalink": "/docs/examples/schema-examples"
+    "permalink": "/soda/docs/examples/schema-examples"
   }
 }

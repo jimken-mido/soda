@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/ArrayFind.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayFind",
-  "permalink": "/steps/next/Core/ArrayFind",
+  "permalink": "/soda/steps/next/Core/ArrayFind",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/ArrayFind.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayFind.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ArrayFilter",
-    "permalink": "/steps/next/Core/ArrayFilter"
+    "permalink": "/soda/steps/next/Core/ArrayFilter"
   },
   "next": {
     "title": "ArrayFirst",
-    "permalink": "/steps/next/Core/ArrayFirst"
+    "permalink": "/soda/steps/next/Core/ArrayFirst"
   }
 }

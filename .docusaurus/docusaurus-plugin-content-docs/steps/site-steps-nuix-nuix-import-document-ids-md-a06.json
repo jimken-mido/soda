@@ -6,17 +6,17 @@
   "source": "@site/steps/Nuix/NuixImportDocumentIds.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixImportDocumentIds",
-  "permalink": "/steps/next/Nuix/NuixImportDocumentIds",
+  "permalink": "/soda/steps/next/Nuix/NuixImportDocumentIds",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixImportDocumentIds.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixImportDocumentIds.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/next/tags/nuix"
+      "permalink": "/soda/steps/next/tags/nuix"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixGetVersion",
-    "permalink": "/steps/next/Nuix/NuixGetVersion"
+    "permalink": "/soda/steps/next/Nuix/NuixGetVersion"
   },
   "next": {
     "title": "NuixMigrateCase",
-    "permalink": "/steps/next/Nuix/NuixMigrateCase"
+    "permalink": "/soda/steps/next/Nuix/NuixMigrateCase"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixOpenConnection.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixOpenConnection",
-  "permalink": "/steps/Nuix/NuixOpenConnection",
+  "permalink": "/soda/steps/Nuix/NuixOpenConnection",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixOpenConnection.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Nuix/NuixOpenConnection.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/tags/nuix"
+      "permalink": "/soda/steps/tags/nuix"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixOpenCase",
-    "permalink": "/steps/Nuix/NuixOpenCase"
+    "permalink": "/soda/steps/Nuix/NuixOpenCase"
   },
   "next": {
     "title": "NuixPerformOCR",
-    "permalink": "/steps/Nuix/NuixPerformOCR"
+    "permalink": "/soda/steps/Nuix/NuixPerformOCR"
   }
 }

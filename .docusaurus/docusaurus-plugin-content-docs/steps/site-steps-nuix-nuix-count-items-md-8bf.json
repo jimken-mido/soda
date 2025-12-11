@@ -6,17 +6,17 @@
   "source": "@site/steps/Nuix/NuixCountItems.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCountItems",
-  "permalink": "/steps/next/Nuix/NuixCountItems",
+  "permalink": "/soda/steps/next/Nuix/NuixCountItems",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixCountItems.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixCountItems.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/next/tags/nuix"
+      "permalink": "/soda/steps/next/tags/nuix"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixCloseConnection",
-    "permalink": "/steps/next/Nuix/NuixCloseConnection"
+    "permalink": "/soda/steps/next/Nuix/NuixCloseConnection"
   },
   "next": {
     "title": "NuixCreateCase",
-    "permalink": "/steps/next/Nuix/NuixCreateCase"
+    "permalink": "/soda/steps/next/Nuix/NuixCreateCase"
   }
 }

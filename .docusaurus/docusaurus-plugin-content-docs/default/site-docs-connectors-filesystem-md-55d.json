@@ -6,7 +6,7 @@
   "source": "@site/docs/connectors/filesystem.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/filesystem",
-  "permalink": "/docs/next/connectors/filesystem",
+  "permalink": "/soda/docs/next/connectors/filesystem",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/filesystem.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Core",
-    "permalink": "/docs/next/connectors/core"
+    "permalink": "/soda/docs/next/connectors/core"
   },
   "next": {
     "title": "Microsoft365 Connector",
-    "permalink": "/docs/next/connectors/microsoft365"
+    "permalink": "/soda/docs/next/connectors/microsoft365"
   }
 }

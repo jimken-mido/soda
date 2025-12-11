@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/ArraySkip.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArraySkip",
-  "permalink": "/steps/next/Core/ArraySkip",
+  "permalink": "/soda/steps/next/Core/ArraySkip",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/ArraySkip.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArraySkip.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ArrayReverse",
-    "permalink": "/steps/next/Core/ArrayReverse"
+    "permalink": "/soda/steps/next/Core/ArrayReverse"
   },
   "next": {
     "title": "ArraySort",
-    "permalink": "/steps/next/Core/ArraySort"
+    "permalink": "/soda/steps/next/Core/ArraySort"
   }
 }

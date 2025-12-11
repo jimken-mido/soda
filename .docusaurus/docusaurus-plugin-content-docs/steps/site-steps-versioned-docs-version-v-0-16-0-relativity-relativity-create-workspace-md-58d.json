@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity/RelativityCreateWorkspace.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityCreateWorkspace",
-  "permalink": "/steps/v0.16.0/Relativity/RelativityCreateWorkspace",
+  "permalink": "/soda/steps/v0.16.0/Relativity/RelativityCreateWorkspace",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Relativity/RelativityCreateWorkspace.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Relativity/RelativityCreateWorkspace.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/v0.16.0/tags/relativity"
+      "permalink": "/soda/steps/v0.16.0/tags/relativity"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityCreateMatter",
-    "permalink": "/steps/v0.16.0/Relativity/RelativityCreateMatter"
+    "permalink": "/soda/steps/v0.16.0/Relativity/RelativityCreateMatter"
   },
   "next": {
     "title": "RelativityDeleteDocument",
-    "permalink": "/steps/v0.16.0/Relativity/RelativityDeleteDocument"
+    "permalink": "/soda/steps/v0.16.0/Relativity/RelativityDeleteDocument"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixRunScript.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixRunScript",
-  "permalink": "/steps/Nuix/NuixRunScript",
+  "permalink": "/soda/steps/Nuix/NuixRunScript",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixRunScript.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Nuix/NuixRunScript.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/tags/nuix"
+      "permalink": "/soda/steps/tags/nuix"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixReorderProductionSet",
-    "permalink": "/steps/Nuix/NuixReorderProductionSet"
+    "permalink": "/soda/steps/Nuix/NuixReorderProductionSet"
   },
   "next": {
     "title": "NuixSearchAndExclude",
-    "permalink": "/steps/Nuix/NuixSearchAndExclude"
+    "permalink": "/soda/steps/Nuix/NuixSearchAndExclude"
   }
 }

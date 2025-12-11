@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/FileSystem/DeleteItem.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/DeleteItem",
-  "permalink": "/steps/v0.17.0/FileSystem/DeleteItem",
+  "permalink": "/soda/steps/v0.17.0/FileSystem/DeleteItem",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/FileSystem/DeleteItem.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/FileSystem/DeleteItem.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "FileSystem",
-      "permalink": "/steps/v0.17.0/tags/file-system"
+      "permalink": "/soda/steps/v0.17.0/tags/file-system"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "FileSystem",
-    "permalink": "/steps/v0.17.0/FileSystem"
+    "permalink": "/soda/steps/v0.17.0/FileSystem"
   },
   "next": {
     "title": "DirectoryCopy",
-    "permalink": "/steps/v0.17.0/FileSystem/DirectoryCopy"
+    "permalink": "/soda/steps/v0.17.0/FileSystem/DirectoryCopy"
   }
 }

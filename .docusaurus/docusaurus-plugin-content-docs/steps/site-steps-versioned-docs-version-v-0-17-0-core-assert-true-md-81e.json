@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/AssertTrue.md",
   "sourceDirName": "Core",
   "slug": "/Core/AssertTrue",
-  "permalink": "/steps/v0.17.0/Core/AssertTrue",
+  "permalink": "/soda/steps/v0.17.0/Core/AssertTrue",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/AssertTrue.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/AssertTrue.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.17.0/tags/core"
+      "permalink": "/soda/steps/v0.17.0/tags/core"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "AssertError",
-    "permalink": "/steps/v0.17.0/Core/AssertError"
+    "permalink": "/soda/steps/v0.17.0/Core/AssertError"
   },
   "next": {
     "title": "CharAtIndex",
-    "permalink": "/steps/v0.17.0/Core/CharAtIndex"
+    "permalink": "/soda/steps/v0.17.0/Core/CharAtIndex"
   }
 }

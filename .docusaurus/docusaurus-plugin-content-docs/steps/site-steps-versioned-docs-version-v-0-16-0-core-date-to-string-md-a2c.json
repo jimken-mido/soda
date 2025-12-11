@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/DateToString.md",
   "sourceDirName": "Core",
   "slug": "/Core/DateToString",
-  "permalink": "/steps/v0.16.0/Core/DateToString",
+  "permalink": "/soda/steps/v0.16.0/Core/DateToString",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/DateToString.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/DateToString.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.16.0/tags/core"
+      "permalink": "/soda/steps/v0.16.0/tags/core"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ConvertSizeUnits",
-    "permalink": "/steps/v0.16.0/Core/ConvertSizeUnits"
+    "permalink": "/soda/steps/v0.16.0/Core/ConvertSizeUnits"
   },
   "next": {
     "title": "Delay",
-    "permalink": "/steps/v0.16.0/Core/Delay"
+    "permalink": "/soda/steps/v0.16.0/Core/Delay"
   }
 }

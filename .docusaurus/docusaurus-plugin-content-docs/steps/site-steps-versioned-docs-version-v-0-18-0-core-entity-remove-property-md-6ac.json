@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/EntityRemoveProperty.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntityRemoveProperty",
-  "permalink": "/steps/Core/EntityRemoveProperty",
+  "permalink": "/soda/steps/Core/EntityRemoveProperty",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/EntityRemoveProperty.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/EntityRemoveProperty.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "EntityMapProperties",
-    "permalink": "/steps/Core/EntityMapProperties"
+    "permalink": "/soda/steps/Core/EntityMapProperties"
   },
   "next": {
     "title": "EntitySetValue",
-    "permalink": "/steps/Core/EntitySetValue"
+    "permalink": "/soda/steps/Core/EntitySetValue"
   }
 }

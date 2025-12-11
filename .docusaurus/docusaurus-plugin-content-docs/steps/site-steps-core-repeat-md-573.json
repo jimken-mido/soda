@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/Repeat.md",
   "sourceDirName": "Core",
   "slug": "/Core/Repeat",
-  "permalink": "/steps/next/Core/Repeat",
+  "permalink": "/soda/steps/next/Core/Repeat",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/Repeat.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/Repeat.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Product",
-    "permalink": "/steps/next/Core/Product"
+    "permalink": "/soda/steps/next/Core/Product"
   },
   "next": {
     "title": "Round",
-    "permalink": "/steps/next/Core/Round"
+    "permalink": "/soda/steps/next/Core/Round"
   }
 }

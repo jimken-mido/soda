@@ -6,17 +6,17 @@
   "source": "@site/steps/FileSystem/PathCombine.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/PathCombine",
-  "permalink": "/steps/next/FileSystem/PathCombine",
+  "permalink": "/soda/steps/next/FileSystem/PathCombine",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/FileSystem/PathCombine.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/FileSystem/PathCombine.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "FileSystem",
-      "permalink": "/steps/next/tags/file-system"
+      "permalink": "/soda/steps/next/tags/file-system"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "FileWrite",
-    "permalink": "/steps/next/FileSystem/FileWrite"
+    "permalink": "/soda/steps/next/FileSystem/FileWrite"
   },
   "next": {
     "title": "Microsoft365",
-    "permalink": "/steps/next/Microsoft365"
+    "permalink": "/soda/steps/next/Microsoft365"
   }
 }

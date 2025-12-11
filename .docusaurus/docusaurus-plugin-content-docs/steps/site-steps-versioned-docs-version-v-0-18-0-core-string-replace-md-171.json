@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringReplace.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringReplace",
-  "permalink": "/steps/Core/StringReplace",
+  "permalink": "/soda/steps/Core/StringReplace",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StringReplace.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/StringReplace.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringMatch",
-    "permalink": "/steps/Core/StringMatch"
+    "permalink": "/soda/steps/Core/StringMatch"
   },
   "next": {
     "title": "StringSplit",
-    "permalink": "/steps/Core/StringSplit"
+    "permalink": "/soda/steps/Core/StringSplit"
   }
 }

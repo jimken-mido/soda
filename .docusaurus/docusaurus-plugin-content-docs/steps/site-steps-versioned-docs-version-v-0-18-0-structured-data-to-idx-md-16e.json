@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/StructuredData/ToIDX.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/ToIDX",
-  "permalink": "/steps/StructuredData/ToIDX",
+  "permalink": "/soda/steps/StructuredData/ToIDX",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/StructuredData/ToIDX.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/StructuredData/ToIDX.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "StructuredData",
-      "permalink": "/steps/tags/structured-data"
+      "permalink": "/soda/steps/tags/structured-data"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ToConcordance",
-    "permalink": "/steps/StructuredData/ToConcordance"
+    "permalink": "/soda/steps/StructuredData/ToConcordance"
   },
   "next": {
     "title": "ToJson",
-    "permalink": "/steps/StructuredData/ToJson"
+    "permalink": "/soda/steps/StructuredData/ToJson"
   }
 }

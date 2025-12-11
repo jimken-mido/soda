@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Sql.md",
   "sourceDirName": ".",
   "slug": "/Sql",
-  "permalink": "/steps/Sql",
+  "permalink": "/soda/steps/Sql",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Sql.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Sql.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/tags/contents"
+      "permalink": "/soda/steps/tags/contents"
     },
     {
       "label": "Sql",
-      "permalink": "/steps/tags/sql"
+      "permalink": "/soda/steps/tags/sql"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "FromSinger",
-    "permalink": "/steps/Singer/FromSinger"
+    "permalink": "/soda/steps/Singer/FromSinger"
   },
   "next": {
     "title": "CreateMsSQLConnectionString",
-    "permalink": "/steps/Sql/CreateMsSQLConnectionString"
+    "permalink": "/soda/steps/Sql/CreateMsSQLConnectionString"
   }
 }

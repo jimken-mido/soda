@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.17.0/application-settings.md",
   "sourceDirName": ".",
   "slug": "/application-settings",
-  "permalink": "/docs/v0.17.0/application-settings",
+  "permalink": "/soda/docs/v0.17.0/application-settings",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/application-settings.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "USSEC Schema",
-    "permalink": "/docs/v0.17.0/examples/schemas/ussec-schema"
+    "permalink": "/soda/docs/v0.17.0/examples/schemas/ussec-schema"
   },
   "next": {
     "title": "Logging",
-    "permalink": "/docs/v0.17.0/logging"
+    "permalink": "/soda/docs/v0.17.0/logging"
   }
 }

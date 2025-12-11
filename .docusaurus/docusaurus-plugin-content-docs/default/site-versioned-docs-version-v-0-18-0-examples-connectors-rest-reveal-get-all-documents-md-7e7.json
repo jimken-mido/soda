@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/rest/reveal-get-all-documents.md",
   "sourceDirName": "examples/connectors/rest",
   "slug": "/examples/connectors/rest/reveal-get-all-documents",
-  "permalink": "/docs/examples/connectors/rest/reveal-get-all-documents",
+  "permalink": "/soda/docs/examples/connectors/rest/reveal-get-all-documents",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/rest/reveal-get-all-documents.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Create Reveal Folder",
-    "permalink": "/docs/examples/connectors/rest/reveal-create-folder"
+    "permalink": "/soda/docs/examples/connectors/rest/reveal-create-folder"
   },
   "next": {
     "title": "Get All Reveal Fields",
-    "permalink": "/docs/examples/connectors/rest/reveal-get-all-fields"
+    "permalink": "/soda/docs/examples/connectors/rest/reveal-get-all-fields"
   }
 }

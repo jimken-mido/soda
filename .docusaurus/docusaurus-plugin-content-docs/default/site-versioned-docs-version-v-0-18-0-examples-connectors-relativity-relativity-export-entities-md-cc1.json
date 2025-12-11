@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-export-entities.md",
   "sourceDirName": "examples/connectors/relativity",
   "slug": "/examples/connectors/relativity/relativity-export-entities",
-  "permalink": "/docs/examples/connectors/relativity/relativity-export-entities",
+  "permalink": "/soda/docs/examples/connectors/relativity/relativity-export-entities",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-export-entities.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "End to End Example",
-    "permalink": "/docs/examples/connectors/relativity/relativity-end-to-end"
+    "permalink": "/soda/docs/examples/connectors/relativity/relativity-end-to-end"
   },
   "next": {
     "title": "Import Concordance",
-    "permalink": "/docs/examples/connectors/relativity/relativity-import-concordance"
+    "permalink": "/soda/docs/examples/connectors/relativity/relativity-import-concordance"
   }
 }

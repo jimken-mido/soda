@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Enums/SizeUnit.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/SizeUnit",
-  "permalink": "/steps/Enums/SizeUnit",
+  "permalink": "/soda/steps/Enums/SizeUnit",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/SizeUnit.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Enums/SizeUnit.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/tags/enums"
+      "permalink": "/soda/steps/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/tags/unit"
+      "permalink": "/soda/steps/tags/unit"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Severity",
-    "permalink": "/steps/Enums/Severity"
+    "permalink": "/soda/steps/Enums/Severity"
   },
   "next": {
     "title": "SortEnum",
-    "permalink": "/steps/Enums/SortEnum"
+    "permalink": "/soda/steps/Enums/SortEnum"
   }
 }

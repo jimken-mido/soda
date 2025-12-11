@@ -6,17 +6,17 @@
   "source": "@site/steps/Nuix/NuixRemoveFromItemSet.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixRemoveFromItemSet",
-  "permalink": "/steps/next/Nuix/NuixRemoveFromItemSet",
+  "permalink": "/soda/steps/next/Nuix/NuixRemoveFromItemSet",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixRemoveFromItemSet.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixRemoveFromItemSet.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/next/tags/nuix"
+      "permalink": "/soda/steps/next/tags/nuix"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixPerformOCR",
-    "permalink": "/steps/next/Nuix/NuixPerformOCR"
+    "permalink": "/soda/steps/next/Nuix/NuixPerformOCR"
   },
   "next": {
     "title": "NuixRemoveFromProductionSet",
-    "permalink": "/steps/next/Nuix/NuixRemoveFromProductionSet"
+    "permalink": "/soda/steps/next/Nuix/NuixRemoveFromProductionSet"
   }
 }

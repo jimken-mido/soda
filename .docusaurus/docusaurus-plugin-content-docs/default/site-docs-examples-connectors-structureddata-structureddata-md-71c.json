@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/structureddata/structureddata.md",
   "sourceDirName": "examples/connectors/structureddata",
   "slug": "/examples/connectors/structureddata/",
-  "permalink": "/docs/next/examples/connectors/structureddata/",
+  "permalink": "/soda/docs/next/examples/connectors/structureddata/",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/structureddata/structureddata.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Read Data from a SQL Table",
-    "permalink": "/docs/next/examples/connectors/sql/read-data-from-table"
+    "permalink": "/soda/docs/next/examples/connectors/sql/read-data-from-table"
   },
   "next": {
     "title": "Validate Concordance File Using a Schema",
-    "permalink": "/docs/next/examples/connectors/structureddata/concordance"
+    "permalink": "/soda/docs/next/examples/connectors/structureddata/concordance"
   }
 }

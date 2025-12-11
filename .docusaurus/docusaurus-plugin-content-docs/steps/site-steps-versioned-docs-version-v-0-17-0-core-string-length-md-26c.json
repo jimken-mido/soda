@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/StringLength.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringLength",
-  "permalink": "/steps/v0.17.0/Core/StringLength",
+  "permalink": "/soda/steps/v0.17.0/Core/StringLength",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/StringLength.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/StringLength.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.17.0/tags/core"
+      "permalink": "/soda/steps/v0.17.0/tags/core"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringJoin",
-    "permalink": "/steps/v0.17.0/Core/StringJoin"
+    "permalink": "/soda/steps/v0.17.0/Core/StringJoin"
   },
   "next": {
     "title": "StringMatch",
-    "permalink": "/steps/v0.17.0/Core/StringMatch"
+    "permalink": "/soda/steps/v0.17.0/Core/StringMatch"
   }
 }

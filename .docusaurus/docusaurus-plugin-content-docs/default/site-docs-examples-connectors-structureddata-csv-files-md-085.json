@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/structureddata/csv-files.md",
   "sourceDirName": "examples/connectors/structureddata",
   "slug": "/examples/connectors/structureddata/csv-files",
-  "permalink": "/docs/next/examples/connectors/structureddata/csv-files",
+  "permalink": "/soda/docs/next/examples/connectors/structureddata/csv-files",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/structureddata/csv-files.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Validate Concordance File Using a Schema",
-    "permalink": "/docs/next/examples/connectors/structureddata/concordance"
+    "permalink": "/soda/docs/next/examples/connectors/structureddata/concordance"
   },
   "next": {
     "title": "Tesseract Connector",
-    "permalink": "/docs/next/examples/connectors/tesseract/"
+    "permalink": "/soda/docs/next/examples/connectors/tesseract/"
   }
 }

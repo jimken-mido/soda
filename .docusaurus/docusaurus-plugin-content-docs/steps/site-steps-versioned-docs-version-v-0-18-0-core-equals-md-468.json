@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Equals.md",
   "sourceDirName": "Core",
   "slug": "/Core/Equals",
-  "permalink": "/steps/Core/Equals",
+  "permalink": "/soda/steps/Core/Equals",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/Equals.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/Equals.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "EntityValidateRelations",
-    "permalink": "/steps/Core/EntityValidateRelations"
+    "permalink": "/soda/steps/Core/EntityValidateRelations"
   },
   "next": {
     "title": "For",
-    "permalink": "/steps/Core/For"
+    "permalink": "/soda/steps/Core/For"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateReport.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCreateReport",
-  "permalink": "/steps/v0.17.0/Nuix/NuixCreateReport",
+  "permalink": "/soda/steps/v0.17.0/Nuix/NuixCreateReport",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateReport.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateReport.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/v0.17.0/tags/nuix"
+      "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixCreateNRTReport",
-    "permalink": "/steps/v0.17.0/Nuix/NuixCreateNRTReport"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixCreateNRTReport"
   },
   "next": {
     "title": "NuixCreateTermList",
-    "permalink": "/steps/v0.17.0/Nuix/NuixCreateTermList"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixCreateTermList"
   }
 }

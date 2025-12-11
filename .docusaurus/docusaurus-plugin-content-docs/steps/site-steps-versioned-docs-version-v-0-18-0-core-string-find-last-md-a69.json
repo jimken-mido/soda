@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringFindLast.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringFindLast",
-  "permalink": "/steps/Core/StringFindLast",
+  "permalink": "/soda/steps/Core/StringFindLast",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StringFindLast.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/StringFindLast.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringFind",
-    "permalink": "/steps/Core/StringFind"
+    "permalink": "/soda/steps/Core/StringFind"
   },
   "next": {
     "title": "StringInterpolate",
-    "permalink": "/steps/Core/StringInterpolate"
+    "permalink": "/soda/steps/Core/StringInterpolate"
   }
 }

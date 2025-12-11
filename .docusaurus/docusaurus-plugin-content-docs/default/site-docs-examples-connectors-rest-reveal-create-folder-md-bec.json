@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/rest/reveal-create-folder.md",
   "sourceDirName": "examples/connectors/rest",
   "slug": "/examples/connectors/rest/reveal-create-folder",
-  "permalink": "/docs/next/examples/connectors/rest/reveal-create-folder",
+  "permalink": "/soda/docs/next/examples/connectors/rest/reveal-create-folder",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/rest/reveal-create-folder.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "REST Connector",
-    "permalink": "/docs/next/examples/connectors/rest/"
+    "permalink": "/soda/docs/next/examples/connectors/rest/"
   },
   "next": {
     "title": "Get Document Metadata from Reveal",
-    "permalink": "/docs/next/examples/connectors/rest/reveal-get-all-documents"
+    "permalink": "/soda/docs/next/examples/connectors/rest/reveal-get-all-documents"
   }
 }

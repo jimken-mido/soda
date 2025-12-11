@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Rest/RESTPut.md",
   "sourceDirName": "Rest",
   "slug": "/Rest/RESTPut",
-  "permalink": "/steps/Rest/RESTPut",
+  "permalink": "/soda/steps/Rest/RESTPut",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Rest/RESTPut.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Rest/RESTPut.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Rest",
-      "permalink": "/steps/tags/rest"
+      "permalink": "/soda/steps/tags/rest"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RESTPost",
-    "permalink": "/steps/Rest/RESTPost"
+    "permalink": "/soda/steps/Rest/RESTPost"
   },
   "next": {
     "title": "Singer",
-    "permalink": "/steps/Singer"
+    "permalink": "/soda/steps/Singer"
   }
 }

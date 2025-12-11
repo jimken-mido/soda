@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/nuix/nuix.md",
   "sourceDirName": "examples/connectors/nuix",
   "slug": "/examples/connectors/nuix/",
-  "permalink": "/docs/examples/connectors/nuix/",
+  "permalink": "/soda/docs/examples/connectors/nuix/",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/nuix/nuix.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Login",
-    "permalink": "/docs/examples/connectors/microsoft365/microsoft365-login"
+    "permalink": "/soda/docs/examples/connectors/microsoft365/microsoft365-login"
   },
   "next": {
     "title": "Create Case, Ingest, Filter and Export",
-    "permalink": "/docs/examples/connectors/nuix/nuix-create-ingest-export"
+    "permalink": "/soda/docs/examples/connectors/nuix/nuix-create-ingest-export"
   }
 }

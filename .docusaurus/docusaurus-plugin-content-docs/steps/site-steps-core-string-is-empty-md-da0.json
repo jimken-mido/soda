@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/StringIsEmpty.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringIsEmpty",
-  "permalink": "/steps/next/Core/StringIsEmpty",
+  "permalink": "/soda/steps/next/Core/StringIsEmpty",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringIsEmpty.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StringIsEmpty.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringInterpolate",
-    "permalink": "/steps/next/Core/StringInterpolate"
+    "permalink": "/soda/steps/next/Core/StringInterpolate"
   },
   "next": {
     "title": "StringJoin",
-    "permalink": "/steps/next/Core/StringJoin"
+    "permalink": "/soda/steps/next/Core/StringJoin"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/EntityCombine.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntityCombine",
-  "permalink": "/steps/v0.17.0/Core/EntityCombine",
+  "permalink": "/soda/steps/v0.17.0/Core/EntityCombine",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/EntityCombine.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/EntityCombine.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.17.0/tags/core"
+      "permalink": "/soda/steps/v0.17.0/tags/core"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "DoubleSum",
-    "permalink": "/steps/v0.17.0/Core/DoubleSum"
+    "permalink": "/soda/steps/v0.17.0/Core/DoubleSum"
   },
   "next": {
     "title": "EntityFormat",
-    "permalink": "/steps/v0.17.0/Core/EntityFormat"
+    "permalink": "/soda/steps/v0.17.0/Core/EntityFormat"
   }
 }

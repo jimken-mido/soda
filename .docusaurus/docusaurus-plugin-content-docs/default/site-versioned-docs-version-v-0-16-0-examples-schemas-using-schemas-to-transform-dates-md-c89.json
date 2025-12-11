@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.16.0/examples/schemas/using-schemas-to-transform-dates.md",
   "sourceDirName": "examples/schemas",
   "slug": "/examples/schemas/using-schemas-to-transform-dates",
-  "permalink": "/docs/v0.16.0/examples/schemas/using-schemas-to-transform-dates",
+  "permalink": "/soda/docs/v0.16.0/examples/schemas/using-schemas-to-transform-dates",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/examples/schemas/using-schemas-to-transform-dates.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Transform Concordance File",
-    "permalink": "/docs/v0.16.0/examples/schemas/transform-concordance-to-ussec"
+    "permalink": "/soda/docs/v0.16.0/examples/schemas/transform-concordance-to-ussec"
   },
   "next": {
     "title": "USSEC Schema",
-    "permalink": "/docs/v0.16.0/examples/schemas/ussec-schema"
+    "permalink": "/soda/docs/v0.16.0/examples/schemas/ussec-schema"
   }
 }

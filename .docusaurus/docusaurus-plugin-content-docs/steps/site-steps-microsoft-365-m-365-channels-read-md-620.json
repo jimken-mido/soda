@@ -6,17 +6,17 @@
   "source": "@site/steps/Microsoft365/M365ChannelsRead.md",
   "sourceDirName": "Microsoft365",
   "slug": "/Microsoft365/M365ChannelsRead",
-  "permalink": "/steps/next/Microsoft365/M365ChannelsRead",
+  "permalink": "/soda/steps/next/Microsoft365/M365ChannelsRead",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Microsoft365/M365ChannelsRead.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Microsoft365/M365ChannelsRead.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Microsoft365",
-      "permalink": "/steps/next/tags/microsoft-365"
+      "permalink": "/soda/steps/next/tags/microsoft-365"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "M365ChannelMessagesRead",
-    "permalink": "/steps/next/Microsoft365/M365ChannelMessagesRead"
+    "permalink": "/soda/steps/next/Microsoft365/M365ChannelMessagesRead"
   },
   "next": {
     "title": "M365ChatsRead",
-    "permalink": "/steps/next/Microsoft365/M365ChatsRead"
+    "permalink": "/soda/steps/next/Microsoft365/M365ChatsRead"
   }
 }

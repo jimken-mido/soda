@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Not.md",
   "sourceDirName": "Core",
   "slug": "/Core/Not",
-  "permalink": "/steps/Core/Not",
+  "permalink": "/soda/steps/Core/Not",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/Not.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/Not.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Modulo",
-    "permalink": "/steps/Core/Modulo"
+    "permalink": "/soda/steps/Core/Modulo"
   },
   "next": {
     "title": "NotEquals",
-    "permalink": "/steps/Core/NotEquals"
+    "permalink": "/soda/steps/Core/NotEquals"
   }
 }

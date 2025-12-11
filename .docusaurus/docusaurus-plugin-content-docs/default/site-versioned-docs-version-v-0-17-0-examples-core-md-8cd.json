@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.17.0/examples/core.md",
   "sourceDirName": "examples",
   "slug": "/examples/core",
-  "permalink": "/docs/v0.17.0/examples/core",
+  "permalink": "/soda/docs/v0.17.0/examples/core",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/core.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "The Sleuth Kit® Connector",
-    "permalink": "/docs/v0.17.0/connectors/tsk"
+    "permalink": "/soda/docs/v0.17.0/connectors/tsk"
   },
   "next": {
     "title": "Application Settings",
-    "permalink": "/docs/v0.17.0/examples/application-settings"
+    "permalink": "/soda/docs/v0.17.0/examples/application-settings"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps/Relativity/RelativityCreateField.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityCreateField",
-  "permalink": "/steps/next/Relativity/RelativityCreateField",
+  "permalink": "/soda/steps/next/Relativity/RelativityCreateField",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativityCreateField.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityCreateField.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/next/tags/relativity"
+      "permalink": "/soda/steps/next/tags/relativity"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityCreateDynamicObjects",
-    "permalink": "/steps/next/Relativity/RelativityCreateDynamicObjects"
+    "permalink": "/soda/steps/next/Relativity/RelativityCreateDynamicObjects"
   },
   "next": {
     "title": "RelativityCreateFolder",
-    "permalink": "/steps/next/Relativity/RelativityCreateFolder"
+    "permalink": "/soda/steps/next/Relativity/RelativityCreateFolder"
   }
 }

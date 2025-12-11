@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/ArrayNew.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayNew",
-  "permalink": "/steps/v0.17.0/Core/ArrayNew",
+  "permalink": "/soda/steps/v0.17.0/Core/ArrayNew",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/ArrayNew.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/ArrayNew.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.17.0/tags/core"
+      "permalink": "/soda/steps/v0.17.0/tags/core"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ArrayMap",
-    "permalink": "/steps/v0.17.0/Core/ArrayMap"
+    "permalink": "/soda/steps/v0.17.0/Core/ArrayMap"
   },
   "next": {
     "title": "ArraySkip",
-    "permalink": "/steps/v0.17.0/Core/ArraySkip"
+    "permalink": "/soda/steps/v0.17.0/Core/ArraySkip"
   }
 }

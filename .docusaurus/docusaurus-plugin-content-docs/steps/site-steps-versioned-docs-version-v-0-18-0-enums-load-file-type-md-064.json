@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Enums/LoadFileType.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/LoadFileType",
-  "permalink": "/steps/Enums/LoadFileType",
+  "permalink": "/soda/steps/Enums/LoadFileType",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/LoadFileType.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Enums/LoadFileType.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/tags/enums"
+      "permalink": "/soda/steps/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/tags/unit"
+      "permalink": "/soda/steps/tags/unit"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ItemSortOrder",
-    "permalink": "/steps/Enums/ItemSortOrder"
+    "permalink": "/soda/steps/Enums/ItemSortOrder"
   },
   "next": {
     "title": "MatterStatus",
-    "permalink": "/steps/Enums/MatterStatus"
+    "permalink": "/soda/steps/Enums/MatterStatus"
   }
 }

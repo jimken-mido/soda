@@ -6,17 +6,17 @@
   "source": "@site/steps/TSK.md",
   "sourceDirName": ".",
   "slug": "/TSK",
-  "permalink": "/steps/next/TSK",
+  "permalink": "/soda/steps/next/TSK",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/TSK.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/TSK.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/next/tags/contents"
+      "permalink": "/soda/steps/next/tags/contents"
     },
     {
       "label": "TSK",
-      "permalink": "/steps/next/tags/tsk"
+      "permalink": "/soda/steps/next/tags/tsk"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ToYaml",
-    "permalink": "/steps/next/StructuredData/ToYaml"
+    "permalink": "/soda/steps/next/StructuredData/ToYaml"
   },
   "next": {
     "title": "AutopsyAddDataSource",
-    "permalink": "/steps/next/TSK/AutopsyAddDataSource"
+    "permalink": "/soda/steps/next/TSK/AutopsyAddDataSource"
   }
 }

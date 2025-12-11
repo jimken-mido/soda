@@ -6,17 +6,17 @@
   "source": "@site/steps/Enums/SortEnum.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/SortEnum",
-  "permalink": "/steps/next/Enums/SortEnum",
+  "permalink": "/soda/steps/next/Enums/SortEnum",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Enums/SortEnum.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Enums/SortEnum.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/next/tags/enums"
+      "permalink": "/soda/steps/next/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/next/tags/unit"
+      "permalink": "/soda/steps/next/tags/unit"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "SizeUnit",
-    "permalink": "/steps/next/Enums/SizeUnit"
+    "permalink": "/soda/steps/next/Enums/SizeUnit"
   },
   "next": {
     "title": "SortOrder",
-    "permalink": "/steps/next/Enums/SortOrder"
+    "permalink": "/soda/steps/next/Enums/SortOrder"
   }
 }

@@ -6,8 +6,8 @@
 export default {
   "title": "PhoenixSoda",
   "tagline": "Automate all the tings",
-  "url": "https://Phoenix.sh",
-  "baseUrl": "/",
+  "url": "https://jimken-mido.github.io",
+  "baseUrl": "/soda/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.png",
@@ -40,7 +40,7 @@ export default {
         "blog": {
           "path": "blog",
           "routeBasePath": "blog",
-          "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main",
+          "editUrl": "https://github.com/jimken-mido/soda",
           "postsPerPage": 10,
           "feedOptions": {
             "type": "all",
@@ -62,7 +62,7 @@ export default {
         "path": "steps",
         "routeBasePath": "steps",
         "sidebarPath": "/Users/jim/Desktop/github/soda/sidebarsSteps.js",
-        "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main",
+        "editUrl": "https://github.com/jimken-mido/soda",
         "versions": {
           "current": {
             "label": "v0.19.0-alpha 🚧"

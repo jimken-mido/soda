@@ -6,17 +6,17 @@
   "source": "@site/steps/Nuix/NuixRemoveFromProductionSet.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixRemoveFromProductionSet",
-  "permalink": "/steps/next/Nuix/NuixRemoveFromProductionSet",
+  "permalink": "/soda/steps/next/Nuix/NuixRemoveFromProductionSet",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixRemoveFromProductionSet.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixRemoveFromProductionSet.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/next/tags/nuix"
+      "permalink": "/soda/steps/next/tags/nuix"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixRemoveFromItemSet",
-    "permalink": "/steps/next/Nuix/NuixRemoveFromItemSet"
+    "permalink": "/soda/steps/next/Nuix/NuixRemoveFromItemSet"
   },
   "next": {
     "title": "NuixReorderProductionSet",
-    "permalink": "/steps/next/Nuix/NuixReorderProductionSet"
+    "permalink": "/soda/steps/next/Nuix/NuixReorderProductionSet"
   }
 }

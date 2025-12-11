@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.17.0/examples/schemas/edrm-schema.md",
   "sourceDirName": "examples/schemas",
   "slug": "/examples/schemas/edrm-schema",
-  "permalink": "/docs/v0.17.0/examples/schemas/edrm-schema",
+  "permalink": "/soda/docs/v0.17.0/examples/schemas/edrm-schema",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/schemas/edrm-schema.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Schemas",
-    "permalink": "/docs/v0.17.0/examples/schema-examples"
+    "permalink": "/soda/docs/v0.17.0/examples/schema-examples"
   },
   "next": {
     "title": "Transform Concordance File",
-    "permalink": "/docs/v0.17.0/examples/schemas/transform-concordance-to-ussec"
+    "permalink": "/soda/docs/v0.17.0/examples/schemas/transform-concordance-to-ussec"
   }
 }

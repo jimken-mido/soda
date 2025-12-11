@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Rest/RESTGetStream.md",
   "sourceDirName": "Rest",
   "slug": "/Rest/RESTGetStream",
-  "permalink": "/steps/v0.17.0/Rest/RESTGetStream",
+  "permalink": "/soda/steps/v0.17.0/Rest/RESTGetStream",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Rest/RESTGetStream.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Rest/RESTGetStream.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Rest",
-      "permalink": "/steps/v0.17.0/tags/rest"
+      "permalink": "/soda/steps/v0.17.0/tags/rest"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RESTGetJSON",
-    "permalink": "/steps/v0.17.0/Rest/RESTGetJSON"
+    "permalink": "/soda/steps/v0.17.0/Rest/RESTGetJSON"
   },
   "next": {
     "title": "RESTPatch",
-    "permalink": "/steps/v0.17.0/Rest/RESTPatch"
+    "permalink": "/soda/steps/v0.17.0/Rest/RESTPatch"
   }
 }

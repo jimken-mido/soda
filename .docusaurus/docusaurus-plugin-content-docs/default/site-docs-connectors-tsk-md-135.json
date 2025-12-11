@@ -6,7 +6,7 @@
   "source": "@site/docs/connectors/tsk.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/tsk",
-  "permalink": "/docs/next/connectors/tsk",
+  "permalink": "/soda/docs/next/connectors/tsk",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/tsk.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Tesseract Connector",
-    "permalink": "/docs/next/connectors/tesseract"
+    "permalink": "/soda/docs/next/connectors/tesseract"
   },
   "next": {
     "title": "SCL / Core",
-    "permalink": "/docs/next/examples/core"
+    "permalink": "/soda/docs/next/examples/core"
   }
 }

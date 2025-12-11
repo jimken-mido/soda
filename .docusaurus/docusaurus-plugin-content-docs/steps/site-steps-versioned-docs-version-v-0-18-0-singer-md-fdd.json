@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Singer.md",
   "sourceDirName": ".",
   "slug": "/Singer",
-  "permalink": "/steps/Singer",
+  "permalink": "/soda/steps/Singer",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Singer.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Singer.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/tags/contents"
+      "permalink": "/soda/steps/tags/contents"
     },
     {
       "label": "Singer",
-      "permalink": "/steps/tags/singer"
+      "permalink": "/soda/steps/tags/singer"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RESTPut",
-    "permalink": "/steps/Rest/RESTPut"
+    "permalink": "/soda/steps/Rest/RESTPut"
   },
   "next": {
     "title": "FromSinger",
-    "permalink": "/steps/Singer/FromSinger"
+    "permalink": "/soda/steps/Singer/FromSinger"
   }
 }

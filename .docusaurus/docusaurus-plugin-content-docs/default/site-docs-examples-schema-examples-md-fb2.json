@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/schema-examples.md",
   "sourceDirName": "examples",
   "slug": "/examples/schema-examples",
-  "permalink": "/docs/next/examples/schema-examples",
+  "permalink": "/soda/docs/next/examples/schema-examples",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/schema-examples.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Import From Nuix into Autopsy",
-    "permalink": "/docs/next/examples/connectors/tsk/tsk-import-from-nuix"
+    "permalink": "/soda/docs/next/examples/connectors/tsk/tsk-import-from-nuix"
   },
   "next": {
     "title": "EDRM Schema",
-    "permalink": "/docs/next/examples/schemas/edrm-schema"
+    "permalink": "/soda/docs/next/examples/schemas/edrm-schema"
   }
 }

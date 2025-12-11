@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/rest/reveal-get-cases.md",
   "sourceDirName": "examples/connectors/rest",
   "slug": "/examples/connectors/rest/reveal-get-cases",
-  "permalink": "/docs/next/examples/connectors/rest/reveal-get-cases",
+  "permalink": "/soda/docs/next/examples/connectors/rest/reveal-get-cases",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/rest/reveal-get-cases.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Get Reveal Case Statistics",
-    "permalink": "/docs/next/examples/connectors/rest/reveal-get-case-statistics"
+    "permalink": "/soda/docs/next/examples/connectors/rest/reveal-get-case-statistics"
   },
   "next": {
     "title": "Singer Connector",
-    "permalink": "/docs/next/examples/connectors/singer/"
+    "permalink": "/soda/docs/next/examples/connectors/singer/"
   }
 }

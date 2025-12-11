@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/AssertError.md",
   "sourceDirName": "Core",
   "slug": "/Core/AssertError",
-  "permalink": "/steps/Core/AssertError",
+  "permalink": "/soda/steps/Core/AssertError",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/AssertError.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/AssertError.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "AssertEqual",
-    "permalink": "/steps/Core/AssertEqual"
+    "permalink": "/soda/steps/Core/AssertEqual"
   },
   "next": {
     "title": "AssertTrue",
-    "permalink": "/steps/Core/AssertTrue"
+    "permalink": "/soda/steps/Core/AssertTrue"
   }
 }

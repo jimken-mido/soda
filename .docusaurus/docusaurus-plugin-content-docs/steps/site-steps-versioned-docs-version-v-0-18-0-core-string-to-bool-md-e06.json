@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringToBool.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringToBool",
-  "permalink": "/steps/Core/StringToBool",
+  "permalink": "/soda/steps/Core/StringToBool",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StringToBool.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/StringToBool.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringSubstring",
-    "permalink": "/steps/Core/StringSubstring"
+    "permalink": "/soda/steps/Core/StringSubstring"
   },
   "next": {
     "title": "StringToCase",
-    "permalink": "/steps/Core/StringToCase"
+    "permalink": "/soda/steps/Core/StringToCase"
   }
 }

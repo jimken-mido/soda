@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/Modulo.md",
   "sourceDirName": "Core",
   "slug": "/Core/Modulo",
-  "permalink": "/steps/next/Core/Modulo",
+  "permalink": "/soda/steps/next/Core/Modulo",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/Modulo.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/Modulo.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Log",
-    "permalink": "/steps/next/Core/Log"
+    "permalink": "/soda/steps/next/Core/Log"
   },
   "next": {
     "title": "Not",
-    "permalink": "/steps/next/Core/Not"
+    "permalink": "/soda/steps/next/Core/Not"
   }
 }

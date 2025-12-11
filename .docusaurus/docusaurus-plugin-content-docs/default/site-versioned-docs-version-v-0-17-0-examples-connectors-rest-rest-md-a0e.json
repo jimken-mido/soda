@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/rest/rest.md",
   "sourceDirName": "examples/connectors/rest",
   "slug": "/examples/connectors/rest/",
-  "permalink": "/docs/v0.17.0/examples/connectors/rest/",
+  "permalink": "/soda/docs/v0.17.0/examples/connectors/rest/",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/rest/rest.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Search and Tag Items",
-    "permalink": "/docs/v0.17.0/examples/connectors/relativity/relativity-search-and-tag"
+    "permalink": "/soda/docs/v0.17.0/examples/connectors/relativity/relativity-search-and-tag"
   },
   "next": {
     "title": "Create Reveal Folder",
-    "permalink": "/docs/v0.17.0/examples/connectors/rest/reveal-create-folder"
+    "permalink": "/soda/docs/v0.17.0/examples/connectors/rest/reveal-create-folder"
   }
 }

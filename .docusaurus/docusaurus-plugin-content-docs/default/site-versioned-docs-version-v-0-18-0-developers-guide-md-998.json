@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/developers-guide.md",
   "sourceDirName": ".",
   "slug": "/developers-guide",
-  "permalink": "/docs/developers-guide",
+  "permalink": "/soda/docs/developers-guide",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/developers-guide.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Logging",
-    "permalink": "/docs/logging"
+    "permalink": "/soda/docs/logging"
   },
   "next": {
     "title": "Build from Source",
-    "permalink": "/docs/build-from-source"
+    "permalink": "/soda/docs/build-from-source"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps/StructuredData/FromJsonArray.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromJsonArray",
-  "permalink": "/steps/next/StructuredData/FromJsonArray",
+  "permalink": "/soda/steps/next/StructuredData/FromJsonArray",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/StructuredData/FromJsonArray.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/StructuredData/FromJsonArray.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "StructuredData",
-      "permalink": "/steps/next/tags/structured-data"
+      "permalink": "/soda/steps/next/tags/structured-data"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "FromJson",
-    "permalink": "/steps/next/StructuredData/FromJson"
+    "permalink": "/soda/steps/next/StructuredData/FromJson"
   },
   "next": {
     "title": "FromXml",
-    "permalink": "/steps/next/StructuredData/FromXml"
+    "permalink": "/soda/steps/next/StructuredData/FromXml"
   }
 }

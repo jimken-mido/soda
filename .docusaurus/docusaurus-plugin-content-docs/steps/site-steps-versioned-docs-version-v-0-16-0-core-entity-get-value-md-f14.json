@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/EntityGetValue.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntityGetValue",
-  "permalink": "/steps/v0.16.0/Core/EntityGetValue",
+  "permalink": "/soda/steps/v0.16.0/Core/EntityGetValue",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/EntityGetValue.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/EntityGetValue.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.16.0/tags/core"
+      "permalink": "/soda/steps/v0.16.0/tags/core"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "EntityGetProperties",
-    "permalink": "/steps/v0.16.0/Core/EntityGetProperties"
+    "permalink": "/soda/steps/v0.16.0/Core/EntityGetProperties"
   },
   "next": {
     "title": "EntityHasProperty",
-    "permalink": "/steps/v0.16.0/Core/EntityHasProperty"
+    "permalink": "/soda/steps/v0.16.0/Core/EntityHasProperty"
   }
 }

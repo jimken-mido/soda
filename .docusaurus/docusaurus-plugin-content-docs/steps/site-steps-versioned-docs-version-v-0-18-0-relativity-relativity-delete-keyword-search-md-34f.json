@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityDeleteKeywordSearch.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityDeleteKeywordSearch",
-  "permalink": "/steps/Relativity/RelativityDeleteKeywordSearch",
+  "permalink": "/soda/steps/Relativity/RelativityDeleteKeywordSearch",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityDeleteKeywordSearch.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Relativity/RelativityDeleteKeywordSearch.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/tags/relativity"
+      "permalink": "/soda/steps/tags/relativity"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityDeleteDocument",
-    "permalink": "/steps/Relativity/RelativityDeleteDocument"
+    "permalink": "/soda/steps/Relativity/RelativityDeleteDocument"
   },
   "next": {
     "title": "RelativityDeleteMatter",
-    "permalink": "/steps/Relativity/RelativityDeleteMatter"
+    "permalink": "/soda/steps/Relativity/RelativityDeleteMatter"
   }
 }

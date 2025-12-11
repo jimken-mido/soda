@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/Transform.md",
   "sourceDirName": "Core",
   "slug": "/Core/Transform",
-  "permalink": "/steps/next/Core/Transform",
+  "permalink": "/soda/steps/next/Core/Transform",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/Transform.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/Transform.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Sum",
-    "permalink": "/steps/next/Core/Sum"
+    "permalink": "/soda/steps/next/Core/Sum"
   },
   "next": {
     "title": "Try",
-    "permalink": "/steps/next/Core/Try"
+    "permalink": "/soda/steps/next/Core/Try"
   }
 }

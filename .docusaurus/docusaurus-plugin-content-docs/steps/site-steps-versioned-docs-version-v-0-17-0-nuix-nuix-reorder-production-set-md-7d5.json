@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixReorderProductionSet.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixReorderProductionSet",
-  "permalink": "/steps/v0.17.0/Nuix/NuixReorderProductionSet",
+  "permalink": "/soda/steps/v0.17.0/Nuix/NuixReorderProductionSet",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixReorderProductionSet.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix/NuixReorderProductionSet.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/v0.17.0/tags/nuix"
+      "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixRemoveFromProductionSet",
-    "permalink": "/steps/v0.17.0/Nuix/NuixRemoveFromProductionSet"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixRemoveFromProductionSet"
   },
   "next": {
     "title": "NuixRunScript",
-    "permalink": "/steps/v0.17.0/Nuix/NuixRunScript"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixRunScript"
   }
 }

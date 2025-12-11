@@ -6,17 +6,17 @@
   "source": "@site/steps/Enums/FileImportType.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/FileImportType",
-  "permalink": "/steps/next/Enums/FileImportType",
+  "permalink": "/soda/steps/next/Enums/FileImportType",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Enums/FileImportType.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Enums/FileImportType.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/next/tags/enums"
+      "permalink": "/soda/steps/next/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/next/tags/unit"
+      "permalink": "/soda/steps/next/tags/unit"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ExportTraversalStrategy",
-    "permalink": "/steps/next/Enums/ExportTraversalStrategy"
+    "permalink": "/soda/steps/next/Enums/ExportTraversalStrategy"
   },
   "next": {
     "title": "HashAlgorithm",
-    "permalink": "/steps/next/Enums/HashAlgorithm"
+    "permalink": "/soda/steps/next/Enums/HashAlgorithm"
   }
 }

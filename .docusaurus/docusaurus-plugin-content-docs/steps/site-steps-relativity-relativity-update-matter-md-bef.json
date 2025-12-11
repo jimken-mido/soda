@@ -6,17 +6,17 @@
   "source": "@site/steps/Relativity/RelativityUpdateMatter.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityUpdateMatter",
-  "permalink": "/steps/next/Relativity/RelativityUpdateMatter",
+  "permalink": "/soda/steps/next/Relativity/RelativityUpdateMatter",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativityUpdateMatter.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityUpdateMatter.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/next/tags/relativity"
+      "permalink": "/soda/steps/next/tags/relativity"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityUpdateFolder",
-    "permalink": "/steps/next/Relativity/RelativityUpdateFolder"
+    "permalink": "/soda/steps/next/Relativity/RelativityUpdateFolder"
   },
   "next": {
     "title": "RelativityUpdateObject",
-    "permalink": "/steps/next/Relativity/RelativityUpdateObject"
+    "permalink": "/soda/steps/next/Relativity/RelativityUpdateObject"
   }
 }

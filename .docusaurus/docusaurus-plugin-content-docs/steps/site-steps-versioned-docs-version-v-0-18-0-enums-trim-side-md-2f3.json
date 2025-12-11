@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Enums/TrimSide.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/TrimSide",
-  "permalink": "/steps/Enums/TrimSide",
+  "permalink": "/soda/steps/Enums/TrimSide",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/TrimSide.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Enums/TrimSide.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/tags/enums"
+      "permalink": "/soda/steps/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/tags/unit"
+      "permalink": "/soda/steps/tags/unit"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "TextCase",
-    "permalink": "/steps/Enums/TextCase"
+    "permalink": "/soda/steps/Enums/TextCase"
   },
   "next": {
     "title": "UpdateBehaviour",
-    "permalink": "/steps/Enums/UpdateBehaviour"
+    "permalink": "/soda/steps/Enums/UpdateBehaviour"
   }
 }

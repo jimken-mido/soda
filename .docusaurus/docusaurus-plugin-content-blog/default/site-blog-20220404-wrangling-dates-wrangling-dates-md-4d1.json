@@ -1,6 +1,6 @@
 {
-  "permalink": "/blog/wrangling-dates-with-scl",
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/blog/20220404-wrangling-dates/wrangling-dates.md",
+  "permalink": "/soda/blog/wrangling-dates-with-scl",
+  "editUrl": "https://github.com/jimken-mido/soda/blog/20220404-wrangling-dates/wrangling-dates.md",
   "source": "@site/blog/20220404-wrangling-dates/wrangling-dates.md",
   "title": "Wrangling Dates with SCL",
   "description": "Use the Phoenix Configuration Language to easily combine and convert dates when working with structured data formats.",
@@ -9,31 +9,31 @@
   "tags": [
     {
       "label": "Phoenix",
-      "permalink": "/blog/tags/phoenix"
+      "permalink": "/soda/blog/tags/phoenix"
     },
     {
       "label": "scl",
-      "permalink": "/blog/tags/scl"
+      "permalink": "/soda/blog/tags/scl"
     },
     {
       "label": "examples",
-      "permalink": "/blog/tags/examples"
+      "permalink": "/soda/blog/tags/examples"
     },
     {
       "label": "dates",
-      "permalink": "/blog/tags/dates"
+      "permalink": "/soda/blog/tags/dates"
     },
     {
       "label": "structured data",
-      "permalink": "/blog/tags/structured-data"
+      "permalink": "/soda/blog/tags/structured-data"
     },
     {
       "label": "transform",
-      "permalink": "/blog/tags/transform"
+      "permalink": "/soda/blog/tags/transform"
     },
     {
       "label": "schemas",
-      "permalink": "/blog/tags/schemas"
+      "permalink": "/soda/blog/tags/schemas"
     }
   ],
   "readingTime": 6.095,
@@ -73,6 +73,6 @@
   },
   "prevItem": {
     "title": "Performance Improvements in v0.18.0",
-    "permalink": "/blog/performance-improvements-in-v0.18.0"
+    "permalink": "/soda/blog/performance-improvements-in-v0.18.0"
   }
 }

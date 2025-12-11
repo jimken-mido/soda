@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/ArrayGroupBy.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayGroupBy",
-  "permalink": "/steps/Core/ArrayGroupBy",
+  "permalink": "/soda/steps/Core/ArrayGroupBy",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/ArrayGroupBy.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/ArrayGroupBy.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ArrayFirst",
-    "permalink": "/steps/Core/ArrayFirst"
+    "permalink": "/soda/steps/Core/ArrayFirst"
   },
   "next": {
     "title": "ArrayIsEmpty",
-    "permalink": "/steps/Core/ArrayIsEmpty"
+    "permalink": "/soda/steps/Core/ArrayIsEmpty"
   }
 }

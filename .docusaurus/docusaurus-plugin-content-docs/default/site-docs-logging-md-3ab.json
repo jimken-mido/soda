@@ -6,7 +6,7 @@
   "source": "@site/docs/logging.md",
   "sourceDirName": ".",
   "slug": "/logging",
-  "permalink": "/docs/next/logging",
+  "permalink": "/soda/docs/next/logging",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/logging.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Application Settings",
-    "permalink": "/docs/next/application-settings"
+    "permalink": "/soda/docs/next/application-settings"
   },
   "next": {
     "title": "Developers' Guide",
-    "permalink": "/docs/next/developers-guide"
+    "permalink": "/soda/docs/next/developers-guide"
   }
 }

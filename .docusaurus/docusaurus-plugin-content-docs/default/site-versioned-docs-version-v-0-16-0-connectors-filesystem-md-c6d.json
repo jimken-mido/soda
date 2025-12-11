@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.16.0/connectors/filesystem.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/filesystem",
-  "permalink": "/docs/v0.16.0/connectors/filesystem",
+  "permalink": "/soda/docs/v0.16.0/connectors/filesystem",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/connectors/filesystem.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Core",
-    "permalink": "/docs/v0.16.0/connectors/core"
+    "permalink": "/soda/docs/v0.16.0/connectors/core"
   },
   "next": {
     "title": "Nuix Connector",
-    "permalink": "/docs/v0.16.0/connectors/nuix"
+    "permalink": "/soda/docs/v0.16.0/connectors/nuix"
   }
 }

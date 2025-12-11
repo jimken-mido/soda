@@ -6,17 +6,17 @@
   "source": "@site/steps/Relativity.md",
   "sourceDirName": ".",
   "slug": "/Relativity",
-  "permalink": "/steps/next/Relativity",
+  "permalink": "/soda/steps/next/Relativity",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/next/tags/contents"
+      "permalink": "/soda/steps/next/tags/contents"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/next/tags/relativity"
+      "permalink": "/soda/steps/next/tags/relativity"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "PwshRunScriptAsync",
-    "permalink": "/steps/next/Pwsh/PwshRunScriptAsync"
+    "permalink": "/soda/steps/next/Pwsh/PwshRunScriptAsync"
   },
   "next": {
     "title": "RelativityCreateDynamicObjects",
-    "permalink": "/steps/next/Relativity/RelativityCreateDynamicObjects"
+    "permalink": "/soda/steps/next/Relativity/RelativityCreateDynamicObjects"
   }
 }

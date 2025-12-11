@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/GetConnectorInformation.md",
   "sourceDirName": "Core",
   "slug": "/Core/GetConnectorInformation",
-  "permalink": "/steps/Core/GetConnectorInformation",
+  "permalink": "/soda/steps/Core/GetConnectorInformation",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/GetConnectorInformation.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/GetConnectorInformation.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "GetAutomaticVariable",
-    "permalink": "/steps/Core/GetAutomaticVariable"
+    "permalink": "/soda/steps/Core/GetAutomaticVariable"
   },
   "next": {
     "title": "GetSettings",
-    "permalink": "/steps/Core/GetSettings"
+    "permalink": "/soda/steps/Core/GetSettings"
   }
 }

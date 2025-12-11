@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/microsoft365/microsoft365-get-team-channels.md",
   "sourceDirName": "examples/connectors/microsoft365",
   "slug": "/examples/connectors/microsoft365/microsoft365-get-team-channels",
-  "permalink": "/docs/next/examples/connectors/microsoft365/microsoft365-get-team-channels",
+  "permalink": "/soda/docs/next/examples/connectors/microsoft365/microsoft365-get-team-channels",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/microsoft365/microsoft365-get-team-channels.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Microsoft365 Connector",
-    "permalink": "/docs/next/examples/connectors/microsoft365/"
+    "permalink": "/soda/docs/next/examples/connectors/microsoft365/"
   },
   "next": {
     "title": "Get Teams",
-    "permalink": "/docs/next/examples/connectors/microsoft365/microsoft365-get-teams"
+    "permalink": "/soda/docs/next/examples/connectors/microsoft365/microsoft365-get-teams"
   }
 }

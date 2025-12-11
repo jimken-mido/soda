@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/StringSubstring.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringSubstring",
-  "permalink": "/steps/next/Core/StringSubstring",
+  "permalink": "/soda/steps/next/Core/StringSubstring",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringSubstring.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StringSubstring.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringSplit",
-    "permalink": "/steps/next/Core/StringSplit"
+    "permalink": "/soda/steps/next/Core/StringSplit"
   },
   "next": {
     "title": "StringToBool",
-    "permalink": "/steps/next/Core/StringToBool"
+    "permalink": "/soda/steps/next/Core/StringToBool"
   }
 }

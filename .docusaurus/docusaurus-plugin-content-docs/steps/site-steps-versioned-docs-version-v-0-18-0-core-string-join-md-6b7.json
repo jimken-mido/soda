@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringJoin.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringJoin",
-  "permalink": "/steps/Core/StringJoin",
+  "permalink": "/soda/steps/Core/StringJoin",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StringJoin.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/StringJoin.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringIsEmpty",
-    "permalink": "/steps/Core/StringIsEmpty"
+    "permalink": "/soda/steps/Core/StringIsEmpty"
   },
   "next": {
     "title": "StringLength",
-    "permalink": "/steps/Core/StringLength"
+    "permalink": "/soda/steps/Core/StringLength"
   }
 }

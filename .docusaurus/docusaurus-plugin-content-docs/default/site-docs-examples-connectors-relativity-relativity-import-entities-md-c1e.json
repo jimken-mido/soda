@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/relativity/relativity-import-entities.md",
   "sourceDirName": "examples/connectors/relativity",
   "slug": "/examples/connectors/relativity/relativity-import-entities",
-  "permalink": "/docs/next/examples/connectors/relativity/relativity-import-entities",
+  "permalink": "/soda/docs/next/examples/connectors/relativity/relativity-import-entities",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/relativity/relativity-import-entities.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Import Concordance",
-    "permalink": "/docs/next/examples/connectors/relativity/relativity-import-concordance"
+    "permalink": "/soda/docs/next/examples/connectors/relativity/relativity-import-concordance"
   },
   "next": {
     "title": "Import Entities from Nuix",
-    "permalink": "/docs/next/examples/connectors/relativity/relativity-import-from-nuix"
+    "permalink": "/soda/docs/next/examples/connectors/relativity/relativity-import-from-nuix"
   }
 }

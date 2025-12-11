@@ -6,17 +6,17 @@
   "source": "@site/steps/Relativity/RelativityMoveFolder.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityMoveFolder",
-  "permalink": "/steps/next/Relativity/RelativityMoveFolder",
+  "permalink": "/soda/steps/next/Relativity/RelativityMoveFolder",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativityMoveFolder.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityMoveFolder.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/next/tags/relativity"
+      "permalink": "/soda/steps/next/tags/relativity"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityImportEntities",
-    "permalink": "/steps/next/Relativity/RelativityImportEntities"
+    "permalink": "/soda/steps/next/Relativity/RelativityImportEntities"
   },
   "next": {
     "title": "RelativityReadKeywordSearch",
-    "permalink": "/steps/next/Relativity/RelativityReadKeywordSearch"
+    "permalink": "/soda/steps/next/Relativity/RelativityReadKeywordSearch"
   }
 }

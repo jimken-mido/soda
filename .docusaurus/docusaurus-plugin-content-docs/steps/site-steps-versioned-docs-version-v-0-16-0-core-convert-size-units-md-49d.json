@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/ConvertSizeUnits.md",
   "sourceDirName": "Core",
   "slug": "/Core/ConvertSizeUnits",
-  "permalink": "/steps/v0.16.0/Core/ConvertSizeUnits",
+  "permalink": "/soda/steps/v0.16.0/Core/ConvertSizeUnits",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/ConvertSizeUnits.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/ConvertSizeUnits.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.16.0/tags/core"
+      "permalink": "/soda/steps/v0.16.0/tags/core"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Clone",
-    "permalink": "/steps/v0.16.0/Core/Clone"
+    "permalink": "/soda/steps/v0.16.0/Core/Clone"
   },
   "next": {
     "title": "DateToString",
-    "permalink": "/steps/v0.16.0/Core/DateToString"
+    "permalink": "/soda/steps/v0.16.0/Core/DateToString"
   }
 }

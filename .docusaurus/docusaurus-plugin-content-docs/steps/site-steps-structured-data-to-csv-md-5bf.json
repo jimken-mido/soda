@@ -6,17 +6,17 @@
   "source": "@site/steps/StructuredData/ToCSV.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/ToCSV",
-  "permalink": "/steps/next/StructuredData/ToCSV",
+  "permalink": "/soda/steps/next/StructuredData/ToCSV",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/StructuredData/ToCSV.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/StructuredData/ToCSV.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "StructuredData",
-      "permalink": "/steps/next/tags/structured-data"
+      "permalink": "/soda/steps/next/tags/structured-data"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "FromYaml",
-    "permalink": "/steps/next/StructuredData/FromYaml"
+    "permalink": "/soda/steps/next/StructuredData/FromYaml"
   },
   "next": {
     "title": "ToConcordance",
-    "permalink": "/steps/next/StructuredData/ToConcordance"
+    "permalink": "/soda/steps/next/StructuredData/ToConcordance"
   }
 }

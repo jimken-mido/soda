@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/ArrayIsEmpty.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayIsEmpty",
-  "permalink": "/steps/Core/ArrayIsEmpty",
+  "permalink": "/soda/steps/Core/ArrayIsEmpty",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/ArrayIsEmpty.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/ArrayIsEmpty.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ArrayGroupBy",
-    "permalink": "/steps/Core/ArrayGroupBy"
+    "permalink": "/soda/steps/Core/ArrayGroupBy"
   },
   "next": {
     "title": "ArrayLast",
-    "permalink": "/steps/Core/ArrayLast"
+    "permalink": "/soda/steps/Core/ArrayLast"
   }
 }

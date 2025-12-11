@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Subtract.md",
   "sourceDirName": "Core",
   "slug": "/Core/Subtract",
-  "permalink": "/steps/Core/Subtract",
+  "permalink": "/soda/steps/Core/Subtract",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/Subtract.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/Subtract.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/tags/core"
+      "permalink": "/soda/steps/tags/core"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringTrim",
-    "permalink": "/steps/Core/StringTrim"
+    "permalink": "/soda/steps/Core/StringTrim"
   },
   "next": {
     "title": "Sum",
-    "permalink": "/steps/Core/Sum"
+    "permalink": "/soda/steps/Core/Sum"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/connectors/relativity.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/relativity",
-  "permalink": "/docs/next/connectors/relativity",
+  "permalink": "/soda/docs/next/connectors/relativity",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/relativity.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "PowerShell Connector",
-    "permalink": "/docs/next/connectors/powershell"
+    "permalink": "/soda/docs/next/connectors/powershell"
   },
   "next": {
     "title": "REST Connector",
-    "permalink": "/docs/next/connectors/rest"
+    "permalink": "/soda/docs/next/connectors/rest"
   }
 }

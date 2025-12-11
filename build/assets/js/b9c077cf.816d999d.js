@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkPhoenix_docs=globalThis.webpackChunkPhoenix_docs||[]).push([[21676],{53165:a=>{a.exports=JSON.parse('{"label":"structured data","permalink":"/soda/blog/tags/structured-data","allTagsPath":"/soda/blog/tags","count":1}')}}]);

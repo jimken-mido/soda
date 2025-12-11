@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Pwsh.md",
   "sourceDirName": ".",
   "slug": "/Pwsh",
-  "permalink": "/steps/v0.17.0/Pwsh",
+  "permalink": "/soda/steps/v0.17.0/Pwsh",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Pwsh.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Pwsh.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/v0.17.0/tags/contents"
+      "permalink": "/soda/steps/v0.17.0/tags/contents"
     },
     {
       "label": "Pwsh",
-      "permalink": "/steps/v0.17.0/tags/pwsh"
+      "permalink": "/soda/steps/v0.17.0/tags/pwsh"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixSearchAndTag",
-    "permalink": "/steps/v0.17.0/Nuix/NuixSearchAndTag"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixSearchAndTag"
   },
   "next": {
     "title": "PwshRunScript",
-    "permalink": "/steps/v0.17.0/Pwsh/PwshRunScript"
+    "permalink": "/soda/steps/v0.17.0/Pwsh/PwshRunScript"
   }
 }

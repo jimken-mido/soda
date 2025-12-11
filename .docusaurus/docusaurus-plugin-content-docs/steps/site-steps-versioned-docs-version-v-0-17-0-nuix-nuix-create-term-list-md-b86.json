@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateTermList.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCreateTermList",
-  "permalink": "/steps/v0.17.0/Nuix/NuixCreateTermList",
+  "permalink": "/soda/steps/v0.17.0/Nuix/NuixCreateTermList",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateTermList.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateTermList.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/v0.17.0/tags/nuix"
+      "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixCreateReport",
-    "permalink": "/steps/v0.17.0/Nuix/NuixCreateReport"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixCreateReport"
   },
   "next": {
     "title": "NuixDoesCaseExist",
-    "permalink": "/steps/v0.17.0/Nuix/NuixDoesCaseExist"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixDoesCaseExist"
   }
 }

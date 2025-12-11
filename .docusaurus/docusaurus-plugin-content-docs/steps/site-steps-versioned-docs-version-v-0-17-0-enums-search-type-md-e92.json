@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Enums/SearchType.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/SearchType",
-  "permalink": "/steps/v0.17.0/Enums/SearchType",
+  "permalink": "/soda/steps/v0.17.0/Enums/SearchType",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Enums/SearchType.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Enums/SearchType.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/v0.17.0/tags/enums"
+      "permalink": "/soda/steps/v0.17.0/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/v0.17.0/tags/unit"
+      "permalink": "/soda/steps/v0.17.0/tags/unit"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "SearchScope",
-    "permalink": "/steps/v0.17.0/Enums/SearchScope"
+    "permalink": "/soda/steps/v0.17.0/Enums/SearchScope"
   },
   "next": {
     "title": "Severity",
-    "permalink": "/steps/v0.17.0/Enums/Severity"
+    "permalink": "/soda/steps/v0.17.0/Enums/Severity"
   }
 }

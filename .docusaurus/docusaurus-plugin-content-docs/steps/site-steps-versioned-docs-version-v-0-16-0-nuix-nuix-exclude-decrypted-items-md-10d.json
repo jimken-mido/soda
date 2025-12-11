@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixExcludeDecryptedItems.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixExcludeDecryptedItems",
-  "permalink": "/steps/v0.16.0/Nuix/NuixExcludeDecryptedItems",
+  "permalink": "/soda/steps/v0.16.0/Nuix/NuixExcludeDecryptedItems",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixExcludeDecryptedItems.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Nuix/NuixExcludeDecryptedItems.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/v0.16.0/tags/nuix"
+      "permalink": "/soda/steps/v0.16.0/tags/nuix"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixDoesCaseExist",
-    "permalink": "/steps/v0.16.0/Nuix/NuixDoesCaseExist"
+    "permalink": "/soda/steps/v0.16.0/Nuix/NuixDoesCaseExist"
   },
   "next": {
     "title": "NuixExportConcordance",
-    "permalink": "/steps/v0.16.0/Nuix/NuixExportConcordance"
+    "permalink": "/soda/steps/v0.16.0/Nuix/NuixExportConcordance"
   }
 }

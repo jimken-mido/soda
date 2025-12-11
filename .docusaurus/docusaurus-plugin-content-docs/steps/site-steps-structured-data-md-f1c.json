@@ -6,17 +6,17 @@
   "source": "@site/steps/StructuredData.md",
   "sourceDirName": ".",
   "slug": "/StructuredData",
-  "permalink": "/steps/next/StructuredData",
+  "permalink": "/soda/steps/next/StructuredData",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/StructuredData.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/StructuredData.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/next/tags/contents"
+      "permalink": "/soda/steps/next/tags/contents"
     },
     {
       "label": "StructuredData",
-      "permalink": "/steps/next/tags/structured-data"
+      "permalink": "/soda/steps/next/tags/structured-data"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "SqlQuery",
-    "permalink": "/steps/next/Sql/SqlQuery"
+    "permalink": "/soda/steps/next/Sql/SqlQuery"
   },
   "next": {
     "title": "FromCSV",
-    "permalink": "/steps/next/StructuredData/FromCSV"
+    "permalink": "/soda/steps/next/StructuredData/FromCSV"
   }
 }

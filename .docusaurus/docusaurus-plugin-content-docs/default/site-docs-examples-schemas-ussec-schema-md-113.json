@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/schemas/ussec-schema.md",
   "sourceDirName": "examples/schemas",
   "slug": "/examples/schemas/ussec-schema",
-  "permalink": "/docs/next/examples/schemas/ussec-schema",
+  "permalink": "/soda/docs/next/examples/schemas/ussec-schema",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/schemas/ussec-schema.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Using Schemas to Transform Dates",
-    "permalink": "/docs/next/examples/schemas/using-schemas-to-transform-dates"
+    "permalink": "/soda/docs/next/examples/schemas/using-schemas-to-transform-dates"
   },
   "next": {
     "title": "Application Settings",
-    "permalink": "/docs/next/application-settings"
+    "permalink": "/soda/docs/next/application-settings"
   }
 }

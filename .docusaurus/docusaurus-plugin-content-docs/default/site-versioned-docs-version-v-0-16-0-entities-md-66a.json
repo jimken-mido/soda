@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.16.0/entities.md",
   "sourceDirName": ".",
   "slug": "/entities",
-  "permalink": "/docs/v0.16.0/entities",
+  "permalink": "/soda/docs/v0.16.0/entities",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/entities.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Phoenix Configuration Language",
-    "permalink": "/docs/v0.16.0/sequence-configuration-language"
+    "permalink": "/soda/docs/v0.16.0/sequence-configuration-language"
   },
   "next": {
     "title": "Schemas",
-    "permalink": "/docs/v0.16.0/schemas"
+    "permalink": "/soda/docs/v0.16.0/schemas"
   }
 }

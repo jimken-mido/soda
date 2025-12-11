@@ -6,17 +6,17 @@
   "source": "@site/steps/Tesseract/TesseractOCR.md",
   "sourceDirName": "Tesseract",
   "slug": "/Tesseract/TesseractOCR",
-  "permalink": "/steps/next/Tesseract/TesseractOCR",
+  "permalink": "/soda/steps/next/Tesseract/TesseractOCR",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Tesseract/TesseractOCR.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Tesseract/TesseractOCR.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Tesseract",
-      "permalink": "/steps/next/tags/tesseract"
+      "permalink": "/soda/steps/next/tags/tesseract"
     }
   ],
   "version": "current",
@@ -34,6 +34,6 @@
   "sidebar": "steps",
   "previous": {
     "title": "GetImageFormat",
-    "permalink": "/steps/next/Tesseract/GetImageFormat"
+    "permalink": "/soda/steps/next/Tesseract/GetImageFormat"
   }
 }

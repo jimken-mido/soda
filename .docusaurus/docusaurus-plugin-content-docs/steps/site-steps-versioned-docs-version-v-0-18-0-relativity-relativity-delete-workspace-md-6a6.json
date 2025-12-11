@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityDeleteWorkspace.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityDeleteWorkspace",
-  "permalink": "/steps/Relativity/RelativityDeleteWorkspace",
+  "permalink": "/soda/steps/Relativity/RelativityDeleteWorkspace",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityDeleteWorkspace.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Relativity/RelativityDeleteWorkspace.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/tags/relativity"
+      "permalink": "/soda/steps/tags/relativity"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityDeleteUnusedFolders",
-    "permalink": "/steps/Relativity/RelativityDeleteUnusedFolders"
+    "permalink": "/soda/steps/Relativity/RelativityDeleteUnusedFolders"
   },
   "next": {
     "title": "RelativityExport",
-    "permalink": "/steps/Relativity/RelativityExport"
+    "permalink": "/soda/steps/Relativity/RelativityExport"
   }
 }

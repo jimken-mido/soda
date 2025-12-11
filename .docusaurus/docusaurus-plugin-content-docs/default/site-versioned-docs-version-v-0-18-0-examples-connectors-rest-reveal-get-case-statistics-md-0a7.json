@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/rest/reveal-get-case-statistics.md",
   "sourceDirName": "examples/connectors/rest",
   "slug": "/examples/connectors/rest/reveal-get-case-statistics",
-  "permalink": "/docs/examples/connectors/rest/reveal-get-case-statistics",
+  "permalink": "/soda/docs/examples/connectors/rest/reveal-get-case-statistics",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/rest/reveal-get-case-statistics.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Get All Reveal Folders",
-    "permalink": "/docs/examples/connectors/rest/reveal-get-all-folders"
+    "permalink": "/soda/docs/examples/connectors/rest/reveal-get-all-folders"
   },
   "next": {
     "title": "Get Reveal Cases",
-    "permalink": "/docs/examples/connectors/rest/reveal-get-cases"
+    "permalink": "/soda/docs/examples/connectors/rest/reveal-get-cases"
   }
 }

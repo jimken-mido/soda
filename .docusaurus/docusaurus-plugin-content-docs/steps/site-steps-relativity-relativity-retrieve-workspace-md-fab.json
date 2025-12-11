@@ -6,17 +6,17 @@
   "source": "@site/steps/Relativity/RelativityRetrieveWorkspace.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityRetrieveWorkspace",
-  "permalink": "/steps/next/Relativity/RelativityRetrieveWorkspace",
+  "permalink": "/soda/steps/next/Relativity/RelativityRetrieveWorkspace",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativityRetrieveWorkspace.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityRetrieveWorkspace.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/next/tags/relativity"
+      "permalink": "/soda/steps/next/tags/relativity"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityRetrieveRootFolder",
-    "permalink": "/steps/next/Relativity/RelativityRetrieveRootFolder"
+    "permalink": "/soda/steps/next/Relativity/RelativityRetrieveRootFolder"
   },
   "next": {
     "title": "RelativityRetrieveWorkspaceStatistics",
-    "permalink": "/steps/next/Relativity/RelativityRetrieveWorkspaceStatistics"
+    "permalink": "/soda/steps/next/Relativity/RelativityRetrieveWorkspaceStatistics"
   }
 }

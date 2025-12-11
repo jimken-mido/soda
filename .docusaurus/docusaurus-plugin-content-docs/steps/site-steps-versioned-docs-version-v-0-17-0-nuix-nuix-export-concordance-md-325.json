@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixExportConcordance.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixExportConcordance",
-  "permalink": "/steps/v0.17.0/Nuix/NuixExportConcordance",
+  "permalink": "/soda/steps/v0.17.0/Nuix/NuixExportConcordance",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixExportConcordance.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix/NuixExportConcordance.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/v0.17.0/tags/nuix"
+      "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixExcludeDecryptedItems",
-    "permalink": "/steps/v0.17.0/Nuix/NuixExcludeDecryptedItems"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixExcludeDecryptedItems"
   },
   "next": {
     "title": "NuixExtractEntities",
-    "permalink": "/steps/v0.17.0/Nuix/NuixExtractEntities"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixExtractEntities"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/connectors/microsoft365.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/microsoft365",
-  "permalink": "/docs/connectors/microsoft365",
+  "permalink": "/soda/docs/connectors/microsoft365",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/connectors/microsoft365.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "File System Connector",
-    "permalink": "/docs/connectors/filesystem"
+    "permalink": "/soda/docs/connectors/filesystem"
   },
   "next": {
     "title": "Nuix Connector",
-    "permalink": "/docs/connectors/nuix"
+    "permalink": "/soda/docs/connectors/nuix"
   }
 }

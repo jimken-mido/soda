@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Sum.md",
   "sourceDirName": "Core",
   "slug": "/Core/Sum",
-  "permalink": "/steps/v0.16.0/Core/Sum",
+  "permalink": "/soda/steps/v0.16.0/Core/Sum",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Sum.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/Sum.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.16.0/tags/core"
+      "permalink": "/soda/steps/v0.16.0/tags/core"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Subtract",
-    "permalink": "/steps/v0.16.0/Core/Subtract"
+    "permalink": "/soda/steps/v0.16.0/Core/Subtract"
   },
   "next": {
     "title": "Transform",
-    "permalink": "/steps/v0.16.0/Core/Transform"
+    "permalink": "/soda/steps/v0.16.0/Core/Transform"
   }
 }

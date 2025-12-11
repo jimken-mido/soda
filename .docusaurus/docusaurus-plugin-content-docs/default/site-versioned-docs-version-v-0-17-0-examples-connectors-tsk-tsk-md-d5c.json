@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/tsk/tsk.md",
   "sourceDirName": "examples/connectors/tsk",
   "slug": "/examples/connectors/tsk/",
-  "permalink": "/docs/v0.17.0/examples/connectors/tsk/",
+  "permalink": "/soda/docs/v0.17.0/examples/connectors/tsk/",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/tsk/tsk.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Tesseract Connector",
-    "permalink": "/docs/v0.17.0/examples/connectors/tesseract/"
+    "permalink": "/soda/docs/v0.17.0/examples/connectors/tesseract/"
   },
   "next": {
     "title": "Create an Autopsy Case and Add Data",
-    "permalink": "/docs/v0.17.0/examples/connectors/tsk/tsk-create-case-and-add-data"
+    "permalink": "/soda/docs/v0.17.0/examples/connectors/tsk/tsk-create-case-and-add-data"
   }
 }

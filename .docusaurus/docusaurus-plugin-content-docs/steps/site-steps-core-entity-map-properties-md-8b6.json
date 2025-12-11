@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/EntityMapProperties.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntityMapProperties",
-  "permalink": "/steps/next/Core/EntityMapProperties",
+  "permalink": "/soda/steps/next/Core/EntityMapProperties",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/EntityMapProperties.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/EntityMapProperties.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "EntityHasProperty",
-    "permalink": "/steps/next/Core/EntityHasProperty"
+    "permalink": "/soda/steps/next/Core/EntityHasProperty"
   },
   "next": {
     "title": "EntityRemoveProperty",
-    "permalink": "/steps/next/Core/EntityRemoveProperty"
+    "permalink": "/soda/steps/next/Core/EntityRemoveProperty"
   }
 }

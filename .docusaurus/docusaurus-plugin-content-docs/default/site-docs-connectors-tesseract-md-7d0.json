@@ -6,7 +6,7 @@
   "source": "@site/docs/connectors/tesseract.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/tesseract",
-  "permalink": "/docs/next/connectors/tesseract",
+  "permalink": "/soda/docs/next/connectors/tesseract",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/tesseract.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Structured Data Connector",
-    "permalink": "/docs/next/connectors/structureddata"
+    "permalink": "/soda/docs/next/connectors/structureddata"
   },
   "next": {
     "title": "The Sleuth Kit® Connector",
-    "permalink": "/docs/next/connectors/tsk"
+    "permalink": "/soda/docs/next/connectors/tsk"
   }
 }

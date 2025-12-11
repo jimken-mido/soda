@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/DoubleSubtract.md",
   "sourceDirName": "Core",
   "slug": "/Core/DoubleSubtract",
-  "permalink": "/steps/next/Core/DoubleSubtract",
+  "permalink": "/soda/steps/next/Core/DoubleSubtract",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/DoubleSubtract.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/DoubleSubtract.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "DoubleProduct",
-    "permalink": "/steps/next/Core/DoubleProduct"
+    "permalink": "/soda/steps/next/Core/DoubleProduct"
   },
   "next": {
     "title": "DoubleSum",
-    "permalink": "/steps/next/Core/DoubleSum"
+    "permalink": "/soda/steps/next/Core/DoubleSum"
   }
 }

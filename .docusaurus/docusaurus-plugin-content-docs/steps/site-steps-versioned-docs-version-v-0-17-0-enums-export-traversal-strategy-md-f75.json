@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Enums/ExportTraversalStrategy.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/ExportTraversalStrategy",
-  "permalink": "/steps/v0.17.0/Enums/ExportTraversalStrategy",
+  "permalink": "/soda/steps/v0.17.0/Enums/ExportTraversalStrategy",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Enums/ExportTraversalStrategy.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Enums/ExportTraversalStrategy.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/v0.17.0/tags/enums"
+      "permalink": "/soda/steps/v0.17.0/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/v0.17.0/tags/unit"
+      "permalink": "/soda/steps/v0.17.0/tags/unit"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ExportSortOrder",
-    "permalink": "/steps/v0.17.0/Enums/ExportSortOrder"
+    "permalink": "/soda/steps/v0.17.0/Enums/ExportSortOrder"
   },
   "next": {
     "title": "FileImportType",
-    "permalink": "/steps/v0.17.0/Enums/FileImportType"
+    "permalink": "/soda/steps/v0.17.0/Enums/FileImportType"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/build-from-source.md",
   "sourceDirName": ".",
   "slug": "/build-from-source",
-  "permalink": "/docs/next/build-from-source",
+  "permalink": "/soda/docs/next/build-from-source",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/build-from-source.md",
   "tags": [],
@@ -19,6 +19,6 @@
   "sidebar": "docs",
   "previous": {
     "title": "Developers' Guide",
-    "permalink": "/docs/next/developers-guide"
+    "permalink": "/soda/docs/next/developers-guide"
   }
 }

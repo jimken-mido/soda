@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/application-settings.md",
   "sourceDirName": "examples",
   "slug": "/examples/application-settings",
-  "permalink": "/docs/next/examples/application-settings",
+  "permalink": "/soda/docs/next/examples/application-settings",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/application-settings.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "SCL / Core",
-    "permalink": "/docs/next/examples/core"
+    "permalink": "/soda/docs/next/examples/core"
   },
   "next": {
     "title": "File System Connector",
-    "permalink": "/docs/next/examples/connectors/filesystem/"
+    "permalink": "/soda/docs/next/examples/connectors/filesystem/"
   }
 }

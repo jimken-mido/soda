@@ -6,17 +6,17 @@
   "source": "@site/steps/FileSystem/DirectoryGetItems.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/DirectoryGetItems",
-  "permalink": "/steps/next/FileSystem/DirectoryGetItems",
+  "permalink": "/soda/steps/next/FileSystem/DirectoryGetItems",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/FileSystem/DirectoryGetItems.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/FileSystem/DirectoryGetItems.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "FileSystem",
-      "permalink": "/steps/next/tags/file-system"
+      "permalink": "/soda/steps/next/tags/file-system"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "DirectoryExists",
-    "permalink": "/steps/next/FileSystem/DirectoryExists"
+    "permalink": "/soda/steps/next/FileSystem/DirectoryExists"
   },
   "next": {
     "title": "DirectoryMove",
-    "permalink": "/steps/next/FileSystem/DirectoryMove"
+    "permalink": "/soda/steps/next/FileSystem/DirectoryMove"
   }
 }

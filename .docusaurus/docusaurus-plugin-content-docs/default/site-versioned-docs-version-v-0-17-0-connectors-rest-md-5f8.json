@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.17.0/connectors/rest.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/rest",
-  "permalink": "/docs/v0.17.0/connectors/rest",
+  "permalink": "/soda/docs/v0.17.0/connectors/rest",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/connectors/rest.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Connector for Relativity®",
-    "permalink": "/docs/v0.17.0/connectors/relativity"
+    "permalink": "/soda/docs/v0.17.0/connectors/relativity"
   },
   "next": {
     "title": "Singer Connector",
-    "permalink": "/docs/v0.17.0/connectors/singer"
+    "permalink": "/soda/docs/v0.17.0/connectors/singer"
   }
 }

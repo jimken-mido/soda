@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityGetMatterStatuses.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityGetMatterStatuses",
-  "permalink": "/steps/Relativity/RelativityGetMatterStatuses",
+  "permalink": "/soda/steps/Relativity/RelativityGetMatterStatuses",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityGetMatterStatuses.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Relativity/RelativityGetMatterStatuses.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/tags/relativity"
+      "permalink": "/soda/steps/tags/relativity"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityGetClients",
-    "permalink": "/steps/Relativity/RelativityGetClients"
+    "permalink": "/soda/steps/Relativity/RelativityGetClients"
   },
   "next": {
     "title": "RelativityGetSubfolders",
-    "permalink": "/steps/Relativity/RelativityGetSubfolders"
+    "permalink": "/soda/steps/Relativity/RelativityGetSubfolders"
   }
 }

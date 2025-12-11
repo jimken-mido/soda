@@ -6,7 +6,7 @@
   "source": "@site/docs/connectors/structureddata.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/structureddata",
-  "permalink": "/docs/next/connectors/structureddata",
+  "permalink": "/soda/docs/next/connectors/structureddata",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/structureddata.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "SQL Connector",
-    "permalink": "/docs/next/connectors/sql"
+    "permalink": "/soda/docs/next/connectors/sql"
   },
   "next": {
     "title": "Tesseract Connector",
-    "permalink": "/docs/next/connectors/tesseract"
+    "permalink": "/soda/docs/next/connectors/tesseract"
   }
 }

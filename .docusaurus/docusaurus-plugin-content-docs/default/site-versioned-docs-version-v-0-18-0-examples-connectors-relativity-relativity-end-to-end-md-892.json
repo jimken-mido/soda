@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-end-to-end.md",
   "sourceDirName": "examples/connectors/relativity",
   "slug": "/examples/connectors/relativity/relativity-end-to-end",
-  "permalink": "/docs/examples/connectors/relativity/relativity-end-to-end",
+  "permalink": "/soda/docs/examples/connectors/relativity/relativity-end-to-end",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-end-to-end.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Create Workspace",
-    "permalink": "/docs/examples/connectors/relativity/relativity-create-workspace"
+    "permalink": "/soda/docs/examples/connectors/relativity/relativity-create-workspace"
   },
   "next": {
     "title": "Export Entities",
-    "permalink": "/docs/examples/connectors/relativity/relativity-export-entities"
+    "permalink": "/soda/docs/examples/connectors/relativity/relativity-export-entities"
   }
 }

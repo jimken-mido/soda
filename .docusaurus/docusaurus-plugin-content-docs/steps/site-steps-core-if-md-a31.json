@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/If.md",
   "sourceDirName": "Core",
   "slug": "/Core/If",
-  "permalink": "/steps/next/Core/If",
+  "permalink": "/soda/steps/next/Core/If",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/If.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/If.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "HttpRequest",
-    "permalink": "/steps/next/Core/HttpRequest"
+    "permalink": "/soda/steps/next/Core/HttpRequest"
   },
   "next": {
     "title": "IncrementVariable",
-    "permalink": "/steps/next/Core/IncrementVariable"
+    "permalink": "/soda/steps/next/Core/IncrementVariable"
   }
 }

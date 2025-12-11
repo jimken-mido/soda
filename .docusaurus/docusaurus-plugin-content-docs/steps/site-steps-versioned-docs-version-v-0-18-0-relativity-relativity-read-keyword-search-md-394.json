@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityReadKeywordSearch.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityReadKeywordSearch",
-  "permalink": "/steps/Relativity/RelativityReadKeywordSearch",
+  "permalink": "/soda/steps/Relativity/RelativityReadKeywordSearch",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityReadKeywordSearch.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Relativity/RelativityReadKeywordSearch.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Relativity",
-      "permalink": "/steps/tags/relativity"
+      "permalink": "/soda/steps/tags/relativity"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RelativityMoveFolder",
-    "permalink": "/steps/Relativity/RelativityMoveFolder"
+    "permalink": "/soda/steps/Relativity/RelativityMoveFolder"
   },
   "next": {
     "title": "RelativityRetrieveMatter",
-    "permalink": "/steps/Relativity/RelativityRetrieveMatter"
+    "permalink": "/soda/steps/Relativity/RelativityRetrieveMatter"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/LessThanOrEqual.md",
   "sourceDirName": "Core",
   "slug": "/Core/LessThanOrEqual",
-  "permalink": "/steps/v0.16.0/Core/LessThanOrEqual",
+  "permalink": "/soda/steps/v0.16.0/Core/LessThanOrEqual",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/LessThanOrEqual.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/LessThanOrEqual.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.16.0/tags/core"
+      "permalink": "/soda/steps/v0.16.0/tags/core"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "LessThan",
-    "permalink": "/steps/v0.16.0/Core/LessThan"
+    "permalink": "/soda/steps/v0.16.0/Core/LessThan"
   },
   "next": {
     "title": "Log",
-    "permalink": "/steps/v0.16.0/Core/Log"
+    "permalink": "/soda/steps/v0.16.0/Core/Log"
   }
 }

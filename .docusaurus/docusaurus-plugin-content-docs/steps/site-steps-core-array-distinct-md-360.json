@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/ArrayDistinct.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayDistinct",
-  "permalink": "/steps/next/Core/ArrayDistinct",
+  "permalink": "/soda/steps/next/Core/ArrayDistinct",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/ArrayDistinct.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayDistinct.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ArrayConcat",
-    "permalink": "/steps/next/Core/ArrayConcat"
+    "permalink": "/soda/steps/next/Core/ArrayConcat"
   },
   "next": {
     "title": "ArrayElementAtIndex",
-    "permalink": "/steps/next/Core/ArrayElementAtIndex"
+    "permalink": "/soda/steps/next/Core/ArrayElementAtIndex"
   }
 }

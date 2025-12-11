@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-create-workspace.md",
   "sourceDirName": "examples/connectors/relativity",
   "slug": "/examples/connectors/relativity/relativity-create-workspace",
-  "permalink": "/docs/examples/connectors/relativity/relativity-create-workspace",
+  "permalink": "/soda/docs/examples/connectors/relativity/relativity-create-workspace",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-create-workspace.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Phoenix Connector for Relativity",
-    "permalink": "/docs/examples/connectors/relativity/"
+    "permalink": "/soda/docs/examples/connectors/relativity/"
   },
   "next": {
     "title": "End to End Example",
-    "permalink": "/docs/examples/connectors/relativity/relativity-end-to-end"
+    "permalink": "/soda/docs/examples/connectors/relativity/relativity-end-to-end"
   }
 }

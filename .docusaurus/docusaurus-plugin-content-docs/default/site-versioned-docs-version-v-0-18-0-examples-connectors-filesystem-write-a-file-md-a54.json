@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/filesystem/write-a-file.md",
   "sourceDirName": "examples/connectors/filesystem",
   "slug": "/examples/connectors/filesystem/write-a-file",
-  "permalink": "/docs/examples/connectors/filesystem/write-a-file",
+  "permalink": "/soda/docs/examples/connectors/filesystem/write-a-file",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/filesystem/write-a-file.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Read a File",
-    "permalink": "/docs/examples/connectors/filesystem/read-a-file"
+    "permalink": "/soda/docs/examples/connectors/filesystem/read-a-file"
   },
   "next": {
     "title": "Microsoft365 Connector",
-    "permalink": "/docs/examples/connectors/microsoft365/"
+    "permalink": "/soda/docs/examples/connectors/microsoft365/"
   }
 }

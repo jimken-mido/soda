@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/DoubleSum.md",
   "sourceDirName": "Core",
   "slug": "/Core/DoubleSum",
-  "permalink": "/steps/next/Core/DoubleSum",
+  "permalink": "/soda/steps/next/Core/DoubleSum",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/DoubleSum.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/DoubleSum.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "DoubleSubtract",
-    "permalink": "/steps/next/Core/DoubleSubtract"
+    "permalink": "/soda/steps/next/Core/DoubleSubtract"
   },
   "next": {
     "title": "EntityCombine",
-    "permalink": "/steps/next/Core/EntityCombine"
+    "permalink": "/soda/steps/next/Core/EntityCombine"
   }
 }

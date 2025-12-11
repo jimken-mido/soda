@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix.md",
   "sourceDirName": ".",
   "slug": "/Nuix",
-  "permalink": "/steps/v0.17.0/Nuix",
+  "permalink": "/soda/steps/v0.17.0/Nuix",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/v0.17.0/tags/contents"
+      "permalink": "/soda/steps/v0.17.0/tags/contents"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/v0.17.0/tags/nuix"
+      "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "M365UsersRead",
-    "permalink": "/steps/v0.17.0/Microsoft365/M365UsersRead"
+    "permalink": "/soda/steps/v0.17.0/Microsoft365/M365UsersRead"
   },
   "next": {
     "title": "NuixAddConcordance",
-    "permalink": "/steps/v0.17.0/Nuix/NuixAddConcordance"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixAddConcordance"
   }
 }

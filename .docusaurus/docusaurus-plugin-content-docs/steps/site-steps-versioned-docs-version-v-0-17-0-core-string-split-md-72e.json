@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/StringSplit.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringSplit",
-  "permalink": "/steps/v0.17.0/Core/StringSplit",
+  "permalink": "/soda/steps/v0.17.0/Core/StringSplit",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/StringSplit.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/StringSplit.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.17.0/tags/core"
+      "permalink": "/soda/steps/v0.17.0/tags/core"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringReplace",
-    "permalink": "/steps/v0.17.0/Core/StringReplace"
+    "permalink": "/soda/steps/v0.17.0/Core/StringReplace"
   },
   "next": {
     "title": "StringSubstring",
-    "permalink": "/steps/v0.17.0/Core/StringSubstring"
+    "permalink": "/soda/steps/v0.17.0/Core/StringSubstring"
   }
 }

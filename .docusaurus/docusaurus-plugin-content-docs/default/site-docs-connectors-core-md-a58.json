@@ -6,7 +6,7 @@
   "source": "@site/docs/connectors/core.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/core",
-  "permalink": "/docs/next/connectors/core",
+  "permalink": "/soda/docs/next/connectors/core",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/core.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Schemas",
-    "permalink": "/docs/next/schemas"
+    "permalink": "/soda/docs/next/schemas"
   },
   "next": {
     "title": "File System Connector",
-    "permalink": "/docs/next/connectors/filesystem"
+    "permalink": "/soda/docs/next/connectors/filesystem"
   }
 }

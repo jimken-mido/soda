@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetAuditedSize.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixGetAuditedSize",
-  "permalink": "/steps/Nuix/NuixGetAuditedSize",
+  "permalink": "/soda/steps/Nuix/NuixGetAuditedSize",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetAuditedSize.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetAuditedSize.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/tags/nuix"
+      "permalink": "/soda/steps/tags/nuix"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixGeneratePrintPreviews",
-    "permalink": "/steps/Nuix/NuixGeneratePrintPreviews"
+    "permalink": "/soda/steps/Nuix/NuixGeneratePrintPreviews"
   },
   "next": {
     "title": "NuixGetCaseDetails",
-    "permalink": "/steps/Nuix/NuixGetCaseDetails"
+    "permalink": "/soda/steps/Nuix/NuixGetCaseDetails"
   }
 }

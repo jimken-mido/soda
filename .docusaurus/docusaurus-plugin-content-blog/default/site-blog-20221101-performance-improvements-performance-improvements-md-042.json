@@ -1,6 +1,6 @@
 {
-  "permalink": "/blog/performance-improvements-in-v0.18.0",
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/blog/20221101-performance-improvements/performance_improvements.md",
+  "permalink": "/soda/blog/performance-improvements-in-v0.18.0",
+  "editUrl": "https://github.com/jimken-mido/soda/blog/20221101-performance-improvements/performance_improvements.md",
   "source": "@site/blog/20221101-performance-improvements/performance_improvements.md",
   "title": "Performance Improvements in v0.18.0",
   "description": "We've greatly improved the performance of Phoenix with release v0.18.0. Find out how.",
@@ -9,31 +9,31 @@
   "tags": [
     {
       "label": "programming",
-      "permalink": "/blog/tags/programming"
+      "permalink": "/soda/blog/tags/programming"
     },
     {
       "label": "software",
-      "permalink": "/blog/tags/software"
+      "permalink": "/soda/blog/tags/software"
     },
     {
       "label": "performance",
-      "permalink": "/blog/tags/performance"
+      "permalink": "/soda/blog/tags/performance"
     },
     {
       "label": "C#",
-      "permalink": "/blog/tags/c"
+      "permalink": "/soda/blog/tags/c"
     },
     {
       "label": "csharp",
-      "permalink": "/blog/tags/csharp"
+      "permalink": "/soda/blog/tags/csharp"
     },
     {
       "label": "scl",
-      "permalink": "/blog/tags/scl"
+      "permalink": "/soda/blog/tags/scl"
     },
     {
       "label": "core",
-      "permalink": "/blog/tags/core"
+      "permalink": "/soda/blog/tags/core"
     }
   ],
   "readingTime": 11.6,
@@ -75,6 +75,6 @@
   },
   "nextItem": {
     "title": "Wrangling Dates with SCL",
-    "permalink": "/blog/wrangling-dates-with-scl"
+    "permalink": "/soda/blog/wrangling-dates-with-scl"
   }
 }

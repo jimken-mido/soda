@@ -6,17 +6,17 @@
   "source": "@site/steps/Sql/SqlCreateTable.md",
   "sourceDirName": "Sql",
   "slug": "/Sql/SqlCreateTable",
-  "permalink": "/steps/next/Sql/SqlCreateTable",
+  "permalink": "/soda/steps/next/Sql/SqlCreateTable",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Sql/SqlCreateTable.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Sql/SqlCreateTable.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Sql",
-      "permalink": "/steps/next/tags/sql"
+      "permalink": "/soda/steps/next/tags/sql"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "SqlCreateSchemaFromTable",
-    "permalink": "/steps/next/Sql/SqlCreateSchemaFromTable"
+    "permalink": "/soda/steps/next/Sql/SqlCreateSchemaFromTable"
   },
   "next": {
     "title": "SqlInsert",
-    "permalink": "/steps/next/Sql/SqlInsert"
+    "permalink": "/soda/steps/next/Sql/SqlInsert"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/all.md",
   "sourceDirName": ".",
   "slug": "/all",
-  "permalink": "/steps/v0.17.0/all",
+  "permalink": "/soda/steps/v0.17.0/all",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/all.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/all.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/v0.17.0/tags/contents"
+      "permalink": "/soda/steps/v0.17.0/tags/contents"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/v0.17.0/tags/unit"
+      "permalink": "/soda/steps/v0.17.0/tags/unit"
     }
   ],
   "version": "v0.17.0",
@@ -34,6 +34,6 @@
   "sidebar": "steps",
   "next": {
     "title": "Core",
-    "permalink": "/steps/v0.17.0/Core"
+    "permalink": "/soda/steps/v0.17.0/Core"
   }
 }

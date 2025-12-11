@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/ArrayLast.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayLast",
-  "permalink": "/steps/next/Core/ArrayLast",
+  "permalink": "/soda/steps/next/Core/ArrayLast",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/ArrayLast.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayLast.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "ArrayIsEmpty",
-    "permalink": "/steps/next/Core/ArrayIsEmpty"
+    "permalink": "/soda/steps/next/Core/ArrayIsEmpty"
   },
   "next": {
     "title": "ArrayLength",
-    "permalink": "/steps/next/Core/ArrayLength"
+    "permalink": "/soda/steps/next/Core/ArrayLength"
   }
 }

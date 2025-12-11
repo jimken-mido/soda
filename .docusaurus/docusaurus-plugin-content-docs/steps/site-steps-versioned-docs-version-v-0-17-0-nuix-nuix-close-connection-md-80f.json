@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixCloseConnection.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCloseConnection",
-  "permalink": "/steps/v0.17.0/Nuix/NuixCloseConnection",
+  "permalink": "/soda/steps/v0.17.0/Nuix/NuixCloseConnection",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixCloseConnection.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix/NuixCloseConnection.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/v0.17.0/tags/nuix"
+      "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "NuixAssignCustodian",
-    "permalink": "/steps/v0.17.0/Nuix/NuixAssignCustodian"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixAssignCustodian"
   },
   "next": {
     "title": "NuixCountItems",
-    "permalink": "/steps/v0.17.0/Nuix/NuixCountItems"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixCountItems"
   }
 }

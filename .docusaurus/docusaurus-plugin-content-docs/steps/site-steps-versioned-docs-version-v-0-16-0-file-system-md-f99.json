@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/FileSystem.md",
   "sourceDirName": ".",
   "slug": "/FileSystem",
-  "permalink": "/steps/v0.16.0/FileSystem",
+  "permalink": "/soda/steps/v0.16.0/FileSystem",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/FileSystem.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/FileSystem.md",
   "tags": [
     {
       "label": "Contents",
-      "permalink": "/steps/v0.16.0/tags/contents"
+      "permalink": "/soda/steps/v0.16.0/tags/contents"
     },
     {
       "label": "FileSystem",
-      "permalink": "/steps/v0.16.0/tags/file-system"
+      "permalink": "/soda/steps/v0.16.0/tags/file-system"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "UpdateBehaviour",
-    "permalink": "/steps/v0.16.0/Enums/UpdateBehaviour"
+    "permalink": "/soda/steps/v0.16.0/Enums/UpdateBehaviour"
   },
   "next": {
     "title": "DeleteItem",
-    "permalink": "/steps/v0.16.0/FileSystem/DeleteItem"
+    "permalink": "/soda/steps/v0.16.0/FileSystem/DeleteItem"
   }
 }

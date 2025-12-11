@@ -6,17 +6,17 @@
   "source": "@site/steps/Rest/RESTPost.md",
   "sourceDirName": "Rest",
   "slug": "/Rest/RESTPost",
-  "permalink": "/steps/next/Rest/RESTPost",
+  "permalink": "/soda/steps/next/Rest/RESTPost",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Rest/RESTPost.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Rest/RESTPost.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Rest",
-      "permalink": "/steps/next/tags/rest"
+      "permalink": "/soda/steps/next/tags/rest"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "RESTPatch",
-    "permalink": "/steps/next/Rest/RESTPatch"
+    "permalink": "/soda/steps/next/Rest/RESTPatch"
   },
   "next": {
     "title": "RESTPut",
-    "permalink": "/steps/next/Rest/RESTPut"
+    "permalink": "/soda/steps/next/Rest/RESTPut"
   }
 }

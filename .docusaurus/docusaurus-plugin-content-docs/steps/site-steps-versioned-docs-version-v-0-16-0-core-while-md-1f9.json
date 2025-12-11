@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/While.md",
   "sourceDirName": "Core",
   "slug": "/Core/While",
-  "permalink": "/steps/v0.16.0/Core/While",
+  "permalink": "/soda/steps/v0.16.0/Core/While",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/While.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/While.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.16.0/tags/core"
+      "permalink": "/soda/steps/v0.16.0/tags/core"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Validate",
-    "permalink": "/steps/v0.16.0/Core/Validate"
+    "permalink": "/soda/steps/v0.16.0/Core/Validate"
   },
   "next": {
     "title": "ArtifactType",
-    "permalink": "/steps/v0.16.0/Enums/ArtifactType"
+    "permalink": "/soda/steps/v0.16.0/Enums/ArtifactType"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/IsNull.md",
   "sourceDirName": "Core",
   "slug": "/Core/IsNull",
-  "permalink": "/steps/next/Core/IsNull",
+  "permalink": "/soda/steps/next/Core/IsNull",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/IsNull.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/IsNull.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "IncrementVariable",
-    "permalink": "/steps/next/Core/IncrementVariable"
+    "permalink": "/soda/steps/next/Core/IncrementVariable"
   },
   "next": {
     "title": "LessThan",
-    "permalink": "/steps/next/Core/LessThan"
+    "permalink": "/soda/steps/next/Core/LessThan"
   }
 }

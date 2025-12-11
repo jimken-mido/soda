@@ -6,17 +6,17 @@
   "source": "@site/steps/Core/StringFind.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringFind",
-  "permalink": "/steps/next/Core/StringFind",
+  "permalink": "/soda/steps/next/Core/StringFind",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringFind.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StringFind.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/next/tags/step"
+      "permalink": "/soda/steps/next/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/next/tags/core"
+      "permalink": "/soda/steps/next/tags/core"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "StringContains",
-    "permalink": "/steps/next/Core/StringContains"
+    "permalink": "/soda/steps/next/Core/StringContains"
   },
   "next": {
     "title": "StringFindLast",
-    "permalink": "/steps/next/Core/StringFindLast"
+    "permalink": "/soda/steps/next/Core/StringFindLast"
   }
 }

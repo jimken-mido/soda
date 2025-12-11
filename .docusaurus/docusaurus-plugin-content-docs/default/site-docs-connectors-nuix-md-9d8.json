@@ -6,7 +6,7 @@
   "source": "@site/docs/connectors/nuix.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/nuix",
-  "permalink": "/docs/next/connectors/nuix",
+  "permalink": "/soda/docs/next/connectors/nuix",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/nuix.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Microsoft365 Connector",
-    "permalink": "/docs/next/connectors/microsoft365"
+    "permalink": "/soda/docs/next/connectors/microsoft365"
   },
   "next": {
     "title": "PowerShell Connector",
-    "permalink": "/docs/next/connectors/powershell"
+    "permalink": "/soda/docs/next/connectors/powershell"
   }
 }

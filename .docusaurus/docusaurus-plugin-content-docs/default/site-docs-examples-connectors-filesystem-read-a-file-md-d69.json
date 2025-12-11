@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/filesystem/read-a-file.md",
   "sourceDirName": "examples/connectors/filesystem",
   "slug": "/examples/connectors/filesystem/read-a-file",
-  "permalink": "/docs/next/examples/connectors/filesystem/read-a-file",
+  "permalink": "/soda/docs/next/examples/connectors/filesystem/read-a-file",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/filesystem/read-a-file.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Extract an Archive",
-    "permalink": "/docs/next/examples/connectors/filesystem/extract-an-archive"
+    "permalink": "/soda/docs/next/examples/connectors/filesystem/extract-an-archive"
   },
   "next": {
     "title": "Write a File",
-    "permalink": "/docs/next/examples/connectors/filesystem/write-a-file"
+    "permalink": "/soda/docs/next/examples/connectors/filesystem/write-a-file"
   }
 }

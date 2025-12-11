@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/singer/singer.md",
   "sourceDirName": "examples/connectors/singer",
   "slug": "/examples/connectors/singer/",
-  "permalink": "/docs/v0.17.0/examples/connectors/singer/",
+  "permalink": "/soda/docs/v0.17.0/examples/connectors/singer/",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/singer/singer.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Get Reveal Cases",
-    "permalink": "/docs/v0.17.0/examples/connectors/rest/reveal-get-cases"
+    "permalink": "/soda/docs/v0.17.0/examples/connectors/rest/reveal-get-cases"
   },
   "next": {
     "title": "Import Data from Slack",
-    "permalink": "/docs/v0.17.0/examples/connectors/singer/import-data-from-slack"
+    "permalink": "/soda/docs/v0.17.0/examples/connectors/singer/import-data-from-slack"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/relativity/relativity.md",
   "sourceDirName": "examples/connectors/relativity",
   "slug": "/examples/connectors/relativity/",
-  "permalink": "/docs/v0.16.0/examples/connectors/relativity/",
+  "permalink": "/soda/docs/v0.16.0/examples/connectors/relativity/",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/relativity/relativity.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Download CSV",
-    "permalink": "/docs/v0.16.0/examples/connectors/powershell/download-csv"
+    "permalink": "/soda/docs/v0.16.0/examples/connectors/powershell/download-csv"
   },
   "next": {
     "title": "Create Workspace",
-    "permalink": "/docs/v0.16.0/examples/connectors/relativity/relativity-create-workspace"
+    "permalink": "/soda/docs/v0.16.0/examples/connectors/relativity/relativity-create-workspace"
   }
 }

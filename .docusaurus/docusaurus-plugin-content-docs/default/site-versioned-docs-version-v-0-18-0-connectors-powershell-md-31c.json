@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/connectors/powershell.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/powershell",
-  "permalink": "/docs/connectors/powershell",
+  "permalink": "/soda/docs/connectors/powershell",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/connectors/powershell.md",
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Nuix Connector",
-    "permalink": "/docs/connectors/nuix"
+    "permalink": "/soda/docs/connectors/nuix"
   },
   "next": {
     "title": "Connector for Relativity®",
-    "permalink": "/docs/connectors/relativity"
+    "permalink": "/soda/docs/connectors/relativity"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps/Enums/MatterStatus.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/MatterStatus",
-  "permalink": "/steps/next/Enums/MatterStatus",
+  "permalink": "/soda/steps/next/Enums/MatterStatus",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Enums/MatterStatus.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Enums/MatterStatus.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/next/tags/enums"
+      "permalink": "/soda/steps/next/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/next/tags/unit"
+      "permalink": "/soda/steps/next/tags/unit"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "LoadFileType",
-    "permalink": "/steps/next/Enums/LoadFileType"
+    "permalink": "/soda/steps/next/Enums/LoadFileType"
   },
   "next": {
     "title": "PrintPreviewState",
-    "permalink": "/steps/next/Enums/PrintPreviewState"
+    "permalink": "/soda/steps/next/Enums/PrintPreviewState"
   }
 }

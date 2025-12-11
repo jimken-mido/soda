@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddConcordance.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixAddConcordance",
-  "permalink": "/steps/v0.17.0/Nuix/NuixAddConcordance",
+  "permalink": "/soda/steps/v0.17.0/Nuix/NuixAddConcordance",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddConcordance.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddConcordance.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Nuix",
-      "permalink": "/steps/v0.17.0/tags/nuix"
+      "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "Nuix",
-    "permalink": "/steps/v0.17.0/Nuix"
+    "permalink": "/soda/steps/v0.17.0/Nuix"
   },
   "next": {
     "title": "NuixAddItem",
-    "permalink": "/steps/v0.17.0/Nuix/NuixAddItem"
+    "permalink": "/soda/steps/v0.17.0/Nuix/NuixAddItem"
   }
 }

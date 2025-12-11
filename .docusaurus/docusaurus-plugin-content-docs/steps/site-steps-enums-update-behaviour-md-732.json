@@ -6,17 +6,17 @@
   "source": "@site/steps/Enums/UpdateBehaviour.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/UpdateBehaviour",
-  "permalink": "/steps/next/Enums/UpdateBehaviour",
+  "permalink": "/soda/steps/next/Enums/UpdateBehaviour",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Enums/UpdateBehaviour.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps/Enums/UpdateBehaviour.md",
   "tags": [
     {
       "label": "Enums",
-      "permalink": "/steps/next/tags/enums"
+      "permalink": "/soda/steps/next/tags/enums"
     },
     {
       "label": "Unit",
-      "permalink": "/steps/next/tags/unit"
+      "permalink": "/soda/steps/next/tags/unit"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "TrimSide",
-    "permalink": "/steps/next/Enums/TrimSide"
+    "permalink": "/soda/steps/next/Enums/TrimSide"
   },
   "next": {
     "title": "FileSystem",
-    "permalink": "/steps/next/FileSystem"
+    "permalink": "/soda/steps/next/FileSystem"
   }
 }

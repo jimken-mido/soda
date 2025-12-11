@@ -6,7 +6,7 @@
   "source": "@site/docs/examples/connectors/powershell/download-csv.md",
   "sourceDirName": "examples/connectors/powershell",
   "slug": "/examples/connectors/powershell/download-csv",
-  "permalink": "/docs/next/examples/connectors/powershell/download-csv",
+  "permalink": "/soda/docs/next/examples/connectors/powershell/download-csv",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/powershell/download-csv.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "PowerShell Connector",
-    "permalink": "/docs/next/examples/connectors/powershell/"
+    "permalink": "/soda/docs/next/examples/connectors/powershell/"
   },
   "next": {
     "title": "Phoenix Connector for Relativity",
-    "permalink": "/docs/next/examples/connectors/relativity/"
+    "permalink": "/soda/docs/next/examples/connectors/relativity/"
   }
 }

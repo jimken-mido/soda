@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/FileSystem/FileCopy.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/FileCopy",
-  "permalink": "/steps/v0.17.0/FileSystem/FileCopy",
+  "permalink": "/soda/steps/v0.17.0/FileSystem/FileCopy",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/FileSystem/FileCopy.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/FileSystem/FileCopy.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "FileSystem",
-      "permalink": "/steps/v0.17.0/tags/file-system"
+      "permalink": "/soda/steps/v0.17.0/tags/file-system"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "DirectoryMove",
-    "permalink": "/steps/v0.17.0/FileSystem/DirectoryMove"
+    "permalink": "/soda/steps/v0.17.0/FileSystem/DirectoryMove"
   },
   "next": {
     "title": "FileExists",
-    "permalink": "/steps/v0.17.0/FileSystem/FileExists"
+    "permalink": "/soda/steps/v0.17.0/FileSystem/FileExists"
   }
 }

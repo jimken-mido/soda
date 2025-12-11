@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/Sql/OpenConnection.md",
   "sourceDirName": "Sql",
   "slug": "/Sql/OpenConnection",
-  "permalink": "/steps/Sql/OpenConnection",
+  "permalink": "/soda/steps/Sql/OpenConnection",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Sql/OpenConnection.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Sql/OpenConnection.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "Sql",
-      "permalink": "/steps/tags/sql"
+      "permalink": "/soda/steps/tags/sql"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "CreatePostgresConnectionString",
-    "permalink": "/steps/Sql/CreatePostgresConnectionString"
+    "permalink": "/soda/steps/Sql/CreatePostgresConnectionString"
   },
   "next": {
     "title": "SqlCommand",
-    "permalink": "/steps/Sql/SqlCommand"
+    "permalink": "/soda/steps/Sql/SqlCommand"
   }
 }

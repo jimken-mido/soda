@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.18.0/FileSystem/DirectoryCopy.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/DirectoryCopy",
-  "permalink": "/steps/FileSystem/DirectoryCopy",
+  "permalink": "/soda/steps/FileSystem/DirectoryCopy",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/FileSystem/DirectoryCopy.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/FileSystem/DirectoryCopy.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/tags/step"
+      "permalink": "/soda/steps/tags/step"
     },
     {
       "label": "FileSystem",
-      "permalink": "/steps/tags/file-system"
+      "permalink": "/soda/steps/tags/file-system"
     }
   ],
   "version": "v0.18.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "DeleteItem",
-    "permalink": "/steps/FileSystem/DeleteItem"
+    "permalink": "/soda/steps/FileSystem/DeleteItem"
   },
   "next": {
     "title": "DirectoryCreate",
-    "permalink": "/steps/FileSystem/DirectoryCreate"
+    "permalink": "/soda/steps/FileSystem/DirectoryCreate"
   }
 }

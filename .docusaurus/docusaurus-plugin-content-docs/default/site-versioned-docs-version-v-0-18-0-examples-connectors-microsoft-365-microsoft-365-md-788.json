@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/microsoft365/microsoft365.md",
   "sourceDirName": "examples/connectors/microsoft365",
   "slug": "/examples/connectors/microsoft365/",
-  "permalink": "/docs/examples/connectors/microsoft365/",
+  "permalink": "/soda/docs/examples/connectors/microsoft365/",
   "draft": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/microsoft365/microsoft365.md",
   "tags": [],
@@ -20,10 +20,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Write a File",
-    "permalink": "/docs/examples/connectors/filesystem/write-a-file"
+    "permalink": "/soda/docs/examples/connectors/filesystem/write-a-file"
   },
   "next": {
     "title": "Get Teams Channels",
-    "permalink": "/docs/examples/connectors/microsoft365/microsoft365-get-team-channels"
+    "permalink": "/soda/docs/examples/connectors/microsoft365/microsoft365-get-team-channels"
   }
 }

@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.16.0/TSK/AutopsyGenerateReports.md",
   "sourceDirName": "TSK",
   "slug": "/TSK/AutopsyGenerateReports",
-  "permalink": "/steps/v0.16.0/TSK/AutopsyGenerateReports",
+  "permalink": "/soda/steps/v0.16.0/TSK/AutopsyGenerateReports",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/TSK/AutopsyGenerateReports.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/TSK/AutopsyGenerateReports.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.16.0/tags/step"
+      "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
       "label": "TSK",
-      "permalink": "/steps/v0.16.0/tags/tsk"
+      "permalink": "/soda/steps/v0.16.0/tags/tsk"
     }
   ],
   "version": "v0.16.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "AutopsyCreateNewCase",
-    "permalink": "/steps/v0.16.0/TSK/AutopsyCreateNewCase"
+    "permalink": "/soda/steps/v0.16.0/TSK/AutopsyCreateNewCase"
   },
   "next": {
     "title": "AutopsyListDataSources",
-    "permalink": "/steps/v0.16.0/TSK/AutopsyListDataSources"
+    "permalink": "/soda/steps/v0.16.0/TSK/AutopsyListDataSources"
   }
 }

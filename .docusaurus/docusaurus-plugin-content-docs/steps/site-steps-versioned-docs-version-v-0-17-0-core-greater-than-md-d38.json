@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/GreaterThan.md",
   "sourceDirName": "Core",
   "slug": "/Core/GreaterThan",
-  "permalink": "/steps/v0.17.0/Core/GreaterThan",
+  "permalink": "/soda/steps/v0.17.0/Core/GreaterThan",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/GreaterThan.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/GreaterThan.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Core",
-      "permalink": "/steps/v0.17.0/tags/core"
+      "permalink": "/soda/steps/v0.17.0/tags/core"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "GetVariable",
-    "permalink": "/steps/v0.17.0/Core/GetVariable"
+    "permalink": "/soda/steps/v0.17.0/Core/GetVariable"
   },
   "next": {
     "title": "GreaterThanOrEqual",
-    "permalink": "/steps/v0.17.0/Core/GreaterThanOrEqual"
+    "permalink": "/soda/steps/v0.17.0/Core/GreaterThanOrEqual"
   }
 }

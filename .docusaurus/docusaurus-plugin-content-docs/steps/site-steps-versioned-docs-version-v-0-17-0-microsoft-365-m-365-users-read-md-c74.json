@@ -6,17 +6,17 @@
   "source": "@site/steps_versioned_docs/version-v0.17.0/Microsoft365/M365UsersRead.md",
   "sourceDirName": "Microsoft365",
   "slug": "/Microsoft365/M365UsersRead",
-  "permalink": "/steps/v0.17.0/Microsoft365/M365UsersRead",
+  "permalink": "/soda/steps/v0.17.0/Microsoft365/M365UsersRead",
   "draft": false,
-  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Microsoft365/M365UsersRead.md",
+  "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Microsoft365/M365UsersRead.md",
   "tags": [
     {
       "label": "Step",
-      "permalink": "/steps/v0.17.0/tags/step"
+      "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
       "label": "Microsoft365",
-      "permalink": "/steps/v0.17.0/tags/microsoft-365"
+      "permalink": "/soda/steps/v0.17.0/tags/microsoft-365"
     }
   ],
   "version": "v0.17.0",
@@ -34,10 +34,10 @@
   "sidebar": "steps",
   "previous": {
     "title": "M365TeamsRead",
-    "permalink": "/steps/v0.17.0/Microsoft365/M365TeamsRead"
+    "permalink": "/soda/steps/v0.17.0/Microsoft365/M365TeamsRead"
   },
   "next": {
     "title": "Nuix",
-    "permalink": "/steps/v0.17.0/Nuix"
+    "permalink": "/soda/steps/v0.17.0/Nuix"
   }
 }
