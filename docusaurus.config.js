@@ -65,7 +65,7 @@ function getNextVersionName() {
 const config = {
   title: 'PhoenixSoda',
   tagline: 'Automate all the tings',
-  url: 'jimken-mido.github.io/',
+  url: 'https://jimken-mido.github.io/',
   baseUrl: '/soda/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
