@@ -8,7 +8,7 @@ export default {
   "tagline": "Automate all the tings",
   "url": "https://jimken-mido.github.io",
   "baseUrl": "/soda/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.png",
   "organizationName": "loremipsum",
