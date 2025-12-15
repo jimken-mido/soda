@@ -1,5 +1,4 @@
 {
-  "unversionedId": "TSK/AutopsyGenerateReports",
   "id": "TSK/AutopsyGenerateReports",
   "title": "AutopsyGenerateReports Step | TSK Connector Documentation",
   "description": "Generate Reports. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/TSK/AutopsyGenerateReports",
   "permalink": "/soda/steps/next/TSK/AutopsyGenerateReports",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/TSK/AutopsyGenerateReports.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "TSK",
       "permalink": "/soda/steps/next/tags/tsk"
     }

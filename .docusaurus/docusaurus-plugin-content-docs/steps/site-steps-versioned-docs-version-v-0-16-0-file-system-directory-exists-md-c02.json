@@ -1,6 +1,5 @@
 {
-  "unversionedId": "FileSystem/DirectoryExists",
-  "id": "version-v0.16.0/FileSystem/DirectoryExists",
+  "id": "FileSystem/DirectoryExists",
   "title": "DirectoryExists Step | File System Connector Documentation",
   "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/FileSystem/DirectoryExists.md",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem/DirectoryExists",
   "permalink": "/soda/steps/v0.16.0/FileSystem/DirectoryExists",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/FileSystem/DirectoryExists.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/v0.16.0/tags/file-system"
     }

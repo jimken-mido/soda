@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/ArrayMap",
-  "id": "version-v0.16.0/Core/ArrayMap",
+  "id": "Core/ArrayMap",
   "title": "ArrayMap Step | Core SDK Documentation",
   "description": "Map each element of an array or entity stream to a new value. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/ArrayMap.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayMap",
   "permalink": "/soda/steps/v0.16.0/Core/ArrayMap",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/ArrayMap.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

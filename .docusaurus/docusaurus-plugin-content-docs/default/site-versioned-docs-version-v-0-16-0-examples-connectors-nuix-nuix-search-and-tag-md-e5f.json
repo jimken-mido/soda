@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/connectors/nuix/nuix-search-and-tag",
-  "id": "version-v0.16.0/examples/connectors/nuix/nuix-search-and-tag",
+  "id": "examples/connectors/nuix/nuix-search-and-tag",
   "title": "Search and Tag Items | Nuix Connector Examples",
   "description": "This example will run a number of searches and tag the responsive",
   "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/nuix/nuix-search-and-tag.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/nuix/nuix-search-and-tag",
   "permalink": "/soda/docs/v0.16.0/examples/connectors/nuix/nuix-search-and-tag",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/nuix/nuix-search-and-tag.md",
   "tags": [],
   "version": "v0.16.0",

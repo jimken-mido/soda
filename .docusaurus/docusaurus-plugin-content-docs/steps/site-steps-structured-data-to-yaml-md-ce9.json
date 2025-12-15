@@ -1,5 +1,4 @@
 {
-  "unversionedId": "StructuredData/ToYaml",
   "id": "StructuredData/ToYaml",
   "title": "ToYaml Step | Structured Data Connector Documentation",
   "description": "Writes an entity to a stream in YAML format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData/ToYaml",
   "permalink": "/soda/steps/next/StructuredData/ToYaml",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/StructuredData/ToYaml.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/next/tags/structured-data"
     }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/singer/import-data-from-slack",
   "id": "examples/connectors/singer/import-data-from-slack",
   "title": "Import Data from Slack | Singer Connector Examples",
   "description": "Instructions on how to install and setup Phoenix and the Singer Connector.",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/singer/import-data-from-slack",
   "permalink": "/soda/docs/next/examples/connectors/singer/import-data-from-slack",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/singer/import-data-from-slack.md",
   "tags": [],
   "version": "current",

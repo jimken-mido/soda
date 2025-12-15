@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Rest/RESTGetJSON",
-  "id": "version-v0.17.0/Rest/RESTGetJSON",
+  "id": "Rest/RESTGetJSON",
   "title": "RESTGetJSON Step | REST Connector Documentation",
   "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Rest/RESTGetJSON.md",
@@ -8,13 +7,16 @@
   "slug": "/Rest/RESTGetJSON",
   "permalink": "/soda/steps/v0.17.0/Rest/RESTGetJSON",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Rest/RESTGetJSON.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Rest",
       "permalink": "/soda/steps/v0.17.0/tags/rest"
     }

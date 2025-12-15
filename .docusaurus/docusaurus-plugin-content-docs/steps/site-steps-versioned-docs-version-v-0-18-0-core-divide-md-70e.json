@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Divide",
-  "id": "version-v0.18.0/Core/Divide",
+  "id": "Core/Divide",
   "title": "Divide Step | Core SDK Documentation",
   "description": "Divide an integer by a list of integers. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Divide.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Divide",
   "permalink": "/soda/steps/Core/Divide",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/Divide.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }
@@ -37,7 +39,7 @@
     "permalink": "/soda/steps/Core/Delay"
   },
   "next": {
-    "title": "DoNothing",
-    "permalink": "/soda/steps/Core/DoNothing"
+    "title": "DocumentationCreate",
+    "permalink": "/soda/steps/Core/DocumentationCreate"
   }
 }

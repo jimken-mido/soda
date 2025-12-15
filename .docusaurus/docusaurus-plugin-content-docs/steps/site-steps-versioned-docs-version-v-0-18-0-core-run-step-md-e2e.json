@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/RunStep",
-  "id": "version-v0.18.0/Core/RunStep",
+  "id": "Core/RunStep",
   "title": "RunStep Step | Core SDK Documentation",
   "description": "Runs another step, reads the output to the end, and ignores it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/RunStep.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/RunStep",
   "permalink": "/soda/steps/Core/RunStep",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/RunStep.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

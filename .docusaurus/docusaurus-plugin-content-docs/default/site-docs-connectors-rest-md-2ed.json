@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/rest",
   "id": "connectors/rest",
   "title": "REST Connector",
   "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/rest",
   "permalink": "/soda/docs/next/connectors/rest",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/rest.md",
   "tags": [],
   "version": "current",

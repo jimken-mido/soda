@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/schemas/ussec-schema",
-  "id": "version-v0.17.0/examples/schemas/ussec-schema",
+  "id": "examples/schemas/ussec-schema",
   "title": "USSEC Schema | Schema Examples",
   "description": "This is a schema which enforces that data meets the",
   "source": "@site/versioned_docs/version-v0.17.0/examples/schemas/ussec-schema.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/schemas/ussec-schema",
   "permalink": "/soda/docs/v0.17.0/examples/schemas/ussec-schema",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/schemas/ussec-schema.md",
   "tags": [],
   "version": "v0.17.0",

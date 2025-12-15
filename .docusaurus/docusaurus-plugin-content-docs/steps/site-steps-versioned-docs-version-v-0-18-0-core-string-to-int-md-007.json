@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/StringToInt",
-  "id": "version-v0.18.0/Core/StringToInt",
+  "id": "Core/StringToInt",
   "title": "StringToInt Step | Core SDK Documentation",
   "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringToInt.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringToInt",
   "permalink": "/soda/steps/Core/StringToInt",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/StringToInt.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

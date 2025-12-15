@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Relativity/RelativityGetSubfolders",
-  "id": "version-v0.17.0/Relativity/RelativityGetSubfolders",
+  "id": "Relativity/RelativityGetSubfolders",
   "title": "RelativityGetSubfolders Step | Phoenix Connector for Relativity Documentation",
   "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetSubfolders.md",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityGetSubfolders",
   "permalink": "/soda/steps/v0.17.0/Relativity/RelativityGetSubfolders",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetSubfolders.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/v0.17.0/tags/relativity"
     }

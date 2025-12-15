@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/schemas/transform-concordance-to-ussec",
-  "id": "version-v0.18.0/examples/schemas/transform-concordance-to-ussec",
+  "id": "examples/schemas/transform-concordance-to-ussec",
   "title": "Transform Concordance File to USSEC Schema | Schema Examples",
   "description": "This example converts a concordance load file to match a schema.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/schemas/transform-concordance-to-ussec.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/schemas/transform-concordance-to-ussec",
   "permalink": "/soda/docs/examples/schemas/transform-concordance-to-ussec",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/schemas/transform-concordance-to-ussec.md",
   "tags": [],
   "version": "v0.18.0",

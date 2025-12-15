@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Enums/SortEnum",
-  "id": "version-v0.17.0/Enums/SortEnum",
+  "id": "Enums/SortEnum",
   "title": "SortEnum | Enums",
   "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Enums/SortEnum.md",
@@ -8,13 +7,16 @@
   "slug": "/Enums/SortEnum",
   "permalink": "/soda/steps/v0.17.0/Enums/SortEnum",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Enums/SortEnum.md",
   "tags": [
     {
+      "inline": true,
       "label": "Enums",
       "permalink": "/soda/steps/v0.17.0/tags/enums"
     },
     {
+      "inline": true,
       "label": "Unit",
       "permalink": "/soda/steps/v0.17.0/tags/unit"
     }

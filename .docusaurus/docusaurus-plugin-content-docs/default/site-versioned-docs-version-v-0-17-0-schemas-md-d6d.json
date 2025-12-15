@@ -1,6 +1,5 @@
 {
-  "unversionedId": "schemas",
-  "id": "version-v0.17.0/schemas",
+  "id": "schemas",
   "title": "Schemas",
   "description": "Schemas are a way to ensure that your data (entities, arrays or streams)",
   "source": "@site/versioned_docs/version-v0.17.0/schemas.md",
@@ -8,6 +7,7 @@
   "slug": "/schemas",
   "permalink": "/soda/docs/v0.17.0/schemas",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/schemas.md",
   "tags": [],
   "version": "v0.17.0",

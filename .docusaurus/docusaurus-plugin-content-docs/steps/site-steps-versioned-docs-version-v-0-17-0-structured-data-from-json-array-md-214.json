@@ -1,6 +1,5 @@
 {
-  "unversionedId": "StructuredData/FromJsonArray",
-  "id": "version-v0.17.0/StructuredData/FromJsonArray",
+  "id": "StructuredData/FromJsonArray",
   "title": "FromJsonArray Step | Structured Data Connector Documentation",
   "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/StructuredData/FromJsonArray.md",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData/FromJsonArray",
   "permalink": "/soda/steps/v0.17.0/StructuredData/FromJsonArray",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/StructuredData/FromJsonArray.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/v0.17.0/tags/structured-data"
     }

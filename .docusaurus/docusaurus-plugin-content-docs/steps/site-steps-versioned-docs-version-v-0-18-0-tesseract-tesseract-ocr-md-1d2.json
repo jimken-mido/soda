@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Tesseract/TesseractOCR",
-  "id": "version-v0.18.0/Tesseract/TesseractOCR",
+  "id": "Tesseract/TesseractOCR",
   "title": "TesseractOCR Step | Tesseract OCR Connector Documentation",
   "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Tesseract/TesseractOCR.md",
@@ -8,13 +7,16 @@
   "slug": "/Tesseract/TesseractOCR",
   "permalink": "/soda/steps/Tesseract/TesseractOCR",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Tesseract/TesseractOCR.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Tesseract",
       "permalink": "/soda/steps/tags/tesseract"
     }

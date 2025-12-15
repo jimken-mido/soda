@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/SchemaCreate",
   "id": "Core/SchemaCreate",
   "title": "SchemaCreate Step | Core SDK Documentation",
   "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/SchemaCreate",
   "permalink": "/soda/steps/next/Core/SchemaCreate",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/SchemaCreate.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

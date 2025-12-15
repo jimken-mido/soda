@@ -9,7 +9,6 @@ export default {
   "url": "https://jimken-mido.github.io",
   "baseUrl": "/soda/",
   "onBrokenLinks": "warn",
-  "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.png",
   "organizationName": "jimken-mido",
   "projectName": "jimken-mido.github.io",
@@ -434,6 +433,11 @@ export default {
       "disableSwitch": false,
       "respectPrefersColorScheme": false
     },
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
+      }
+    },
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -449,6 +453,28 @@ export default {
     ],
     "localeConfigs": {}
   },
+  "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
+    },
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
+  "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "themes": [],
   "scripts": [],
@@ -458,6 +484,20 @@ export default {
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {
-    "mermaid": false
+    "format": "mdx",
+    "mermaid": false,
+    "emoji": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    },
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
+    }
   }
 };

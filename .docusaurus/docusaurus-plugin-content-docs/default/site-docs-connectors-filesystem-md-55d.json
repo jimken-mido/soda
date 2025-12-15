@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/filesystem",
   "id": "connectors/filesystem",
   "title": "File System Connector",
   "description": "Phoenix connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/filesystem",
   "permalink": "/soda/docs/next/connectors/filesystem",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/filesystem.md",
   "tags": [],
   "version": "current",

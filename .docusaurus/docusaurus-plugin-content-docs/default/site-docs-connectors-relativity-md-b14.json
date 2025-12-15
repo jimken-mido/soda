@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/relativity",
   "id": "connectors/relativity",
   "title": "Connector for Relativity®",
   "description": "Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/relativity",
   "permalink": "/soda/docs/next/connectors/relativity",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/relativity.md",
   "tags": [],
   "version": "current",

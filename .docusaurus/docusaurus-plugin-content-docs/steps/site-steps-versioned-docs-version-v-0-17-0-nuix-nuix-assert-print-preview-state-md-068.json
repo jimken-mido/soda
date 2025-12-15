@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Nuix/NuixAssertPrintPreviewState",
-  "id": "version-v0.17.0/Nuix/NuixAssertPrintPreviewState",
+  "id": "Nuix/NuixAssertPrintPreviewState",
   "title": "NuixAssertPrintPreviewState Step | Nuix Connector Documentation",
   "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixAssertPrintPreviewState.md",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixAssertPrintPreviewState",
   "permalink": "/soda/steps/v0.17.0/Nuix/NuixAssertPrintPreviewState",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix/NuixAssertPrintPreviewState.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Tesseract/GetImageFormat",
   "id": "Tesseract/GetImageFormat",
   "title": "GetImageFormat Step | Tesseract OCR Connector Documentation",
   "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Tesseract/GetImageFormat",
   "permalink": "/soda/steps/next/Tesseract/GetImageFormat",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Tesseract/GetImageFormat.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Tesseract",
       "permalink": "/soda/steps/next/tags/tesseract"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Relativity/RelativityDeleteMatter",
-  "id": "version-v0.16.0/Relativity/RelativityDeleteMatter",
+  "id": "Relativity/RelativityDeleteMatter",
   "title": "RelativityDeleteMatter Step | Phoenix Connector for Relativity Documentation",
   "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity/RelativityDeleteMatter.md",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityDeleteMatter",
   "permalink": "/soda/steps/v0.16.0/Relativity/RelativityDeleteMatter",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Relativity/RelativityDeleteMatter.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/v0.16.0/tags/relativity"
     }

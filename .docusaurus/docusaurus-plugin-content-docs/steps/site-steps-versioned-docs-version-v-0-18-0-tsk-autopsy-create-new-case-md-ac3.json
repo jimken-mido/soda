@@ -1,6 +1,5 @@
 {
-  "unversionedId": "TSK/AutopsyCreateNewCase",
-  "id": "version-v0.18.0/TSK/AutopsyCreateNewCase",
+  "id": "TSK/AutopsyCreateNewCase",
   "title": "AutopsyCreateNewCase Step | TSK Connector Documentation",
   "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/TSK/AutopsyCreateNewCase.md",
@@ -8,13 +7,16 @@
   "slug": "/TSK/AutopsyCreateNewCase",
   "permalink": "/soda/steps/TSK/AutopsyCreateNewCase",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/TSK/AutopsyCreateNewCase.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "TSK",
       "permalink": "/soda/steps/tags/tsk"
     }

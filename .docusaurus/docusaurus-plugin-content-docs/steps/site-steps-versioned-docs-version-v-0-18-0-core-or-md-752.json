@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Or",
-  "id": "version-v0.18.0/Core/Or",
+  "id": "Core/Or",
   "title": "Or Step | Core SDK Documentation",
   "description": "Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Or.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Or",
   "permalink": "/soda/steps/Core/Or",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/Or.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

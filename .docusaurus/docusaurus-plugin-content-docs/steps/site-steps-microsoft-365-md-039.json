@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Microsoft365",
   "id": "Microsoft365",
   "title": "All Steps | Microsoft 365 Connector Documentation",
   "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
@@ -8,13 +7,16 @@
   "slug": "/Microsoft365",
   "permalink": "/soda/steps/next/Microsoft365",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Microsoft365.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/next/tags/contents"
     },
     {
+      "inline": true,
       "label": "Microsoft365",
       "permalink": "/soda/steps/next/tags/microsoft-365"
     }

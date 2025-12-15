@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Sum",
-  "id": "version-v0.17.0/Core/Sum",
+  "id": "Core/Sum",
   "title": "Sum Step | Core SDK Documentation",
   "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/Sum.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Sum",
   "permalink": "/soda/steps/v0.17.0/Core/Sum",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/Sum.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

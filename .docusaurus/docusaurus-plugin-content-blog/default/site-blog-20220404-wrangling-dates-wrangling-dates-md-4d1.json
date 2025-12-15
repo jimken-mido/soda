@@ -5,38 +5,44 @@
   "title": "Wrangling Dates with SCL",
   "description": "Use the Phoenix Configuration Language to easily combine and convert dates when working with structured data formats.",
   "date": "2022-04-04T00:00:00.000Z",
-  "formattedDate": "April 4, 2022",
   "tags": [
     {
+      "inline": true,
       "label": "Phoenix",
       "permalink": "/soda/blog/tags/phoenix"
     },
     {
+      "inline": true,
       "label": "scl",
       "permalink": "/soda/blog/tags/scl"
     },
     {
+      "inline": true,
       "label": "examples",
       "permalink": "/soda/blog/tags/examples"
     },
     {
+      "inline": true,
       "label": "dates",
       "permalink": "/soda/blog/tags/dates"
     },
     {
+      "inline": true,
       "label": "structured data",
       "permalink": "/soda/blog/tags/structured-data"
     },
     {
+      "inline": true,
       "label": "transform",
       "permalink": "/soda/blog/tags/transform"
     },
     {
+      "inline": true,
       "label": "schemas",
       "permalink": "/soda/blog/tags/schemas"
     }
   ],
-  "readingTime": 6.095,
+  "readingTime": 6.66,
   "hasTruncateMarker": true,
   "authors": [
     {
@@ -44,7 +50,10 @@
       "title": "Phoenix Maintainer",
       "url": "https://github.com/wainwrightmark",
       "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
-      "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
+      "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
+      "socials": {},
+      "key": null,
+      "page": null
     }
   ],
   "frontMatter": {
@@ -71,6 +80,7 @@
       "schemas"
     ]
   },
+  "unlisted": false,
   "prevItem": {
     "title": "Performance Improvements in v0.18.0",
     "permalink": "/soda/blog/performance-improvements-in-v0.18.0"

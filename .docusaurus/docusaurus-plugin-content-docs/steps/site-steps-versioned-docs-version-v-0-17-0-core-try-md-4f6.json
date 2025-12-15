@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Try",
-  "id": "version-v0.17.0/Core/Try",
+  "id": "Core/Try",
   "title": "Try Step | Core SDK Documentation",
   "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/Try.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Try",
   "permalink": "/soda/steps/v0.17.0/Core/Try",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/Try.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

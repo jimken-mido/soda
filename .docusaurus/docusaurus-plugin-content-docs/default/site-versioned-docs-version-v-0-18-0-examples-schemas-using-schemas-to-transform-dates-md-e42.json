@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/schemas/using-schemas-to-transform-dates",
-  "id": "version-v0.18.0/examples/schemas/using-schemas-to-transform-dates",
+  "id": "examples/schemas/using-schemas-to-transform-dates",
   "title": "How to Use Schemas to Transform Dates | Schema Examples",
   "description": "This example shows how to deal with entities with potentially difficult or inconsistent date fields.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/schemas/using-schemas-to-transform-dates.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/schemas/using-schemas-to-transform-dates",
   "permalink": "/soda/docs/examples/schemas/using-schemas-to-transform-dates",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/schemas/using-schemas-to-transform-dates.md",
   "tags": [],
   "version": "v0.18.0",

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "FileSystem/DirectoryCreate",
   "id": "FileSystem/DirectoryCreate",
   "title": "DirectoryCreate Step | File System Connector Documentation",
   "description": "Creates a new directory in the file system. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem/DirectoryCreate",
   "permalink": "/soda/steps/next/FileSystem/DirectoryCreate",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/FileSystem/DirectoryCreate.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/next/tags/file-system"
     }

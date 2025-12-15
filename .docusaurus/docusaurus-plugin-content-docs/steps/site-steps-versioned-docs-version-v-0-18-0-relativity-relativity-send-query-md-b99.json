@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Relativity/RelativitySendQuery",
-  "id": "version-v0.18.0/Relativity/RelativitySendQuery",
+  "id": "Relativity/RelativitySendQuery",
   "title": "RelativitySendQuery Step | Phoenix Connector for Relativity Documentation",
   "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativitySendQuery.md",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativitySendQuery",
   "permalink": "/soda/steps/Relativity/RelativitySendQuery",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Relativity/RelativitySendQuery.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/tags/relativity"
     }

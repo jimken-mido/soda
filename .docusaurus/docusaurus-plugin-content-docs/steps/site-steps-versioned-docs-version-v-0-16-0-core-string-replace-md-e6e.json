@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/StringReplace",
-  "id": "version-v0.16.0/Core/StringReplace",
+  "id": "Core/StringReplace",
   "title": "StringReplace Step | Core SDK Documentation",
   "description": "Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/StringReplace.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringReplace",
   "permalink": "/soda/steps/v0.16.0/Core/StringReplace",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/StringReplace.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

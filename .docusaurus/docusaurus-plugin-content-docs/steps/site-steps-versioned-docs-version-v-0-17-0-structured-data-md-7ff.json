@@ -1,6 +1,5 @@
 {
-  "unversionedId": "StructuredData",
-  "id": "version-v0.17.0/StructuredData",
+  "id": "StructuredData",
   "title": "All Steps | Structured Data Connector Documentation",
   "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/StructuredData.md",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData",
   "permalink": "/soda/steps/v0.17.0/StructuredData",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/StructuredData.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/v0.17.0/tags/contents"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/v0.17.0/tags/structured-data"
     }
@@ -37,7 +39,7 @@
     "permalink": "/soda/steps/v0.17.0/Sql/SqlQuery"
   },
   "next": {
-    "title": "FromCSV",
-    "permalink": "/soda/steps/v0.17.0/StructuredData/FromCSV"
+    "title": "FromConcordance",
+    "permalink": "/soda/steps/v0.17.0/StructuredData/FromConcordance"
   }
 }

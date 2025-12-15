@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Pwsh",
   "id": "Pwsh",
   "title": "All Steps | PowerShell Connector Documentation",
   "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
@@ -8,13 +7,16 @@
   "slug": "/Pwsh",
   "permalink": "/soda/steps/next/Pwsh",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Pwsh.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/next/tags/contents"
     },
     {
+      "inline": true,
       "label": "Pwsh",
       "permalink": "/soda/steps/next/tags/pwsh"
     }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixExtractEntities",
   "id": "Nuix/NuixExtractEntities",
   "title": "NuixExtractEntities Step | Nuix Connector Documentation",
   "description": "Extract Entities from a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixExtractEntities",
   "permalink": "/soda/steps/next/Nuix/NuixExtractEntities",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixExtractEntities.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

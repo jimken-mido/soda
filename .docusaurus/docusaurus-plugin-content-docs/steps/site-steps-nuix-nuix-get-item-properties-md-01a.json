@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixGetItemProperties",
   "id": "Nuix/NuixGetItemProperties",
   "title": "NuixGetItemProperties Step | Nuix Connector Documentation",
   "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixGetItemProperties",
   "permalink": "/soda/steps/next/Nuix/NuixGetItemProperties",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixGetItemProperties.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

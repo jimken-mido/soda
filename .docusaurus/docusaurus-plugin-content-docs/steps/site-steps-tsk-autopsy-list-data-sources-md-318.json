@@ -1,5 +1,4 @@
 {
-  "unversionedId": "TSK/AutopsyListDataSources",
   "id": "TSK/AutopsyListDataSources",
   "title": "AutopsyListDataSources Step | TSK Connector Documentation",
   "description": "List all Data Sources in an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/TSK/AutopsyListDataSources",
   "permalink": "/soda/steps/next/TSK/AutopsyListDataSources",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/TSK/AutopsyListDataSources.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "TSK",
       "permalink": "/soda/steps/next/tags/tsk"
     }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixGeneratePrintPreviews",
   "id": "Nuix/NuixGeneratePrintPreviews",
   "title": "NuixGeneratePrintPreviews Step | Nuix Connector Documentation",
   "description": "Generates print previews for items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixGeneratePrintPreviews",
   "permalink": "/soda/steps/next/Nuix/NuixGeneratePrintPreviews",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixGeneratePrintPreviews.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

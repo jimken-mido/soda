@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/DateToString",
-  "id": "version-v0.17.0/Core/DateToString",
+  "id": "Core/DateToString",
   "title": "DateToString Step | Core SDK Documentation",
   "description": "Converts a date to the specified format, yyyy/MM/dd HH:mm:ss by default. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/DateToString.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/DateToString",
   "permalink": "/soda/steps/v0.17.0/Core/DateToString",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/DateToString.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

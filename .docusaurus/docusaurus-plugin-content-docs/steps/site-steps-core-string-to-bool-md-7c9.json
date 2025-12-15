@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/StringToBool",
   "id": "Core/StringToBool",
   "title": "StringToBool Step | Core SDK Documentation",
   "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringToBool",
   "permalink": "/soda/steps/next/Core/StringToBool",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StringToBool.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

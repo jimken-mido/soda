@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/EntitySetValue",
-  "id": "version-v0.18.0/Core/EntitySetValue",
+  "id": "Core/EntitySetValue",
   "title": "EntitySetValue Step | Core SDK Documentation",
   "description": "Returns a copy of the entity with this property set. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/EntitySetValue.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/EntitySetValue",
   "permalink": "/soda/steps/Core/EntitySetValue",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/EntitySetValue.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Nuix/NuixGetLicenseDetails",
-  "id": "version-v0.18.0/Nuix/NuixGetLicenseDetails",
+  "id": "Nuix/NuixGetLicenseDetails",
   "title": "NuixGetLicenseDetails Step | Nuix Connector Documentation",
   "description": "Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetLicenseDetails.md",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixGetLicenseDetails",
   "permalink": "/soda/steps/Nuix/NuixGetLicenseDetails",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetLicenseDetails.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/tags/nuix"
     }

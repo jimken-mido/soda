@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/EntityGetValue",
   "id": "Core/EntityGetValue",
   "title": "EntityGetValue Step | Core SDK Documentation",
   "description": "Gets the value of a property from an entity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/EntityGetValue",
   "permalink": "/soda/steps/next/Core/EntityGetValue",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/EntityGetValue.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

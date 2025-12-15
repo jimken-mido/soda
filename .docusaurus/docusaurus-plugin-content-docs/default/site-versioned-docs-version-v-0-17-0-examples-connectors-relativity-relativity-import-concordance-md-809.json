@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/connectors/relativity/relativity-import-concordance",
-  "id": "version-v0.17.0/examples/connectors/relativity/relativity-import-concordance",
+  "id": "examples/connectors/relativity/relativity-import-concordance",
   "title": "Import Concordance | Phoenix Connector for Relativity Examples",
   "description": "This example will import documents from a concordance or CSV file into a Relativity Workspace",
   "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/relativity/relativity-import-concordance.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/relativity/relativity-import-concordance",
   "permalink": "/soda/docs/v0.17.0/examples/connectors/relativity/relativity-import-concordance",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/relativity/relativity-import-concordance.md",
   "tags": [],
   "version": "v0.17.0",

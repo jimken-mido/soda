@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/StringToDouble",
-  "id": "version-v0.18.0/Core/StringToDouble",
+  "id": "Core/StringToDouble",
   "title": "StringToDouble Step | Core SDK Documentation",
   "description": "Converts a string to a double. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringToDouble.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringToDouble",
   "permalink": "/soda/steps/Core/StringToDouble",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/StringToDouble.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

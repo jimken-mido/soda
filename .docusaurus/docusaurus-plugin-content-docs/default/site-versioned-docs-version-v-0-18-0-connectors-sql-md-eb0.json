@@ -1,6 +1,5 @@
 {
-  "unversionedId": "connectors/sql",
-  "id": "version-v0.18.0/connectors/sql",
+  "id": "connectors/sql",
   "title": "SQL Connector",
   "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
   "source": "@site/versioned_docs/version-v0.18.0/connectors/sql.md",
@@ -8,6 +7,7 @@
   "slug": "/connectors/sql",
   "permalink": "/soda/docs/connectors/sql",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/connectors/sql.md",
   "tags": [],
   "version": "v0.18.0",

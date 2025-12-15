@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/nuix/nuix-download-sample-data",
   "id": "examples/connectors/nuix/nuix-download-sample-data",
   "title": "Download Sample Data | Nuix Connector Examples",
   "description": "This SCL will:",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/nuix/nuix-download-sample-data",
   "permalink": "/soda/docs/next/examples/connectors/nuix/nuix-download-sample-data",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/nuix/nuix-download-sample-data.md",
   "tags": [],
   "version": "current",

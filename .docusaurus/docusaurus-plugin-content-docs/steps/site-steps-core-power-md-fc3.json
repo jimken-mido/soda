@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/Power",
   "id": "Core/Power",
   "title": "Power Step | Core SDK Documentation",
   "description": "Raises an integer to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/Power",
   "permalink": "/soda/steps/next/Core/Power",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/Power.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

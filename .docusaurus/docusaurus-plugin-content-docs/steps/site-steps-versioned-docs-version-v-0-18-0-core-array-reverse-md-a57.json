@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/ArrayReverse",
-  "id": "version-v0.18.0/Core/ArrayReverse",
+  "id": "Core/ArrayReverse",
   "title": "ArrayReverse Step | Core SDK Documentation",
   "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/ArrayReverse.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayReverse",
   "permalink": "/soda/steps/Core/ArrayReverse",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/ArrayReverse.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

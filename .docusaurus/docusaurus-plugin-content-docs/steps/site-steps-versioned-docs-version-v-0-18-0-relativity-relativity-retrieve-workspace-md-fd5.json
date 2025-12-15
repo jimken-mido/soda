@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Relativity/RelativityRetrieveWorkspace",
-  "id": "version-v0.18.0/Relativity/RelativityRetrieveWorkspace",
+  "id": "Relativity/RelativityRetrieveWorkspace",
   "title": "RelativityRetrieveWorkspace Step | Phoenix Connector for Relativity Documentation",
   "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityRetrieveWorkspace.md",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityRetrieveWorkspace",
   "permalink": "/soda/steps/Relativity/RelativityRetrieveWorkspace",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Relativity/RelativityRetrieveWorkspace.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/tags/relativity"
     }

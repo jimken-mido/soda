@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixDoesCaseExist",
   "id": "Nuix/NuixDoesCaseExist",
   "title": "NuixDoesCaseExist Step | Nuix Connector Documentation",
   "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixDoesCaseExist",
   "permalink": "/soda/steps/next/Nuix/NuixDoesCaseExist",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixDoesCaseExist.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

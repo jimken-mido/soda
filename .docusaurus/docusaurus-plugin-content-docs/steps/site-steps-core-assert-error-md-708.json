@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/AssertError",
   "id": "Core/AssertError",
   "title": "AssertError Step | Core SDK Documentation",
   "description": "Returns success if the ValueIf step returns an error and a failure otherwise.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/AssertError",
   "permalink": "/soda/steps/next/Core/AssertError",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/AssertError.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

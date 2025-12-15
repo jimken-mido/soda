@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Relativity/RelativityUpdateMatter",
   "id": "Relativity/RelativityUpdateMatter",
   "title": "RelativityUpdateMatter Step | Phoenix Connector for Relativity Documentation",
   "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityUpdateMatter",
   "permalink": "/soda/steps/next/Relativity/RelativityUpdateMatter",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityUpdateMatter.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/next/tags/relativity"
     }

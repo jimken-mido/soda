@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/DoubleDivide",
-  "id": "version-v0.17.0/Core/DoubleDivide",
+  "id": "Core/DoubleDivide",
   "title": "DoubleDivide Step | Core SDK Documentation",
   "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/DoubleDivide.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/DoubleDivide",
   "permalink": "/soda/steps/v0.17.0/Core/DoubleDivide",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/DoubleDivide.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }
@@ -33,8 +35,8 @@
   },
   "sidebar": "steps",
   "previous": {
-    "title": "DocumentationCreate",
-    "permalink": "/soda/steps/v0.17.0/Core/DocumentationCreate"
+    "title": "DoNothing",
+    "permalink": "/soda/steps/v0.17.0/Core/DoNothing"
   },
   "next": {
     "title": "DoublePower",

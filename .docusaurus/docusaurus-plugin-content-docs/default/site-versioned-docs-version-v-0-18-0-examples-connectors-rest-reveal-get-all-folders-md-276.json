@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/connectors/rest/reveal-get-all-folders",
-  "id": "version-v0.18.0/examples/connectors/rest/reveal-get-all-folders",
+  "id": "examples/connectors/rest/reveal-get-all-folders",
   "title": "Get All Reveal Folders | REST Connector Examples",
   "description": "This example will",
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/rest/reveal-get-all-folders.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/rest/reveal-get-all-folders",
   "permalink": "/soda/docs/examples/connectors/rest/reveal-get-all-folders",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/rest/reveal-get-all-folders.md",
   "tags": [],
   "version": "v0.18.0",

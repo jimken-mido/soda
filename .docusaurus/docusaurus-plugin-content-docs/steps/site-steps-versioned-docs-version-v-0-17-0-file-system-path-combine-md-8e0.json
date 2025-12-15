@@ -1,6 +1,5 @@
 {
-  "unversionedId": "FileSystem/PathCombine",
-  "id": "version-v0.17.0/FileSystem/PathCombine",
+  "id": "FileSystem/PathCombine",
   "title": "PathCombine Step | File System Connector Documentation",
   "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/FileSystem/PathCombine.md",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem/PathCombine",
   "permalink": "/soda/steps/v0.17.0/FileSystem/PathCombine",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/FileSystem/PathCombine.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/v0.17.0/tags/file-system"
     }

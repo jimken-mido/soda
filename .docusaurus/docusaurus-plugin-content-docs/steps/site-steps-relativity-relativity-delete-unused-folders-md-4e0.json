@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Relativity/RelativityDeleteUnusedFolders",
   "id": "Relativity/RelativityDeleteUnusedFolders",
   "title": "RelativityDeleteUnusedFolders Step | Phoenix Connector for Relativity Documentation",
   "description": "Deletes unused folders in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityDeleteUnusedFolders",
   "permalink": "/soda/steps/next/Relativity/RelativityDeleteUnusedFolders",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityDeleteUnusedFolders.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/next/tags/relativity"
     }

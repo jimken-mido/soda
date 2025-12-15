@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/microsoft365/microsoft365",
   "id": "examples/connectors/microsoft365/microsoft365",
   "title": "Microsoft365 Connector Examples",
   "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows.",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/microsoft365/",
   "permalink": "/soda/docs/next/examples/connectors/microsoft365/",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/microsoft365/microsoft365.md",
   "tags": [],
   "version": "current",

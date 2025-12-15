@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/connectors/nuix/nuix-ingest-custom-profile",
-  "id": "version-v0.16.0/examples/connectors/nuix/nuix-ingest-custom-profile",
+  "id": "examples/connectors/nuix/nuix-ingest-custom-profile",
   "title": "Ingest Using a Custom Processing Profile Configured in SCL | Nuix Connector Examples",
   "description": "This example ingests evidence into an existing Nuix case. The",
   "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/nuix/nuix-ingest-custom-profile.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/nuix/nuix-ingest-custom-profile",
   "permalink": "/soda/docs/v0.16.0/examples/connectors/nuix/nuix-ingest-custom-profile",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/nuix/nuix-ingest-custom-profile.md",
   "tags": [],
   "version": "v0.16.0",

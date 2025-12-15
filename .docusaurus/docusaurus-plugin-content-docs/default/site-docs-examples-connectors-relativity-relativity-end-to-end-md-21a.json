@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/relativity/relativity-end-to-end",
   "id": "examples/connectors/relativity/relativity-end-to-end",
   "title": "End to End Example | Phoenix Connector for Relativity Examples",
   "description": "This example will",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/relativity/relativity-end-to-end",
   "permalink": "/soda/docs/next/examples/connectors/relativity/relativity-end-to-end",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/relativity/relativity-end-to-end.md",
   "tags": [],
   "version": "current",

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "all",
-  "id": "version-v0.16.0/all",
+  "id": "all",
   "title": "All Phoenix Core and Connector Steps",
   "description": "List of all steps for Phoenix, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/all.md",
@@ -8,13 +7,16 @@
   "slug": "/all",
   "permalink": "/soda/steps/v0.16.0/all",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/all.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/v0.16.0/tags/contents"
     },
     {
+      "inline": true,
       "label": "Unit",
       "permalink": "/soda/steps/v0.16.0/tags/unit"
     }

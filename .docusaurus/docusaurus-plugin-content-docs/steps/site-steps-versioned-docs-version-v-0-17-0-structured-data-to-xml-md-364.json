@@ -1,6 +1,5 @@
 {
-  "unversionedId": "StructuredData/ToXml",
-  "id": "version-v0.17.0/StructuredData/ToXml",
+  "id": "StructuredData/ToXml",
   "title": "ToXml Step | Structured Data Connector Documentation",
   "description": "Writes an entity to a stream in XML format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/StructuredData/ToXml.md",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData/ToXml",
   "permalink": "/soda/steps/v0.17.0/StructuredData/ToXml",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/StructuredData/ToXml.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/v0.17.0/tags/structured-data"
     }

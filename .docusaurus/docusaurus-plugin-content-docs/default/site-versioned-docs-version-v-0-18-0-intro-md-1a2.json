@@ -1,6 +1,5 @@
 {
-  "unversionedId": "intro",
-  "id": "version-v0.18.0/intro",
+  "id": "intro",
   "title": "What is Phoenix",
   "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.18.0/intro.md",
@@ -8,6 +7,7 @@
   "slug": "/intro",
   "permalink": "/soda/docs/intro",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/intro.md",
   "tags": [],
   "version": "v0.18.0",

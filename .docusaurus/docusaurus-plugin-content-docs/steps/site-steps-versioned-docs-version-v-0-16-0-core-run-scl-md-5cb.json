@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/RunSCL",
-  "id": "version-v0.16.0/Core/RunSCL",
+  "id": "Core/RunSCL",
   "title": "RunSCL Step | Core SDK Documentation",
   "description": "Runs SCL defined in a StringStream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/RunSCL.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/RunSCL",
   "permalink": "/soda/steps/v0.16.0/Core/RunSCL",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/RunSCL.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

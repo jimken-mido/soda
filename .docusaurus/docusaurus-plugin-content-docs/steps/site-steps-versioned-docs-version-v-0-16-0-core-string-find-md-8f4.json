@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/StringFind",
-  "id": "version-v0.16.0/Core/StringFind",
+  "id": "Core/StringFind",
   "title": "StringFind Step | Core SDK Documentation",
   "description": "Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/StringFind.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringFind",
   "permalink": "/soda/steps/v0.16.0/Core/StringFind",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/StringFind.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

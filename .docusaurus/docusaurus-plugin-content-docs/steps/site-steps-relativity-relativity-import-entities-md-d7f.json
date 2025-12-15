@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Relativity/RelativityImportEntities",
   "id": "Relativity/RelativityImportEntities",
   "title": "RelativityImportEntities Step | Phoenix Connector for Relativity Documentation",
   "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityImportEntities",
   "permalink": "/soda/steps/next/Relativity/RelativityImportEntities",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityImportEntities.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/next/tags/relativity"
     }

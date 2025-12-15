@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/StandardErrorWrite",
   "id": "Core/StandardErrorWrite",
   "title": "StandardErrorWrite Step | Core SDK Documentation",
   "description": "Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/StandardErrorWrite",
   "permalink": "/soda/steps/next/Core/StandardErrorWrite",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StandardErrorWrite.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

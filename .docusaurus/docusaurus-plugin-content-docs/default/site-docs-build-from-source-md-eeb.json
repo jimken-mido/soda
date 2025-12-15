@@ -1,5 +1,4 @@
 {
-  "unversionedId": "build-from-source",
   "id": "build-from-source",
   "title": "Build Phoenix from Source",
   "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery.",
@@ -8,6 +7,7 @@
   "slug": "/build-from-source",
   "permalink": "/soda/docs/next/build-from-source",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/build-from-source.md",
   "tags": [],
   "version": "current",

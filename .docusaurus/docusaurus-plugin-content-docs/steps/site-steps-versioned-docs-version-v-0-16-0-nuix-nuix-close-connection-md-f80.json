@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Nuix/NuixCloseConnection",
-  "id": "version-v0.16.0/Nuix/NuixCloseConnection",
+  "id": "Nuix/NuixCloseConnection",
   "title": "NuixCloseConnection Step | Nuix Connector Documentation",
   "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixCloseConnection.md",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixCloseConnection",
   "permalink": "/soda/steps/v0.16.0/Nuix/NuixCloseConnection",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Nuix/NuixCloseConnection.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/v0.16.0/tags/nuix"
     }

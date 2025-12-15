@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Enums/FileImportType",
-  "id": "version-v0.16.0/Enums/FileImportType",
+  "id": "Enums/FileImportType",
   "title": "FileImportType | Enums",
   "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Enums/FileImportType.md",
@@ -8,13 +7,16 @@
   "slug": "/Enums/FileImportType",
   "permalink": "/soda/steps/v0.16.0/Enums/FileImportType",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Enums/FileImportType.md",
   "tags": [
     {
+      "inline": true,
       "label": "Enums",
       "permalink": "/soda/steps/v0.16.0/tags/enums"
     },
     {
+      "inline": true,
       "label": "Unit",
       "permalink": "/soda/steps/v0.16.0/tags/unit"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/connectors/tsk/tsk",
-  "id": "version-v0.18.0/examples/connectors/tsk/tsk",
+  "id": "examples/connectors/tsk/tsk",
   "title": "The Sleuth Kit® Connector Examples",
   "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/tsk/tsk.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/tsk/",
   "permalink": "/soda/docs/examples/connectors/tsk/",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/tsk/tsk.md",
   "tags": [],
   "version": "v0.18.0",

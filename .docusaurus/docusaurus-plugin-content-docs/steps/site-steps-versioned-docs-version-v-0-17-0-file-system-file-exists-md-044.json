@@ -1,6 +1,5 @@
 {
-  "unversionedId": "FileSystem/FileExists",
-  "id": "version-v0.17.0/FileSystem/FileExists",
+  "id": "FileSystem/FileExists",
   "title": "FileExists Step | File System Connector Documentation",
   "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/FileSystem/FileExists.md",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem/FileExists",
   "permalink": "/soda/steps/v0.17.0/FileSystem/FileExists",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/FileSystem/FileExists.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/v0.17.0/tags/file-system"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/StringContains",
-  "id": "version-v0.16.0/Core/StringContains",
+  "id": "Core/StringContains",
   "title": "StringContains Step | Core SDK Documentation",
   "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/StringContains.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringContains",
   "permalink": "/soda/steps/v0.16.0/Core/StringContains",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/StringContains.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

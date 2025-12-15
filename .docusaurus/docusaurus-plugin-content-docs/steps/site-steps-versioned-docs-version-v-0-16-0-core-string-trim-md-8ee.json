@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/StringTrim",
-  "id": "version-v0.16.0/Core/StringTrim",
+  "id": "Core/StringTrim",
   "title": "StringTrim Step | Core SDK Documentation",
   "description": "Trims a string, removing whitespace from the `TrimSide`.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/StringTrim.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringTrim",
   "permalink": "/soda/steps/v0.16.0/Core/StringTrim",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/StringTrim.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

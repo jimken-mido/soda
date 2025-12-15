@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/core",
   "id": "connectors/core",
   "title": "Core SDK",
   "description": "Easily automate e-discovery and forensic workflows. Core is the Phoenix Configuration Language interpereter and an SDK for building connectors.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/core",
   "permalink": "/soda/docs/next/connectors/core",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/core.md",
   "tags": [],
   "version": "current",

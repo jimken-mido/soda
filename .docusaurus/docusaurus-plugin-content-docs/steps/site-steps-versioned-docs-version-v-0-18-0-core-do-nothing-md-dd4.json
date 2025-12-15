@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/DoNothing",
-  "id": "version-v0.18.0/Core/DoNothing",
+  "id": "Core/DoNothing",
   "title": "DoNothing Step | Core SDK Documentation",
   "description": "Does nothing.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/DoNothing.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/DoNothing",
   "permalink": "/soda/steps/Core/DoNothing",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/DoNothing.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }
@@ -33,11 +35,11 @@
   },
   "sidebar": "steps",
   "previous": {
-    "title": "Divide",
-    "permalink": "/soda/steps/Core/Divide"
-  },
-  "next": {
     "title": "DocumentationCreate",
     "permalink": "/soda/steps/Core/DocumentationCreate"
+  },
+  "next": {
+    "title": "DoubleDivide",
+    "permalink": "/soda/steps/Core/DoubleDivide"
   }
 }

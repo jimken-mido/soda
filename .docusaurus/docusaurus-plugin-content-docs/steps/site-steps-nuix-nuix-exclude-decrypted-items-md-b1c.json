@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixExcludeDecryptedItems",
   "id": "Nuix/NuixExcludeDecryptedItems",
   "title": "NuixExcludeDecryptedItems Step | Nuix Connector Documentation",
   "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixExcludeDecryptedItems",
   "permalink": "/soda/steps/next/Nuix/NuixExcludeDecryptedItems",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixExcludeDecryptedItems.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

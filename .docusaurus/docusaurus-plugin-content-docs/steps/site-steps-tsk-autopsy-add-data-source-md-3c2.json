@@ -1,5 +1,4 @@
 {
-  "unversionedId": "TSK/AutopsyAddDataSource",
   "id": "TSK/AutopsyAddDataSource",
   "title": "AutopsyAddDataSource Step | TSK Connector Documentation",
   "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/TSK/AutopsyAddDataSource",
   "permalink": "/soda/steps/next/TSK/AutopsyAddDataSource",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/TSK/AutopsyAddDataSource.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "TSK",
       "permalink": "/soda/steps/next/tags/tsk"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "FileSystem",
-  "id": "version-v0.16.0/FileSystem",
+  "id": "FileSystem",
   "title": "All Steps | File System Connector Documentation",
   "description": "List of all steps for File System Connector. Phoenix connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/FileSystem.md",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem",
   "permalink": "/soda/steps/v0.16.0/FileSystem",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/FileSystem.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/v0.16.0/tags/contents"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/v0.16.0/tags/file-system"
     }

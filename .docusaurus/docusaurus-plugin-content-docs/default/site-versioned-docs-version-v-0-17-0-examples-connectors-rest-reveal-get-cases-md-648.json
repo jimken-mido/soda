@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/connectors/rest/reveal-get-cases",
-  "id": "version-v0.17.0/examples/connectors/rest/reveal-get-cases",
+  "id": "examples/connectors/rest/reveal-get-cases",
   "title": "Get Reveal Cases | REST Connector Examples",
   "description": "This example will",
   "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/rest/reveal-get-cases.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/rest/reveal-get-cases",
   "permalink": "/soda/docs/v0.17.0/examples/connectors/rest/reveal-get-cases",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/rest/reveal-get-cases.md",
   "tags": [],
   "version": "v0.17.0",

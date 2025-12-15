@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/microsoft365/microsoft365-get-teams",
   "id": "examples/connectors/microsoft365/microsoft365-get-teams",
   "title": "Get Teams | Microsoft365 Connector Examples",
   "description": "This example will",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/microsoft365/microsoft365-get-teams",
   "permalink": "/soda/docs/next/examples/connectors/microsoft365/microsoft365-get-teams",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/microsoft365/microsoft365-get-teams.md",
   "tags": [],
   "version": "current",

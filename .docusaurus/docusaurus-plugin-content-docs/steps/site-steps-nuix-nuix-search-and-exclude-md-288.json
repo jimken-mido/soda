@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixSearchAndExclude",
   "id": "Nuix/NuixSearchAndExclude",
   "title": "NuixSearchAndExclude Step | Nuix Connector Documentation",
   "description": "Run a search query in Nuix and exclude all items found.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixSearchAndExclude",
   "permalink": "/soda/steps/next/Nuix/NuixSearchAndExclude",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixSearchAndExclude.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "StructuredData/ToCSV",
-  "id": "version-v0.16.0/StructuredData/ToCSV",
+  "id": "StructuredData/ToCSV",
   "title": "ToCSV Step | Structured Data Connector Documentation",
   "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/StructuredData/ToCSV.md",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData/ToCSV",
   "permalink": "/soda/steps/v0.16.0/StructuredData/ToCSV",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/StructuredData/ToCSV.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/v0.16.0/tags/structured-data"
     }
@@ -33,11 +35,11 @@
   },
   "sidebar": "steps",
   "previous": {
-    "title": "FromYaml",
-    "permalink": "/soda/steps/v0.16.0/StructuredData/FromYaml"
-  },
-  "next": {
     "title": "ToConcordance",
     "permalink": "/soda/steps/v0.16.0/StructuredData/ToConcordance"
+  },
+  "next": {
+    "title": "ToIDX",
+    "permalink": "/soda/steps/v0.16.0/StructuredData/ToIDX"
   }
 }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/sql/sql",
   "id": "examples/connectors/sql/sql",
   "title": "SQL Connector Examples",
   "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows.",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/sql/",
   "permalink": "/soda/docs/next/examples/connectors/sql/",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/sql/sql.md",
   "tags": [],
   "version": "current",

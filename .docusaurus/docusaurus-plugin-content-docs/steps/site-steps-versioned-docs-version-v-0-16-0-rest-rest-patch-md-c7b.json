@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Rest/RESTPatch",
-  "id": "version-v0.16.0/Rest/RESTPatch",
+  "id": "Rest/RESTPatch",
   "title": "RESTPatch Step | REST Connector Documentation",
   "description": "Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Rest/RESTPatch.md",
@@ -8,13 +7,16 @@
   "slug": "/Rest/RESTPatch",
   "permalink": "/soda/steps/v0.16.0/Rest/RESTPatch",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Rest/RESTPatch.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Rest",
       "permalink": "/soda/steps/v0.16.0/tags/rest"
     }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/ArrayLength",
   "id": "Core/ArrayLength",
   "title": "ArrayLength Step | Core SDK Documentation",
   "description": "Counts the elements in an array or entities in an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayLength",
   "permalink": "/soda/steps/next/Core/ArrayLength",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayLength.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

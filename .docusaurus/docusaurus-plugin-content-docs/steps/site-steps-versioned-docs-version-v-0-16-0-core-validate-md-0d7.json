@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Validate",
-  "id": "version-v0.16.0/Core/Validate",
+  "id": "Core/Validate",
   "title": "Validate Step | Core SDK Documentation",
   "description": "Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Validate.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Validate",
   "permalink": "/soda/steps/v0.16.0/Core/Validate",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/Validate.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

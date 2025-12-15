@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/structureddata",
   "id": "connectors/structureddata",
   "title": "Structured Data Connector",
   "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/structureddata",
   "permalink": "/soda/docs/next/connectors/structureddata",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/structureddata.md",
   "tags": [],
   "version": "current",

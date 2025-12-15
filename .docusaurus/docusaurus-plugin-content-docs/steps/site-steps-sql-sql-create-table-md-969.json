@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Sql/SqlCreateTable",
   "id": "Sql/SqlCreateTable",
   "title": "SqlCreateTable Step | SQL Database Connector Documentation",
   "description": "Create a SQL table from a given schema. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Sql/SqlCreateTable",
   "permalink": "/soda/steps/next/Sql/SqlCreateTable",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Sql/SqlCreateTable.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/next/tags/sql"
     }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/tsk/tsk-create-case-and-add-data",
   "id": "examples/connectors/tsk/tsk-create-case-and-add-data",
   "title": "Create an Autopsy Case and Add Data | The Sleuth Kit Connector Examples",
   "description": "This example will",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/tsk/tsk-create-case-and-add-data",
   "permalink": "/soda/docs/next/examples/connectors/tsk/tsk-create-case-and-add-data",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/tsk/tsk-create-case-and-add-data.md",
   "tags": [],
   "version": "current",

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/LessThanOrEqual",
-  "id": "version-v0.18.0/Core/LessThanOrEqual",
+  "id": "Core/LessThanOrEqual",
   "title": "LessThanOrEqual Step | Core SDK Documentation",
   "description": "Returns true if each term is less than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/LessThanOrEqual.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/LessThanOrEqual",
   "permalink": "/soda/steps/Core/LessThanOrEqual",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/LessThanOrEqual.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/StringSubstring",
   "id": "Core/StringSubstring",
   "title": "StringSubstring Step | Core SDK Documentation",
   "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringSubstring",
   "permalink": "/soda/steps/next/Core/StringSubstring",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StringSubstring.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

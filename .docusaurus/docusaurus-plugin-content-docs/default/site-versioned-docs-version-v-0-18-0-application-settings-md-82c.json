@@ -1,6 +1,5 @@
 {
-  "unversionedId": "application-settings",
-  "id": "version-v0.18.0/application-settings",
+  "id": "application-settings",
   "title": "Application Settings",
   "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.18.0/application-settings.md",
@@ -8,6 +7,7 @@
   "slug": "/application-settings",
   "permalink": "/soda/docs/application-settings",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/application-settings.md",
   "tags": [],
   "version": "v0.18.0",

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Sql/OpenConnection",
   "id": "Sql/OpenConnection",
   "title": "OpenConnection Step | SQL Database Connector Documentation",
   "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Sql/OpenConnection",
   "permalink": "/soda/steps/next/Sql/OpenConnection",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Sql/OpenConnection.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/next/tags/sql"
     }

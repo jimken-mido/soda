@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/DoubleSum",
   "id": "Core/DoubleSum",
   "title": "DoubleSum Step | Core SDK Documentation",
   "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/DoubleSum",
   "permalink": "/soda/steps/next/Core/DoubleSum",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/DoubleSum.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

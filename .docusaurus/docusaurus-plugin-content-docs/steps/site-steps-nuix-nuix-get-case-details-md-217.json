@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixGetCaseDetails",
   "id": "Nuix/NuixGetCaseDetails",
   "title": "NuixGetCaseDetails Step | Nuix Connector Documentation",
   "description": "Returns an Entity with information about the current case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixGetCaseDetails",
   "permalink": "/soda/steps/next/Nuix/NuixGetCaseDetails",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixGetCaseDetails.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

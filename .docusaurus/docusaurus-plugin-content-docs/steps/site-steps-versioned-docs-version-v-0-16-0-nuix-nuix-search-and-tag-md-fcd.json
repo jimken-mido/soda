@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Nuix/NuixSearchAndTag",
-  "id": "version-v0.16.0/Nuix/NuixSearchAndTag",
+  "id": "Nuix/NuixSearchAndTag",
   "title": "NuixSearchAndTag Step | Nuix Connector Documentation",
   "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixSearchAndTag.md",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixSearchAndTag",
   "permalink": "/soda/steps/v0.16.0/Nuix/NuixSearchAndTag",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Nuix/NuixSearchAndTag.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/v0.16.0/tags/nuix"
     }

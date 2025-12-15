@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/connectors/relativity/relativity-search-and-tag",
-  "id": "version-v0.16.0/examples/connectors/relativity/relativity-search-and-tag",
+  "id": "examples/connectors/relativity/relativity-search-and-tag",
   "title": "Search and Tag Items | Phoenix Connector for Relativity Examples",
   "description": "This example will run a search of a Relativity workspace and set the 'Tags' field of each of the results.",
   "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/relativity/relativity-search-and-tag.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/relativity/relativity-search-and-tag",
   "permalink": "/soda/docs/v0.16.0/examples/connectors/relativity/relativity-search-and-tag",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/relativity/relativity-search-and-tag.md",
   "tags": [],
   "version": "v0.16.0",

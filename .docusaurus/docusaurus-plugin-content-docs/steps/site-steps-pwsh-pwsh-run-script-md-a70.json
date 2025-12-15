@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Pwsh/PwshRunScript",
   "id": "Pwsh/PwshRunScript",
   "title": "PwshRunScript Step | PowerShell Connector Documentation",
   "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Pwsh/PwshRunScript",
   "permalink": "/soda/steps/next/Pwsh/PwshRunScript",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Pwsh/PwshRunScript.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Pwsh",
       "permalink": "/soda/steps/next/tags/pwsh"
     }

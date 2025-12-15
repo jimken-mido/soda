@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixExportConcordance",
   "id": "Nuix/NuixExportConcordance",
   "title": "NuixExportConcordance Step | Nuix Connector Documentation",
   "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixExportConcordance",
   "permalink": "/soda/steps/next/Nuix/NuixExportConcordance",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixExportConcordance.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Relativity/RelativityExport",
-  "id": "version-v0.18.0/Relativity/RelativityExport",
+  "id": "Relativity/RelativityExport",
   "title": "RelativityExport Step | Phoenix Connector for Relativity Documentation",
   "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityExport.md",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityExport",
   "permalink": "/soda/steps/Relativity/RelativityExport",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Relativity/RelativityExport.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/tags/relativity"
     }

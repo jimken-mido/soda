@@ -1,6 +1,5 @@
 {
-  "unversionedId": "StructuredData/ToIDX",
-  "id": "version-v0.18.0/StructuredData/ToIDX",
+  "id": "StructuredData/ToIDX",
   "title": "ToIDX Step | Structured Data Connector Documentation",
   "description": "Write an entity to a stream in IDX format.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/StructuredData/ToIDX.md",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData/ToIDX",
   "permalink": "/soda/steps/StructuredData/ToIDX",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/StructuredData/ToIDX.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/tags/structured-data"
     }
@@ -33,8 +35,8 @@
   },
   "sidebar": "steps",
   "previous": {
-    "title": "ToConcordance",
-    "permalink": "/soda/steps/StructuredData/ToConcordance"
+    "title": "ToCSV",
+    "permalink": "/soda/steps/StructuredData/ToCSV"
   },
   "next": {
     "title": "ToJson",

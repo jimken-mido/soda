@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Tesseract",
-  "id": "version-v0.16.0/Tesseract",
+  "id": "Tesseract",
   "title": "All Steps | Tesseract OCR Connector Documentation",
   "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Tesseract.md",
@@ -8,13 +7,16 @@
   "slug": "/Tesseract",
   "permalink": "/soda/steps/v0.16.0/Tesseract",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Tesseract.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/v0.16.0/tags/contents"
     },
     {
+      "inline": true,
       "label": "Tesseract",
       "permalink": "/soda/steps/v0.16.0/tags/tesseract"
     }

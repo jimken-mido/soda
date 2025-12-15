@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/schemas/edrm-schema",
-  "id": "version-v0.18.0/examples/schemas/edrm-schema",
+  "id": "examples/schemas/edrm-schema",
   "title": "EDRM Schema | Schema Examples",
   "description": "This is a schema which enforces that data meets the",
   "source": "@site/versioned_docs/version-v0.18.0/examples/schemas/edrm-schema.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/schemas/edrm-schema",
   "permalink": "/soda/docs/examples/schemas/edrm-schema",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/schemas/edrm-schema.md",
   "tags": [],
   "version": "v0.18.0",

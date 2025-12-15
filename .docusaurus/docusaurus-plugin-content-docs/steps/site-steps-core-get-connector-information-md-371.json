@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/GetConnectorInformation",
   "id": "Core/GetConnectorInformation",
   "title": "GetConnectorInformation Step | Core SDK Documentation",
   "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/GetConnectorInformation",
   "permalink": "/soda/steps/next/Core/GetConnectorInformation",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/GetConnectorInformation.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "developers-guide",
-  "id": "version-v0.16.0/developers-guide",
+  "id": "developers-guide",
   "title": "Phoenix Connector Developers' Guide",
   "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.16.0/developers-guide.md",
@@ -8,6 +7,7 @@
   "slug": "/developers-guide",
   "permalink": "/soda/docs/v0.16.0/developers-guide",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/developers-guide.md",
   "tags": [],
   "version": "v0.16.0",

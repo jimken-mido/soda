@@ -1,5 +1,4 @@
 {
-  "unversionedId": "FileSystem/FileCopy",
   "id": "FileSystem/FileCopy",
   "title": "FileCopy Step | File System Connector Documentation",
   "description": "Copy a file. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem/FileCopy",
   "permalink": "/soda/steps/next/FileSystem/FileCopy",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/FileSystem/FileCopy.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/next/tags/file-system"
     }

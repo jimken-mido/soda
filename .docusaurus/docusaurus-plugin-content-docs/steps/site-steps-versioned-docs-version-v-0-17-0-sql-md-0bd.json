@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Sql",
-  "id": "version-v0.17.0/Sql",
+  "id": "Sql",
   "title": "All Steps | SQL Database Connector Documentation",
   "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Sql.md",
@@ -8,13 +7,16 @@
   "slug": "/Sql",
   "permalink": "/soda/steps/v0.17.0/Sql",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Sql.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/v0.17.0/tags/contents"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/v0.17.0/tags/sql"
     }

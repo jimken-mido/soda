@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Microsoft365/M365ChannelMessagesRead",
   "id": "Microsoft365/M365ChannelMessagesRead",
   "title": "M365ChannelMessagesRead Step | Microsoft 365 Connector Documentation",
   "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Microsoft365/M365ChannelMessagesRead",
   "permalink": "/soda/steps/next/Microsoft365/M365ChannelMessagesRead",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Microsoft365/M365ChannelMessagesRead.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Microsoft365",
       "permalink": "/soda/steps/next/tags/microsoft-365"
     }

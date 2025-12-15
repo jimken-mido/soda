@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixAnnotateDocumentIdList",
   "id": "Nuix/NuixAnnotateDocumentIdList",
   "title": "NuixAnnotateDocumentIdList Step | Nuix Connector Documentation",
   "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixAnnotateDocumentIdList",
   "permalink": "/soda/steps/next/Nuix/NuixAnnotateDocumentIdList",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixAnnotateDocumentIdList.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

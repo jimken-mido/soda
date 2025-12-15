@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Relativity/RelativityGetClients",
-  "id": "version-v0.18.0/Relativity/RelativityGetClients",
+  "id": "Relativity/RelativityGetClients",
   "title": "RelativityGetClients Step | Phoenix Connector for Relativity Documentation",
   "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityGetClients.md",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityGetClients",
   "permalink": "/soda/steps/Relativity/RelativityGetClients",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Relativity/RelativityGetClients.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/tags/relativity"
     }

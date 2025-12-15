@@ -3,11 +3,15 @@
   "items": [
     {
       "title": "Performance Improvements in v0.18.0",
-      "permalink": "/soda/blog/performance-improvements-in-v0.18.0"
+      "permalink": "/soda/blog/performance-improvements-in-v0.18.0",
+      "unlisted": false,
+      "date": "2022-11-01T00:00:00.000Z"
     },
     {
       "title": "Wrangling Dates with SCL",
-      "permalink": "/soda/blog/wrangling-dates-with-scl"
+      "permalink": "/soda/blog/wrangling-dates-with-scl",
+      "unlisted": false,
+      "date": "2022-04-04T00:00:00.000Z"
     }
   ]
 }

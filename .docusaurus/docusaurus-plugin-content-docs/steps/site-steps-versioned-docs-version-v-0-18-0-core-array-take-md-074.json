@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/ArrayTake",
-  "id": "version-v0.18.0/Core/ArrayTake",
+  "id": "Core/ArrayTake",
   "title": "ArrayTake Step | Core SDK Documentation",
   "description": "Take the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/ArrayTake.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayTake",
   "permalink": "/soda/steps/Core/ArrayTake",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/ArrayTake.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Rest/RESTPost",
-  "id": "version-v0.18.0/Rest/RESTPost",
+  "id": "Rest/RESTPost",
   "title": "RESTPost Step | REST Connector Documentation",
   "description": "Create a REST resource and return the id of the created resource. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Rest/RESTPost.md",
@@ -8,13 +7,16 @@
   "slug": "/Rest/RESTPost",
   "permalink": "/soda/steps/Rest/RESTPost",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Rest/RESTPost.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Rest",
       "permalink": "/soda/steps/tags/rest"
     }

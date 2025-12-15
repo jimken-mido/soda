@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/If",
   "id": "Core/If",
   "title": "If Step | Core SDK Documentation",
   "description": "Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/If",
   "permalink": "/soda/steps/next/Core/If",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/If.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

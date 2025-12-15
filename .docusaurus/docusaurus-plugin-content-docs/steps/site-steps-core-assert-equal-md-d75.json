@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/AssertEqual",
   "id": "Core/AssertEqual",
   "title": "AssertEqual Step | Core SDK Documentation",
   "description": "Asserts that two objects are equal. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/AssertEqual",
   "permalink": "/soda/steps/next/Core/AssertEqual",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/AssertEqual.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

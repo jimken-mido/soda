@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Relativity/RelativityMoveFolder",
-  "id": "version-v0.16.0/Relativity/RelativityMoveFolder",
+  "id": "Relativity/RelativityMoveFolder",
   "title": "RelativityMoveFolder Step | Phoenix Connector for Relativity Documentation",
   "description": "Move a folder and its children, including subfolders and documents. . Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity/RelativityMoveFolder.md",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityMoveFolder",
   "permalink": "/soda/steps/v0.16.0/Relativity/RelativityMoveFolder",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Relativity/RelativityMoveFolder.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/v0.16.0/tags/relativity"
     }

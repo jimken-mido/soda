@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/ArraySkip",
-  "id": "version-v0.16.0/Core/ArraySkip",
+  "id": "Core/ArraySkip",
   "title": "ArraySkip Step | Core SDK Documentation",
   "description": "Skip the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/ArraySkip.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArraySkip",
   "permalink": "/soda/steps/v0.16.0/Core/ArraySkip",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/ArraySkip.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

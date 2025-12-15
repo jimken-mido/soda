@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/powershell/download-csv",
   "id": "examples/connectors/powershell/download-csv",
   "title": "Download CSV | PowerShell Connector Examples",
   "description": "Instructions on how to install and setup Phoenix and the PowerShell Connector.",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/powershell/download-csv",
   "permalink": "/soda/docs/next/examples/connectors/powershell/download-csv",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/powershell/download-csv.md",
   "tags": [],
   "version": "current",

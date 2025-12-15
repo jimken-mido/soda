@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/GetVariable",
-  "id": "version-v0.18.0/Core/GetVariable",
+  "id": "Core/GetVariable",
   "title": "GetVariable Step | Core SDK Documentation",
   "description": "Gets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/GetVariable.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/GetVariable",
   "permalink": "/soda/steps/Core/GetVariable",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/GetVariable.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

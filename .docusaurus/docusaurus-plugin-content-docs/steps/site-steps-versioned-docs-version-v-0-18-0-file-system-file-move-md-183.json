@@ -1,6 +1,5 @@
 {
-  "unversionedId": "FileSystem/FileMove",
-  "id": "version-v0.18.0/FileSystem/FileMove",
+  "id": "FileSystem/FileMove",
   "title": "FileMove Step | File System Connector Documentation",
   "description": "Move a file. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/FileSystem/FileMove.md",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem/FileMove",
   "permalink": "/soda/steps/FileSystem/FileMove",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/FileSystem/FileMove.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/tags/file-system"
     }

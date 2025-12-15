@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Microsoft365/M365TeamsRead",
-  "id": "version-v0.17.0/Microsoft365/M365TeamsRead",
+  "id": "Microsoft365/M365TeamsRead",
   "title": "M365TeamsRead Step | Microsoft365 Connector Documentation",
   "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Microsoft365/M365TeamsRead.md",
@@ -8,13 +7,16 @@
   "slug": "/Microsoft365/M365TeamsRead",
   "permalink": "/soda/steps/v0.17.0/Microsoft365/M365TeamsRead",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Microsoft365/M365TeamsRead.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Microsoft365",
       "permalink": "/soda/steps/v0.17.0/tags/microsoft-365"
     }

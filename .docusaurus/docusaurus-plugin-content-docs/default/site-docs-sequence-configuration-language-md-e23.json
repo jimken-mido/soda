@@ -1,5 +1,4 @@
 {
-  "unversionedId": "sequence-configuration-language",
   "id": "sequence-configuration-language",
   "title": "Phoenix Configuration Language",
   "description": "SCL is the configuration language for defining automated forensic and",
@@ -8,6 +7,7 @@
   "slug": "/sequence-configuration-language",
   "permalink": "/soda/docs/next/sequence-configuration-language",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/sequence-configuration-language.md",
   "tags": [],
   "version": "current",

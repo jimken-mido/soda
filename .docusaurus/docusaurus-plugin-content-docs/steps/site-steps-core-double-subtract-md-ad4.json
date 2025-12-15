@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/DoubleSubtract",
   "id": "Core/DoubleSubtract",
   "title": "DoubleSubtract Step | Core SDK Documentation",
   "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/DoubleSubtract",
   "permalink": "/soda/steps/next/Core/DoubleSubtract",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/DoubleSubtract.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

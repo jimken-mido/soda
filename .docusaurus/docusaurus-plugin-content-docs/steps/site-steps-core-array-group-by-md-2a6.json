@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/ArrayGroupBy",
   "id": "Core/ArrayGroupBy",
   "title": "ArrayGroupBy Step | Core SDK Documentation",
   "description": "Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayGroupBy",
   "permalink": "/soda/steps/next/Core/ArrayGroupBy",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayGroupBy.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

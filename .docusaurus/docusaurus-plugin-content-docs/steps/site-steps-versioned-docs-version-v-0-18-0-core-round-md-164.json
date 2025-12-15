@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Round",
-  "id": "version-v0.18.0/Core/Round",
+  "id": "Core/Round",
   "title": "Round Step | Core SDK Documentation",
   "description": "Round an SCL double to a fixed number of decimal places. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Round.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Round",
   "permalink": "/soda/steps/Core/Round",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/Round.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

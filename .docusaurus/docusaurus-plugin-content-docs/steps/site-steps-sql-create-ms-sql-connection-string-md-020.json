@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Sql/CreateMsSQLConnectionString",
   "id": "Sql/CreateMsSQLConnectionString",
   "title": "CreateMsSQLConnectionString Step | SQL Database Connector Documentation",
   "description": "Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Sql/CreateMsSQLConnectionString",
   "permalink": "/soda/steps/next/Sql/CreateMsSQLConnectionString",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Sql/CreateMsSQLConnectionString.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/next/tags/sql"
     }

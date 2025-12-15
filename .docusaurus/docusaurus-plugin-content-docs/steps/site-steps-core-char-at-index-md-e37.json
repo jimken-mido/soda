@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/CharAtIndex",
   "id": "Core/CharAtIndex",
   "title": "CharAtIndex Step | Core SDK Documentation",
   "description": "Gets the letter that appears at a specific index. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/CharAtIndex",
   "permalink": "/soda/steps/next/Core/CharAtIndex",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/CharAtIndex.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

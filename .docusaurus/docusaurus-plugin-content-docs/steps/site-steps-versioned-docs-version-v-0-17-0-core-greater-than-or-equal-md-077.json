@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/GreaterThanOrEqual",
-  "id": "version-v0.17.0/Core/GreaterThanOrEqual",
+  "id": "Core/GreaterThanOrEqual",
   "title": "GreaterThanOrEqual Step | Core SDK Documentation",
   "description": "Returns true if each term is greater than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/GreaterThanOrEqual.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/GreaterThanOrEqual",
   "permalink": "/soda/steps/v0.17.0/Core/GreaterThanOrEqual",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/GreaterThanOrEqual.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

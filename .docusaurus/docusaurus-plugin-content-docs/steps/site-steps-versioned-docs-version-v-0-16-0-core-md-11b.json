@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core",
-  "id": "version-v0.16.0/Core",
+  "id": "Core",
   "title": "All Steps | Core SDK Documentation",
   "description": "List of all steps for Core SDK. An SDK for automating e-discovery and forensic workflows. Core is the SCL language grammar and interpreter, and an SDK for building connectors.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core.md",
@@ -8,13 +7,16 @@
   "slug": "/Core",
   "permalink": "/soda/steps/v0.16.0/Core",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/v0.16.0/tags/contents"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

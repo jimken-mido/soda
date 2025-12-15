@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/ArrayFind",
   "id": "Core/ArrayFind",
   "title": "ArrayFind Step | Core SDK Documentation",
   "description": "Gets the first index of an element in an array. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayFind",
   "permalink": "/soda/steps/next/Core/ArrayFind",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayFind.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

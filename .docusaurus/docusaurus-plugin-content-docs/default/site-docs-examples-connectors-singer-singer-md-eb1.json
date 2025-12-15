@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/singer/singer",
   "id": "examples/connectors/singer/singer",
   "title": "Singer Connector Examples",
   "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows.",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/singer/",
   "permalink": "/soda/docs/next/examples/connectors/singer/",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/singer/singer.md",
   "tags": [],
   "version": "current",

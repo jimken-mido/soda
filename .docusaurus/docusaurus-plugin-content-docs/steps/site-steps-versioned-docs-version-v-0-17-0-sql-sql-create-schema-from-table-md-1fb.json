@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Sql/SqlCreateSchemaFromTable",
-  "id": "version-v0.17.0/Sql/SqlCreateSchemaFromTable",
+  "id": "Sql/SqlCreateSchemaFromTable",
   "title": "SqlCreateSchemaFromTable Step | SQL Database Connector Documentation",
   "description": "Creates a Schema entity from a SQL table. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Sql/SqlCreateSchemaFromTable.md",
@@ -8,13 +7,16 @@
   "slug": "/Sql/SqlCreateSchemaFromTable",
   "permalink": "/soda/steps/v0.17.0/Sql/SqlCreateSchemaFromTable",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Sql/SqlCreateSchemaFromTable.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/v0.17.0/tags/sql"
     }

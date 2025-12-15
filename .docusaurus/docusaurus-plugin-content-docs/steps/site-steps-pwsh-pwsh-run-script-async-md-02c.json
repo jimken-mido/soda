@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Pwsh/PwshRunScriptAsync",
   "id": "Pwsh/PwshRunScriptAsync",
   "title": "PwshRunScriptAsync Step | PowerShell Connector Documentation",
   "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Pwsh/PwshRunScriptAsync",
   "permalink": "/soda/steps/next/Pwsh/PwshRunScriptAsync",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Pwsh/PwshRunScriptAsync.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Pwsh",
       "permalink": "/soda/steps/next/tags/pwsh"
     }

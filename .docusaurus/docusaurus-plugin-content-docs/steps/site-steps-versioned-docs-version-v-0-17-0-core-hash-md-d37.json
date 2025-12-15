@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Hash",
-  "id": "version-v0.17.0/Core/Hash",
+  "id": "Core/Hash",
   "title": "Hash Step | Core SDK Documentation",
   "description": "Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/Hash.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Hash",
   "permalink": "/soda/steps/v0.17.0/Core/Hash",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/Hash.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

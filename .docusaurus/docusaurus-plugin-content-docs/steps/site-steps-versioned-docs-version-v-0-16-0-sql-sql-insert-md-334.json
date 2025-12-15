@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Sql/SqlInsert",
-  "id": "version-v0.16.0/Sql/SqlInsert",
+  "id": "Sql/SqlInsert",
   "title": "SqlInsert Step | SQL Database Connector Documentation",
   "description": "Inserts data into a SQL table. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Sql/SqlInsert.md",
@@ -8,13 +7,16 @@
   "slug": "/Sql/SqlInsert",
   "permalink": "/soda/steps/v0.16.0/Sql/SqlInsert",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Sql/SqlInsert.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/v0.16.0/tags/sql"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "quick-start",
-  "id": "version-v0.16.0/quick-start",
+  "id": "quick-start",
   "title": "Quick Start",
   "description": "1. Download the latest release here",
   "source": "@site/versioned_docs/version-v0.16.0/quick-start.md",
@@ -8,6 +7,7 @@
   "slug": "/quick-start",
   "permalink": "/soda/docs/v0.16.0/quick-start",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/quick-start.md",
   "tags": [],
   "version": "v0.16.0",

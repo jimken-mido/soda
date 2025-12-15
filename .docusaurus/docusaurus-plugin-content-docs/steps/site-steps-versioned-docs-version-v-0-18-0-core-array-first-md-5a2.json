@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/ArrayFirst",
-  "id": "version-v0.18.0/Core/ArrayFirst",
+  "id": "Core/ArrayFirst",
   "title": "ArrayFirst Step | Core SDK Documentation",
   "description": "Gets the first element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/ArrayFirst.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayFirst",
   "permalink": "/soda/steps/Core/ArrayFirst",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/ArrayFirst.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

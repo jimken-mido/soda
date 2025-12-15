@@ -1,5 +1,4 @@
 {
-  "unversionedId": "FileSystem/FileExtract",
   "id": "FileSystem/FileExtract",
   "title": "FileExtract Step | File System Connector Documentation",
   "description": "Extract a file in the file system.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem/FileExtract",
   "permalink": "/soda/steps/next/FileSystem/FileExtract",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/FileSystem/FileExtract.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/next/tags/file-system"
     }

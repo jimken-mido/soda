@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/rest/reveal-get-all-fields",
   "id": "examples/connectors/rest/reveal-get-all-fields",
   "title": "Get All Reveal Fields | REST Connector Examples",
   "description": "This example will",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/rest/reveal-get-all-fields",
   "permalink": "/soda/docs/next/examples/connectors/rest/reveal-get-all-fields",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/rest/reveal-get-all-fields.md",
   "tags": [],
   "version": "current",

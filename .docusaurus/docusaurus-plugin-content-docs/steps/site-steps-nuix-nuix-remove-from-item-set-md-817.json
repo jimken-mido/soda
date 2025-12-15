@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixRemoveFromItemSet",
   "id": "Nuix/NuixRemoveFromItemSet",
   "title": "NuixRemoveFromItemSet Step | Nuix Connector Documentation",
   "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixRemoveFromItemSet",
   "permalink": "/soda/steps/next/Nuix/NuixRemoveFromItemSet",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixRemoveFromItemSet.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

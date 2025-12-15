@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix",
   "id": "Nuix",
   "title": "All Steps | Nuix Connector Documentation",
   "description": "List of all steps for Nuix Connector. Phoenix connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix",
   "permalink": "/soda/steps/next/Nuix",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/next/tags/contents"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

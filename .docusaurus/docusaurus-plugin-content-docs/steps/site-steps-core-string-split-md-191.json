@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/StringSplit",
   "id": "Core/StringSplit",
   "title": "StringSplit Step | Core SDK Documentation",
   "description": "Splits a string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringSplit",
   "permalink": "/soda/steps/next/Core/StringSplit",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StringSplit.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

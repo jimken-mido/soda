@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Relativity",
-  "id": "version-v0.17.0/Relativity",
+  "id": "Relativity",
   "title": "All Steps | Phoenix Connector for Relativity Documentation",
   "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity.md",
@@ -8,13 +7,16 @@
   "slug": "/Relativity",
   "permalink": "/soda/steps/v0.17.0/Relativity",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Relativity.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/v0.17.0/tags/contents"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/v0.17.0/tags/relativity"
     }

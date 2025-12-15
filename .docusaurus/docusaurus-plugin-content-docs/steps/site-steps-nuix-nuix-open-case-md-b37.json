@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixOpenCase",
   "id": "Nuix/NuixOpenCase",
   "title": "NuixOpenCase Step | Nuix Connector Documentation",
   "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixOpenCase",
   "permalink": "/soda/steps/next/Nuix/NuixOpenCase",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixOpenCase.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Singer/FromSinger",
-  "id": "version-v0.18.0/Singer/FromSinger",
+  "id": "Singer/FromSinger",
   "title": "FromSinger Step | Singer Target Documentation",
   "description": "Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Singer/FromSinger.md",
@@ -8,13 +7,16 @@
   "slug": "/Singer/FromSinger",
   "permalink": "/soda/steps/Singer/FromSinger",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Singer/FromSinger.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Singer",
       "permalink": "/soda/steps/tags/singer"
     }

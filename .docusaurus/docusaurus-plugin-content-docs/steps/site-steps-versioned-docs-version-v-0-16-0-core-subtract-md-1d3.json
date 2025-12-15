@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Subtract",
-  "id": "version-v0.16.0/Core/Subtract",
+  "id": "Core/Subtract",
   "title": "Subtract Step | Core SDK Documentation",
   "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Subtract.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Subtract",
   "permalink": "/soda/steps/v0.16.0/Core/Subtract",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/Subtract.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }

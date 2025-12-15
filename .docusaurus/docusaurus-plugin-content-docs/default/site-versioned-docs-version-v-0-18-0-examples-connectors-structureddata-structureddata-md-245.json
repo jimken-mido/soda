@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/connectors/structureddata/structureddata",
-  "id": "version-v0.18.0/examples/connectors/structureddata/structureddata",
+  "id": "examples/connectors/structureddata/structureddata",
   "title": "Structured Data Connector Examples",
   "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/structureddata/structureddata.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/structureddata/",
   "permalink": "/soda/docs/examples/connectors/structureddata/",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/structureddata/structureddata.md",
   "tags": [],
   "version": "v0.18.0",

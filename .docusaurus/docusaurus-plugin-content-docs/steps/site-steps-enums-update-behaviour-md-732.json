@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Enums/UpdateBehaviour",
   "id": "Enums/UpdateBehaviour",
   "title": "UpdateBehaviour | Enums",
   "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Enums/UpdateBehaviour",
   "permalink": "/soda/steps/next/Enums/UpdateBehaviour",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Enums/UpdateBehaviour.md",
   "tags": [
     {
+      "inline": true,
       "label": "Enums",
       "permalink": "/soda/steps/next/tags/enums"
     },
     {
+      "inline": true,
       "label": "Unit",
       "permalink": "/soda/steps/next/tags/unit"
     }

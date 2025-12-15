@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Sql/CreatePostgresConnectionString",
   "id": "Sql/CreatePostgresConnectionString",
   "title": "CreatePostgresConnectionString Step | SQL Database Connector Documentation",
   "description": "Creates a PostgreSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Sql/CreatePostgresConnectionString",
   "permalink": "/soda/steps/next/Sql/CreatePostgresConnectionString",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Sql/CreatePostgresConnectionString.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/next/tags/sql"
     }

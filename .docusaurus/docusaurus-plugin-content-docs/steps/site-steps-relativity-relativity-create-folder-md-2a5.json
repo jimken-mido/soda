@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Relativity/RelativityCreateFolder",
   "id": "Relativity/RelativityCreateFolder",
   "title": "RelativityCreateFolder Step | Phoenix Connector for Relativity Documentation",
   "description": "Create a folder in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityCreateFolder",
   "permalink": "/soda/steps/next/Relativity/RelativityCreateFolder",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityCreateFolder.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/next/tags/relativity"
     }

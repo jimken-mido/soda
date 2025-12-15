@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/StringIsEmpty",
-  "id": "version-v0.18.0/Core/StringIsEmpty",
+  "id": "Core/StringIsEmpty",
   "title": "StringIsEmpty Step | Core SDK Documentation",
   "description": "Returns whether a string is empty.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringIsEmpty.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringIsEmpty",
   "permalink": "/soda/steps/Core/StringIsEmpty",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/StringIsEmpty.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

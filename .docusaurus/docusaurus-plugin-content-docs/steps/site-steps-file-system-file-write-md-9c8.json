@@ -1,5 +1,4 @@
 {
-  "unversionedId": "FileSystem/FileWrite",
   "id": "FileSystem/FileWrite",
   "title": "FileWrite Step | File System Connector Documentation",
   "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem/FileWrite",
   "permalink": "/soda/steps/next/FileSystem/FileWrite",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/FileSystem/FileWrite.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/next/tags/file-system"
     }

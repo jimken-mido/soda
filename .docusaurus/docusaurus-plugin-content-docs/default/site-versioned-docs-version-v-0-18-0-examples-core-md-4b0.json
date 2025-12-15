@@ -1,6 +1,5 @@
 {
-  "unversionedId": "examples/core",
-  "id": "version-v0.18.0/examples/core",
+  "id": "examples/core",
   "title": "Phoenix Configuration Language Examples",
   "description": "Setup",
   "source": "@site/versioned_docs/version-v0.18.0/examples/core.md",
@@ -8,6 +7,7 @@
   "slug": "/examples/core",
   "permalink": "/soda/docs/examples/core",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/core.md",
   "tags": [],
   "version": "v0.18.0",

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/ArrayConcat",
-  "id": "version-v0.17.0/Core/ArrayConcat",
+  "id": "Core/ArrayConcat",
   "title": "ArrayConcat Step | Core SDK Documentation",
   "description": "Concatenates arrays or streams of entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/ArrayConcat.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayConcat",
   "permalink": "/soda/steps/v0.17.0/Core/ArrayConcat",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/ArrayConcat.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

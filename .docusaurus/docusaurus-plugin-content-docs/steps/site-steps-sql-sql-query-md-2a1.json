@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Sql/SqlQuery",
   "id": "Sql/SqlQuery",
   "title": "SqlQuery Step | SQL Database Connector Documentation",
   "description": "Executes a SQL query and returns the result as an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Sql/SqlQuery",
   "permalink": "/soda/steps/next/Sql/SqlQuery",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Sql/SqlQuery.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/next/tags/sql"
     }

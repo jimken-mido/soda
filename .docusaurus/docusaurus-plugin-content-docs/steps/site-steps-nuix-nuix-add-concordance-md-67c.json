@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixAddConcordance",
   "id": "Nuix/NuixAddConcordance",
   "title": "NuixAddConcordance Step | Nuix Connector Documentation",
   "description": "Adds data from a Concordance file to a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixAddConcordance",
   "permalink": "/soda/steps/next/Nuix/NuixAddConcordance",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixAddConcordance.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

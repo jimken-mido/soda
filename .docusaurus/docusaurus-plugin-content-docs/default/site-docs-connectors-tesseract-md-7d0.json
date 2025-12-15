@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/tesseract",
   "id": "connectors/tesseract",
   "title": "Tesseract Connector",
   "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/tesseract",
   "permalink": "/soda/docs/next/connectors/tesseract",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/tesseract.md",
   "tags": [],
   "version": "current",

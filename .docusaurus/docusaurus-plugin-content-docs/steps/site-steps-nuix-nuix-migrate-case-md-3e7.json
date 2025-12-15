@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixMigrateCase",
   "id": "Nuix/NuixMigrateCase",
   "title": "NuixMigrateCase Step | Nuix Connector Documentation",
   "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixMigrateCase",
   "permalink": "/soda/steps/next/Nuix/NuixMigrateCase",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixMigrateCase.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

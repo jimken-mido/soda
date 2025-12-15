@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Not",
-  "id": "version-v0.18.0/Core/Not",
+  "id": "Core/Not",
   "title": "Not Step | Core SDK Documentation",
   "description": "Negation of a boolean value.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Not.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Not",
   "permalink": "/soda/steps/Core/Not",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/Not.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

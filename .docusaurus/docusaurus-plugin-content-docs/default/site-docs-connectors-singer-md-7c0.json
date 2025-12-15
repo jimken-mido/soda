@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/singer",
   "id": "connectors/singer",
   "title": "Singer Connector",
   "description": "Phoenix connector for Singer. Allows Phoenix to act as a singer target, receiving data from any of the 100+ singer taps.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/singer",
   "permalink": "/soda/docs/next/connectors/singer",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/singer.md",
   "tags": [],
   "version": "current",

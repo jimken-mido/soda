@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Enums/ImageFormat",
   "id": "Enums/ImageFormat",
   "title": "ImageFormat | Enums",
   "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Enums/ImageFormat",
   "permalink": "/soda/steps/next/Enums/ImageFormat",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Enums/ImageFormat.md",
   "tags": [
     {
+      "inline": true,
       "label": "Enums",
       "permalink": "/soda/steps/next/tags/enums"
     },
     {
+      "inline": true,
       "label": "Unit",
       "permalink": "/soda/steps/next/tags/unit"
     }

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/rest/reveal-get-case-statistics",
   "id": "examples/connectors/rest/reveal-get-case-statistics",
   "title": "Get Reveal Case Statistics | REST Connector Examples",
   "description": "This example will",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/rest/reveal-get-case-statistics",
   "permalink": "/soda/docs/next/examples/connectors/rest/reveal-get-case-statistics",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/rest/reveal-get-case-statistics.md",
   "tags": [],
   "version": "current",

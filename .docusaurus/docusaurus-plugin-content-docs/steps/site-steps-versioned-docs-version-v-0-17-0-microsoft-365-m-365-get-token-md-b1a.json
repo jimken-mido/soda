@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Microsoft365/M365GetToken",
-  "id": "version-v0.17.0/Microsoft365/M365GetToken",
+  "id": "Microsoft365/M365GetToken",
   "title": "M365GetToken Step | Microsoft365 Connector Documentation",
   "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Microsoft365/M365GetToken.md",
@@ -8,13 +7,16 @@
   "slug": "/Microsoft365/M365GetToken",
   "permalink": "/soda/steps/v0.17.0/Microsoft365/M365GetToken",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Microsoft365/M365GetToken.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Microsoft365",
       "permalink": "/soda/steps/v0.17.0/tags/microsoft-365"
     }

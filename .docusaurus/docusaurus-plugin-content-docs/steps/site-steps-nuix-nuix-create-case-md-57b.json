@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixCreateCase",
   "id": "Nuix/NuixCreateCase",
   "title": "NuixCreateCase Step | Nuix Connector Documentation",
   "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixCreateCase",
   "permalink": "/soda/steps/next/Nuix/NuixCreateCase",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixCreateCase.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

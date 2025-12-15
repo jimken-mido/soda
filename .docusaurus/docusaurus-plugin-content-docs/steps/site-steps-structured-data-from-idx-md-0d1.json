@@ -1,5 +1,4 @@
 {
-  "unversionedId": "StructuredData/FromIDX",
   "id": "StructuredData/FromIDX",
   "title": "FromIDX Step | Structured Data Connector Documentation",
   "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData/FromIDX",
   "permalink": "/soda/steps/next/StructuredData/FromIDX",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/StructuredData/FromIDX.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/next/tags/structured-data"
     }
@@ -33,8 +35,8 @@
   },
   "sidebar": "steps",
   "previous": {
-    "title": "FromConcordance",
-    "permalink": "/soda/steps/next/StructuredData/FromConcordance"
+    "title": "FromCSV",
+    "permalink": "/soda/steps/next/StructuredData/FromCSV"
   },
   "next": {
     "title": "FromJson",

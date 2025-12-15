@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Nuix/NuixCreateReport",
-  "id": "version-v0.16.0/Nuix/NuixCreateReport",
+  "id": "Nuix/NuixCreateReport",
   "title": "NuixCreateReport Step | Nuix Connector Documentation",
   "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixCreateReport.md",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixCreateReport",
   "permalink": "/soda/steps/v0.16.0/Nuix/NuixCreateReport",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Nuix/NuixCreateReport.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/v0.16.0/tags/nuix"
     }

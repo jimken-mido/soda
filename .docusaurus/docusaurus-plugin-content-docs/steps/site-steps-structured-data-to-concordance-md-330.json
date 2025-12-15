@@ -1,5 +1,4 @@
 {
-  "unversionedId": "StructuredData/ToConcordance",
   "id": "StructuredData/ToConcordance",
   "title": "ToConcordance Step | Structured Data Connector Documentation",
   "description": "Write entities to a stream in concordance format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData/ToConcordance",
   "permalink": "/soda/steps/next/StructuredData/ToConcordance",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/StructuredData/ToConcordance.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/next/tags/structured-data"
     }
@@ -33,11 +35,11 @@
   },
   "sidebar": "steps",
   "previous": {
-    "title": "ToCSV",
-    "permalink": "/soda/steps/next/StructuredData/ToCSV"
+    "title": "FromYaml",
+    "permalink": "/soda/steps/next/StructuredData/FromYaml"
   },
   "next": {
-    "title": "ToIDX",
-    "permalink": "/soda/steps/next/StructuredData/ToIDX"
+    "title": "ToCSV",
+    "permalink": "/soda/steps/next/StructuredData/ToCSV"
   }
 }

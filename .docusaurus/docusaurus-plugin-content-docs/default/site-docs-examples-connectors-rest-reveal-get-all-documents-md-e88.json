@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/rest/reveal-get-all-documents",
   "id": "examples/connectors/rest/reveal-get-all-documents",
   "title": "Get Document Metadata from Reveal | REST Connector Examples",
   "description": "This example will",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/rest/reveal-get-all-documents",
   "permalink": "/soda/docs/next/examples/connectors/rest/reveal-get-all-documents",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/rest/reveal-get-all-documents.md",
   "tags": [],
   "version": "current",

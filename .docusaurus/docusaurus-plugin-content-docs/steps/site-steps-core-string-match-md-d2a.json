@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/StringMatch",
   "id": "Core/StringMatch",
   "title": "StringMatch Step | Core SDK Documentation",
   "description": "Returns true if a string is matched by a particular regular expression. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/StringMatch",
   "permalink": "/soda/steps/next/Core/StringMatch",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/StringMatch.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Nuix/NuixCreateNRTReport",
-  "id": "version-v0.18.0/Nuix/NuixCreateNRTReport",
+  "id": "Nuix/NuixCreateNRTReport",
   "title": "NuixCreateNRTReport Step | Nuix Connector Documentation",
   "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixCreateNRTReport.md",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixCreateNRTReport",
   "permalink": "/soda/steps/Nuix/NuixCreateNRTReport",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Nuix/NuixCreateNRTReport.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/tags/nuix"
     }

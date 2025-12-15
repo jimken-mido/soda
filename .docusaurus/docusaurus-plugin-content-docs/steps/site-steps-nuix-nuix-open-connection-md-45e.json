@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixOpenConnection",
   "id": "Nuix/NuixOpenConnection",
   "title": "NuixOpenConnection Step | Nuix Connector Documentation",
   "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixOpenConnection",
   "permalink": "/soda/steps/next/Nuix/NuixOpenConnection",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixOpenConnection.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

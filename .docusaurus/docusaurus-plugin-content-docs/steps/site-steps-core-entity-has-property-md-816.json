@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/EntityHasProperty",
   "id": "Core/EntityHasProperty",
   "title": "EntityHasProperty Step | Core SDK Documentation",
   "description": "Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/EntityHasProperty",
   "permalink": "/soda/steps/next/Core/EntityHasProperty",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/EntityHasProperty.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

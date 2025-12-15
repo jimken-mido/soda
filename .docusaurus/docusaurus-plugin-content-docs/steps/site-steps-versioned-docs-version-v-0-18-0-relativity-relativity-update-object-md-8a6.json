@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Relativity/RelativityUpdateObject",
-  "id": "version-v0.18.0/Relativity/RelativityUpdateObject",
+  "id": "Relativity/RelativityUpdateObject",
   "title": "RelativityUpdateObject Step | Phoenix Connector for Relativity Documentation",
   "description": "Update a Relativity Object. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityUpdateObject.md",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityUpdateObject",
   "permalink": "/soda/steps/Relativity/RelativityUpdateObject",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Relativity/RelativityUpdateObject.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/tags/relativity"
     }

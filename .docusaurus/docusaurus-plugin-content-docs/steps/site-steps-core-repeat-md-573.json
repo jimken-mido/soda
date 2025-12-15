@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/Repeat",
   "id": "Core/Repeat",
   "title": "Repeat Step | Core SDK Documentation",
   "description": "Repeat a step a set number of times.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/Repeat",
   "permalink": "/soda/steps/next/Core/Repeat",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/Repeat.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

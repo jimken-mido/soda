@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/Modulo",
   "id": "Core/Modulo",
   "title": "Modulo Step | Core SDK Documentation",
   "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/Modulo",
   "permalink": "/soda/steps/next/Core/Modulo",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/Modulo.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

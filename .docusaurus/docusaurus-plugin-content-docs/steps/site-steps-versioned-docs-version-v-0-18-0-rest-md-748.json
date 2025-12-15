@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Rest",
-  "id": "version-v0.18.0/Rest",
+  "id": "Rest",
   "title": "All Steps | REST Connector Documentation",
   "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Rest.md",
@@ -8,13 +7,16 @@
   "slug": "/Rest",
   "permalink": "/soda/steps/Rest",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Rest.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/tags/contents"
     },
     {
+      "inline": true,
       "label": "Rest",
       "permalink": "/soda/steps/tags/rest"
     }

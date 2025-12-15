@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Nuix/NuixAddItem",
-  "id": "version-v0.17.0/Nuix/NuixAddItem",
+  "id": "Nuix/NuixAddItem",
   "title": "NuixAddItem Step | Nuix Connector Documentation",
   "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddItem.md",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixAddItem",
   "permalink": "/soda/steps/v0.17.0/Nuix/NuixAddItem",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddItem.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }

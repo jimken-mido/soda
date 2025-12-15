@@ -1,5 +1,4 @@
 {
-  "unversionedId": "entities",
   "id": "entities",
   "title": "Entities, the Data Type for Data Exchange",
   "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows.",
@@ -8,6 +7,7 @@
   "slug": "/entities",
   "permalink": "/soda/docs/next/entities",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/entities.md",
   "tags": [],
   "version": "current",

@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Nuix/NuixGetVersion",
   "id": "Nuix/NuixGetVersion",
   "title": "NuixGetVersion Step | Nuix Connector Documentation",
   "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixGetVersion",
   "permalink": "/soda/steps/next/Nuix/NuixGetVersion",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Nuix/NuixGetVersion.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/next/tags/nuix"
     }

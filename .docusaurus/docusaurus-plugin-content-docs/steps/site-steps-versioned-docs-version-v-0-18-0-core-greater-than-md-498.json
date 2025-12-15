@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/GreaterThan",
-  "id": "version-v0.18.0/Core/GreaterThan",
+  "id": "Core/GreaterThan",
   "title": "GreaterThan Step | Core SDK Documentation",
   "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/GreaterThan.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/GreaterThan",
   "permalink": "/soda/steps/Core/GreaterThan",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/GreaterThan.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

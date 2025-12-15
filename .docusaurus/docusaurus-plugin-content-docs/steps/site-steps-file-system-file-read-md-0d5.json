@@ -1,5 +1,4 @@
 {
-  "unversionedId": "FileSystem/FileRead",
   "id": "FileSystem/FileRead",
   "title": "FileRead Step | File System Connector Documentation",
   "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/FileSystem/FileRead",
   "permalink": "/soda/steps/next/FileSystem/FileRead",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/FileSystem/FileRead.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "FileSystem",
       "permalink": "/soda/steps/next/tags/file-system"
     }

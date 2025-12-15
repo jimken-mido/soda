@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/relativity/relativity",
   "id": "examples/connectors/relativity/relativity",
   "title": "Phoenix Connector for Relativity® Examples",
   "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows.",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/relativity/",
   "permalink": "/soda/docs/next/examples/connectors/relativity/",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/relativity/relativity.md",
   "tags": [],
   "version": "current",

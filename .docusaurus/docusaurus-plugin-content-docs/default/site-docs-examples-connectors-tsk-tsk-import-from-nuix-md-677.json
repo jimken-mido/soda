@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/tsk/tsk-import-from-nuix",
   "id": "examples/connectors/tsk/tsk-import-from-nuix",
   "title": "Import From Nuix into Autopsy | The Sleuth Kit Connector Examples",
   "description": "This example will",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/tsk/tsk-import-from-nuix",
   "permalink": "/soda/docs/next/examples/connectors/tsk/tsk-import-from-nuix",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/tsk/tsk-import-from-nuix.md",
   "tags": [],
   "version": "current",

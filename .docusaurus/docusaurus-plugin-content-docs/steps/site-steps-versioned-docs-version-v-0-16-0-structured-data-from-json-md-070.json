@@ -1,6 +1,5 @@
 {
-  "unversionedId": "StructuredData/FromJson",
-  "id": "version-v0.16.0/StructuredData/FromJson",
+  "id": "StructuredData/FromJson",
   "title": "FromJson Step | Structured Data Connector Documentation",
   "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/StructuredData/FromJson.md",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData/FromJson",
   "permalink": "/soda/steps/v0.16.0/StructuredData/FromJson",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/StructuredData/FromJson.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/v0.16.0/tags/structured-data"
     }

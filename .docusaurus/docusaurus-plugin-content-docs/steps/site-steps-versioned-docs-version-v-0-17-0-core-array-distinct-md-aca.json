@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/ArrayDistinct",
-  "id": "version-v0.17.0/Core/ArrayDistinct",
+  "id": "Core/ArrayDistinct",
   "title": "ArrayDistinct Step | Core SDK Documentation",
   "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/ArrayDistinct.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayDistinct",
   "permalink": "/soda/steps/v0.17.0/Core/ArrayDistinct",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/ArrayDistinct.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

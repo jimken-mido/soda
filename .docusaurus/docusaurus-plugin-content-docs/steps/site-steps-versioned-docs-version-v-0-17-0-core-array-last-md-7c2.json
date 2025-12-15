@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/ArrayLast",
-  "id": "version-v0.17.0/Core/ArrayLast",
+  "id": "Core/ArrayLast",
   "title": "ArrayLast Step | Core SDK Documentation",
   "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/ArrayLast.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayLast",
   "permalink": "/soda/steps/v0.17.0/Core/ArrayLast",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/ArrayLast.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

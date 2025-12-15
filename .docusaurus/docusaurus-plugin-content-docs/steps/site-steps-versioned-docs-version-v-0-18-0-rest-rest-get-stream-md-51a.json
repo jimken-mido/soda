@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Rest/RESTGetStream",
-  "id": "version-v0.18.0/Rest/RESTGetStream",
+  "id": "Rest/RESTGetStream",
   "title": "RESTGetStream Step | REST Connector Documentation",
   "description": "Get data from a REST service. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Rest/RESTGetStream.md",
@@ -8,13 +7,16 @@
   "slug": "/Rest/RESTGetStream",
   "permalink": "/soda/steps/Rest/RESTGetStream",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Rest/RESTGetStream.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Rest",
       "permalink": "/soda/steps/tags/rest"
     }

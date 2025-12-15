@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Rest/RESTPut",
-  "id": "version-v0.18.0/Rest/RESTPut",
+  "id": "Rest/RESTPut",
   "title": "RESTPut Step | REST Connector Documentation",
   "description": "Executes a REST Put request. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Rest/RESTPut.md",
@@ -8,13 +7,16 @@
   "slug": "/Rest/RESTPut",
   "permalink": "/soda/steps/Rest/RESTPut",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Rest/RESTPut.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Rest",
       "permalink": "/soda/steps/tags/rest"
     }

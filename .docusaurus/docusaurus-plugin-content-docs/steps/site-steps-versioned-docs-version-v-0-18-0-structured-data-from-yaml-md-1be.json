@@ -1,6 +1,5 @@
 {
-  "unversionedId": "StructuredData/FromYaml",
-  "id": "version-v0.18.0/StructuredData/FromYaml",
+  "id": "StructuredData/FromYaml",
   "title": "FromYaml Step | Structured Data Connector Documentation",
   "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/StructuredData/FromYaml.md",
@@ -8,13 +7,16 @@
   "slug": "/StructuredData/FromYaml",
   "permalink": "/soda/steps/StructuredData/FromYaml",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/StructuredData/FromYaml.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "StructuredData",
       "permalink": "/soda/steps/tags/structured-data"
     }
@@ -37,7 +39,7 @@
     "permalink": "/soda/steps/StructuredData/FromXmlArray"
   },
   "next": {
-    "title": "ToCSV",
-    "permalink": "/soda/steps/StructuredData/ToCSV"
+    "title": "ToConcordance",
+    "permalink": "/soda/steps/StructuredData/ToConcordance"
   }
 }

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/DocumentationCreate",
-  "id": "version-v0.16.0/Core/DocumentationCreate",
+  "id": "Core/DocumentationCreate",
   "title": "DocumentationCreate Step | Core SDK Documentation",
   "description": "Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/DocumentationCreate.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/DocumentationCreate",
   "permalink": "/soda/steps/v0.16.0/Core/DocumentationCreate",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.16.0/Core/DocumentationCreate.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.16.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.16.0/tags/core"
     }
@@ -33,11 +35,11 @@
   },
   "sidebar": "steps",
   "previous": {
-    "title": "DoNothing",
-    "permalink": "/soda/steps/v0.16.0/Core/DoNothing"
+    "title": "Divide",
+    "permalink": "/soda/steps/v0.16.0/Core/Divide"
   },
   "next": {
-    "title": "DoubleDivide",
-    "permalink": "/soda/steps/v0.16.0/Core/DoubleDivide"
+    "title": "DoNothing",
+    "permalink": "/soda/steps/v0.16.0/Core/DoNothing"
   }
 }

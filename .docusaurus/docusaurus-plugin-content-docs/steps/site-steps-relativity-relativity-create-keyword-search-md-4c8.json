@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Relativity/RelativityCreateKeywordSearch",
   "id": "Relativity/RelativityCreateKeywordSearch",
   "title": "RelativityCreateKeywordSearch Step | Phoenix Connector for Relativity Documentation",
   "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Relativity/RelativityCreateKeywordSearch",
   "permalink": "/soda/steps/next/Relativity/RelativityCreateKeywordSearch",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Relativity/RelativityCreateKeywordSearch.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Relativity",
       "permalink": "/soda/steps/next/tags/relativity"
     }

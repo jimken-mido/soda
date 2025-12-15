@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/ArrayIsEmpty",
   "id": "Core/ArrayIsEmpty",
   "title": "ArrayIsEmpty Step | Core SDK Documentation",
   "description": "Checks if an array is empty.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayIsEmpty",
   "permalink": "/soda/steps/next/Core/ArrayIsEmpty",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayIsEmpty.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

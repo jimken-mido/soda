@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Delay",
-  "id": "version-v0.17.0/Core/Delay",
+  "id": "Core/Delay",
   "title": "Delay Step | Core SDK Documentation",
   "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/Delay.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Delay",
   "permalink": "/soda/steps/v0.17.0/Core/Delay",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/Delay.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

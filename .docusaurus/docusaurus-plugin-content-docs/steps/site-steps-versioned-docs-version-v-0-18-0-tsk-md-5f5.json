@@ -1,6 +1,5 @@
 {
-  "unversionedId": "TSK",
-  "id": "version-v0.18.0/TSK",
+  "id": "TSK",
   "title": "All Steps | TSK Connector Documentation",
   "description": "List of all steps for TSK Connector. Phoenix connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/TSK.md",
@@ -8,13 +7,16 @@
   "slug": "/TSK",
   "permalink": "/soda/steps/TSK",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/TSK.md",
   "tags": [
     {
+      "inline": true,
       "label": "Contents",
       "permalink": "/soda/steps/tags/contents"
     },
     {
+      "inline": true,
       "label": "TSK",
       "permalink": "/soda/steps/tags/tsk"
     }

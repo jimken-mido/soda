@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/nuix/nuix",
   "id": "examples/connectors/nuix/nuix",
   "title": "Nuix Connector Examples",
   "description": "Learn how to configure and use the Phoenix Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting.",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/nuix/",
   "permalink": "/soda/docs/next/examples/connectors/nuix/",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/nuix/nuix.md",
   "tags": [],
   "version": "current",

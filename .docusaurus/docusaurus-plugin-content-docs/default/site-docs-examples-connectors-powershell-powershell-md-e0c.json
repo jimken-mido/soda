@@ -1,5 +1,4 @@
 {
-  "unversionedId": "examples/connectors/powershell/powershell",
   "id": "examples/connectors/powershell/powershell",
   "title": "PowerShell Connector Examples",
   "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows.",
@@ -8,6 +7,7 @@
   "slug": "/examples/connectors/powershell/",
   "permalink": "/soda/docs/next/examples/connectors/powershell/",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/powershell/powershell.md",
   "tags": [],
   "version": "current",

@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Sql/CreateMySQLConnectionString",
-  "id": "version-v0.17.0/Sql/CreateMySQLConnectionString",
+  "id": "Sql/CreateMySQLConnectionString",
   "title": "CreateMySQLConnectionString Step | SQL Database Connector Documentation",
   "description": "Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Sql/CreateMySQLConnectionString.md",
@@ -8,13 +7,16 @@
   "slug": "/Sql/CreateMySQLConnectionString",
   "permalink": "/soda/steps/v0.17.0/Sql/CreateMySQLConnectionString",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Sql/CreateMySQLConnectionString.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/v0.17.0/tags/sql"
     }

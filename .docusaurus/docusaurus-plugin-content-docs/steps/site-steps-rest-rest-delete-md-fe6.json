@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Rest/RESTDelete",
   "id": "Rest/RESTDelete",
   "title": "RESTDelete Step | REST Connector Documentation",
   "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Rest/RESTDelete",
   "permalink": "/soda/steps/next/Rest/RESTDelete",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Rest/RESTDelete.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Rest",
       "permalink": "/soda/steps/next/tags/rest"
     }

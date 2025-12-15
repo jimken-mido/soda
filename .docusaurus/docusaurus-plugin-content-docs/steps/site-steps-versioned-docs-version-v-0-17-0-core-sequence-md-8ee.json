@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/Sequence",
-  "id": "version-v0.17.0/Core/Sequence",
+  "id": "Core/Sequence",
   "title": "Phoenix Step | Core SDK Documentation",
   "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/Sequence.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/Sequence",
   "permalink": "/soda/steps/v0.17.0/Core/Sequence",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Core/Sequence.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/v0.17.0/tags/core"
     }

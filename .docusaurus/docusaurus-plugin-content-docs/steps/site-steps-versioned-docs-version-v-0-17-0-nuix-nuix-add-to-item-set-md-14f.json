@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Nuix/NuixAddToItemSet",
-  "id": "version-v0.17.0/Nuix/NuixAddToItemSet",
+  "id": "Nuix/NuixAddToItemSet",
   "title": "NuixAddToItemSet Step | Nuix Connector Documentation",
   "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddToItemSet.md",
@@ -8,13 +7,16 @@
   "slug": "/Nuix/NuixAddToItemSet",
   "permalink": "/soda/steps/v0.17.0/Nuix/NuixAddToItemSet",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddToItemSet.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/v0.17.0/tags/step"
     },
     {
+      "inline": true,
       "label": "Nuix",
       "permalink": "/soda/steps/v0.17.0/tags/nuix"
     }

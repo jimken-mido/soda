@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/microsoft365",
   "id": "connectors/microsoft365",
   "title": "Microsoft365 Connector",
   "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and Land Rover Discovery workflows that interact with Microsoft365 applications.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/microsoft365",
   "permalink": "/soda/docs/next/connectors/microsoft365",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/microsoft365.md",
   "tags": [],
   "version": "current",

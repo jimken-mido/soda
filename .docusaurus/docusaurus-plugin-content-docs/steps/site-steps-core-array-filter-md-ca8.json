@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/ArrayFilter",
   "id": "Core/ArrayFilter",
   "title": "ArrayFilter Step | Core SDK Documentation",
   "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayFilter",
   "permalink": "/soda/steps/next/Core/ArrayFilter",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ArrayFilter.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

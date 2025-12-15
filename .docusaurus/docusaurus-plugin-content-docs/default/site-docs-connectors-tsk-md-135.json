@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/tsk",
   "id": "connectors/tsk",
   "title": "The Sleuth Kit® Connector",
   "description": "Phoenix connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/tsk",
   "permalink": "/soda/docs/next/connectors/tsk",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/tsk.md",
   "tags": [],
   "version": "current",

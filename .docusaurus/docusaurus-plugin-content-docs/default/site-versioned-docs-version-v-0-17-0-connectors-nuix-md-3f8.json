@@ -1,6 +1,5 @@
 {
-  "unversionedId": "connectors/nuix",
-  "id": "version-v0.17.0/connectors/nuix",
+  "id": "connectors/nuix",
   "title": "Nuix Connector",
   "description": "Phoenix connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
   "source": "@site/versioned_docs/version-v0.17.0/connectors/nuix.md",
@@ -8,6 +7,7 @@
   "slug": "/connectors/nuix",
   "permalink": "/soda/docs/v0.17.0/connectors/nuix",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/connectors/nuix.md",
   "tags": [],
   "version": "v0.17.0",

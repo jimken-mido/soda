@@ -1,5 +1,4 @@
 {
-  "unversionedId": "connectors/powershell",
   "id": "connectors/powershell",
   "title": "PowerShell Connector",
   "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
@@ -8,6 +7,7 @@
   "slug": "/connectors/powershell",
   "permalink": "/soda/docs/next/connectors/powershell",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/powershell.md",
   "tags": [],
   "version": "current",

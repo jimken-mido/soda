@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/DoubleProduct",
-  "id": "version-v0.18.0/Core/DoubleProduct",
+  "id": "Core/DoubleProduct",
   "title": "DoubleProduct Step | Core SDK Documentation",
   "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/DoubleProduct.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/DoubleProduct",
   "permalink": "/soda/steps/Core/DoubleProduct",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/DoubleProduct.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }

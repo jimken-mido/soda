@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Sql/SqlCommand",
-  "id": "version-v0.18.0/Sql/SqlCommand",
+  "id": "Sql/SqlCommand",
   "title": "SqlCommand Step | SQL Database Connector Documentation",
   "description": "Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Sql/SqlCommand.md",
@@ -8,13 +7,16 @@
   "slug": "/Sql/SqlCommand",
   "permalink": "/soda/steps/Sql/SqlCommand",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Sql/SqlCommand.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Sql",
       "permalink": "/soda/steps/tags/sql"
     }

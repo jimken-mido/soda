@@ -1,5 +1,4 @@
 {
-  "unversionedId": "Core/ConvertSizeUnits",
   "id": "Core/ConvertSizeUnits",
   "title": "ConvertSizeUnits Step | Core SDK Documentation",
   "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
@@ -8,13 +7,16 @@
   "slug": "/Core/ConvertSizeUnits",
   "permalink": "/soda/steps/next/Core/ConvertSizeUnits",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps/Core/ConvertSizeUnits.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/next/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/next/tags/core"
     }

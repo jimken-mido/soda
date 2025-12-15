@@ -4,5 +4,6 @@
   "source": "@site/src/pages/scl-grammar-test.md",
   "title": "Phoenix Configuration Language Grammar Test",
   "description": "Dev Page to Test SCL Grammar Parsing in SCL.",
-  "frontMatter": {}
+  "frontMatter": {},
+  "unlisted": false
 }

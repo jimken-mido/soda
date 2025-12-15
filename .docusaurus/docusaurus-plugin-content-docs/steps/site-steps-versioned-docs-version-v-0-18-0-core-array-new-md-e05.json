@@ -1,6 +1,5 @@
 {
-  "unversionedId": "Core/ArrayNew",
-  "id": "version-v0.18.0/Core/ArrayNew",
+  "id": "Core/ArrayNew",
   "title": "ArrayNew Step | Core SDK Documentation",
   "description": "Represents an ordered collection of objects.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/ArrayNew.md",
@@ -8,13 +7,16 @@
   "slug": "/Core/ArrayNew",
   "permalink": "/soda/steps/Core/ArrayNew",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/jimken-mido/soda/steps_versioned_docs/version-v0.18.0/Core/ArrayNew.md",
   "tags": [
     {
+      "inline": true,
       "label": "Step",
       "permalink": "/soda/steps/tags/step"
     },
     {
+      "inline": true,
       "label": "Core",
       "permalink": "/soda/steps/tags/core"
     }
