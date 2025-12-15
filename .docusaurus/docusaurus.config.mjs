@@ -17,7 +17,7 @@ export default {
   "customFields": {
     "homeTitle": "End-to-end automation for forensics and land rover discovery",
     "description": "Flexible and powerful open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and land rover discovery workflows.",
-    // "downloads": "https://get.Phoenix.sh"
+    "downloads": "https://get.Phoenix.sh"
   },
   "staticDirectories": [
     "static",
@@ -424,7 +424,7 @@ export default {
     "algolia": {
       "appId": "CKHLUDXFLE",
       "apiKey": "eefd45babb6696e6fc0fe9943a9d631c",
-      "indexName": "Phoenix-sh",
+      "indexName": "phoenix-sh",
       "contextualSearch": true,
       "searchParameters": {},
       "searchPagePath": "search"

@@ -227,7 +227,7 @@ const config = {
       algolia: {
         appId: 'CKHLUDXFLE',
         apiKey: 'eefd45babb6696e6fc0fe9943a9d631c',
-        indexName: 'Phoenix-sh',
+        indexName: 'phoenix-sh',
         contextualSearch: true,
       },
     }),
