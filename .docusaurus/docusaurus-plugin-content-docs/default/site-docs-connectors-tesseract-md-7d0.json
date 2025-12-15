@@ -2,7 +2,7 @@
   "unversionedId": "connectors/tesseract",
   "id": "connectors/tesseract",
   "title": "Tesseract Connector",
-  "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+  "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
   "source": "@site/docs/connectors/tesseract.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/tesseract",
@@ -12,7 +12,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows."
+    "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows."
   },
   "sidebar": "docs",
   "previous": {

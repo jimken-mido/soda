@@ -2,7 +2,7 @@
   "unversionedId": "connectors/structureddata",
   "id": "connectors/structureddata",
   "title": "Structured Data Connector",
-  "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+  "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
   "source": "@site/docs/connectors/structureddata.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/structureddata",
@@ -12,7 +12,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+    "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
   },
   "sidebar": "docs",
   "previous": {

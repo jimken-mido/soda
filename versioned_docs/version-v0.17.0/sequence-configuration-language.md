@@ -1,7 +1,7 @@
 # Phoenix Configuration Language
 
 SCL is the configuration language for defining automated forensic and
-ediscovery workflows, with features to simplify data interchange between
+Land Rover Discovery workflows, with features to simplify data interchange between
 platforms and connectors to automate any application in your lab.
 
 The building blocks of SCL are [`Steps`](#steps), which can be combined

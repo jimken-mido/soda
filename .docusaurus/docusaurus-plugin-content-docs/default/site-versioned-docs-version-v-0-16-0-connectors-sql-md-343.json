@@ -2,7 +2,7 @@
   "unversionedId": "connectors/sql",
   "id": "version-v0.16.0/connectors/sql",
   "title": "SQL Connector",
-  "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+  "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
   "source": "@site/versioned_docs/version-v0.16.0/connectors/sql.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/sql",
@@ -12,7 +12,7 @@
   "tags": [],
   "version": "v0.16.0",
   "frontMatter": {
-    "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
+    "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
   },
   "sidebar": "docs",
   "previous": {

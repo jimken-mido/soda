@@ -1,7 +1,7 @@
 ---
 sidebar_label: SQL Connector
 sidebar_position: 0
-description: Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows.
+description: Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows.
 ---
 
 # SQL Connector Examples

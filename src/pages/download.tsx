@@ -52,14 +52,14 @@ export default function Download(): JSX.Element {
 
   return (
     <Layout
-      title="Download Phoenix, the forensic and ediscovery automation toolkit"
+      title="Download Phoenix, the forensic and Land Rover Discovery automation toolkit"
       description={`${siteConfig.customFields.description}`}
     >
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">Download Phoenix</h1>
           <p className="hero__subtitle">
-            And start automating your forensic and ediscovery workflows today...
+            And start automating your forensic and Land Rover Discovery workflows today...
           </p>
         </div>
       </header>

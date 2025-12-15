@@ -1,5 +1,5 @@
 ---
-description: Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.
+description: Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.
 ---
 
 # Tesseract Connector

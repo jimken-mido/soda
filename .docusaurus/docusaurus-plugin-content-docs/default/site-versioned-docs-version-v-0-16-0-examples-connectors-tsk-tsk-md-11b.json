@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/tsk/tsk",
   "id": "version-v0.16.0/examples/connectors/tsk/tsk",
   "title": "The Sleuth Kit® Connector Examples",
-  "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows.",
+  "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/tsk/tsk.md",
   "sourceDirName": "examples/connectors/tsk",
   "slug": "/examples/connectors/tsk/",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "The Sleuth Kit Connector",
     "sidebar_position": 0,
-    "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows."
+    "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

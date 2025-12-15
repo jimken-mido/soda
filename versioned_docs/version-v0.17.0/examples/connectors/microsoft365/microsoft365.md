@@ -1,7 +1,7 @@
 ---
 sidebar_label: Microsoft365 Connector
 sidebar_position: 0
-description: Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.
+description: Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows.
 ---
 
 # Microsoft365 Connector Examples

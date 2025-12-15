@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/structureddata/csv-files",
   "id": "version-v0.18.0/examples/connectors/structureddata/csv-files",
   "title": "Working with CSV Files | Structured Data Connector Examples",
-  "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows.",
+  "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/structureddata/csv-files.md",
   "sourceDirName": "examples/connectors/structureddata",
   "slug": "/examples/connectors/structureddata/csv-files",
@@ -14,7 +14,7 @@
   "frontMatter": {
     "title": "Working with CSV Files | Structured Data Connector Examples",
     "sidebar_label": "Working with CSV Files",
-    "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows."
+    "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

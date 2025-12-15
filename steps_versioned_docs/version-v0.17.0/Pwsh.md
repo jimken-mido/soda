@@ -1,7 +1,7 @@
 ---
 title: All Steps | PowerShell Connector Documentation
 sidebar_label: Pwsh
-description: List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.
+description: List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.
 tags: [Contents, Pwsh]
 hide_title: true
 hide_table_of_contents: true

@@ -1,7 +1,7 @@
 ---
 title: Phoenix Connector Developers' Guide
 sidebar_label: Developers' Guide
-description: Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows.
+description: Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows.
 ---
 
 # Developers' Guide

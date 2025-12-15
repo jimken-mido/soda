@@ -1,5 +1,5 @@
 ---
-description: Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.
+description: Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.
 ---
 
 # SQL Connector

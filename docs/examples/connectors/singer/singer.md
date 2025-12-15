@@ -1,7 +1,7 @@
 ---
 sidebar_label: Singer Connector
 sidebar_position: 0
-description: Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.
+description: Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows.
 ---
 
 # Singer Connector Examples

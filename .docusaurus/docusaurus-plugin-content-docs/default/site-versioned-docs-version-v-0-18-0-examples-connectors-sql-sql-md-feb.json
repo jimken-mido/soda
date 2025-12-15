@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/sql/sql",
   "id": "version-v0.18.0/examples/connectors/sql/sql",
   "title": "SQL Connector Examples",
-  "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows.",
+  "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/sql/sql.md",
   "sourceDirName": "examples/connectors/sql",
   "slug": "/examples/connectors/sql/",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "SQL Connector",
     "sidebar_position": 0,
-    "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows."
+    "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

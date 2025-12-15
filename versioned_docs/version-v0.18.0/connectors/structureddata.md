@@ -1,5 +1,5 @@
 ---
-description: Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.
+description: Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.
 ---
 
 # Structured Data Connector

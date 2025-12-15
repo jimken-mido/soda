@@ -2,7 +2,7 @@
   "unversionedId": "Microsoft365",
   "id": "version-v0.17.0/Microsoft365",
   "title": "All Steps | Microsoft365 Connector Documentation",
-  "description": "List of all steps for Microsoft365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+  "description": "List of all steps for Microsoft365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Microsoft365.md",
   "sourceDirName": ".",
   "slug": "/Microsoft365",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "All Steps | Microsoft365 Connector Documentation",
     "sidebar_label": "Microsoft365",
-    "description": "List of all steps for Microsoft365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+    "description": "List of all steps for Microsoft365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
     "tags": [
       "Contents",
       "Microsoft365"

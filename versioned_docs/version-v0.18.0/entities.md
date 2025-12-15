@@ -1,7 +1,7 @@
 ---
 title: Entities, the Data Type for Data Exchange
 sidebar_label: Entities
-description: Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.
+description: Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows.
 ---
 
 # Entities

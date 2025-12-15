@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/microsoft365/microsoft365",
   "id": "examples/connectors/microsoft365/microsoft365",
   "title": "Microsoft365 Connector Examples",
-  "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.",
+  "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows.",
   "source": "@site/docs/examples/connectors/microsoft365/microsoft365.md",
   "sourceDirName": "examples/connectors/microsoft365",
   "slug": "/examples/connectors/microsoft365/",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "Microsoft365 Connector",
     "sidebar_position": 0,
-    "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows."
+    "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

@@ -13,7 +13,7 @@
     )
     StructuredData: (
       Name: 'Structured Data Connector'
-      Description: 'Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.'
+      Description: 'Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.'
     )
     Nuix: (
       Name: 'Nuix Connector'
@@ -21,7 +21,7 @@
     )
     Sql: (
       Name: 'SQL Database Connector'
-      Description: 'Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.'
+      Description: 'Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.'
     )
     Singer: (
       Name: 'Singer Target'
@@ -29,11 +29,11 @@
     )
     Pwsh: (
       Name: 'PowerShell Connector'
-      Description: 'Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.'
+      Description: 'Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.'
     )
     Relativity: (
       Name: 'Phoenix Connector for Relativity'
-      Description: 'Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.'
+      Description: 'Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.'
     )
     TSK: (
       Name: 'TSK Connector'
@@ -41,15 +41,15 @@
     )
     Tesseract: (
       Name: 'Tesseract OCR Connector'
-      Description: 'Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.'
+      Description: 'Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.'
     )
     Rest: (
       Name: 'REST Connector'
-      Description: 'Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.'
+      Description: 'Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.'
     )
     Microsoft365: (
       Name: 'Microsoft 365 Connector'
-      Description: 'Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.'
+      Description: 'Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.'
     )
   )
 

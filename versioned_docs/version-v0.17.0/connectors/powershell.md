@@ -1,5 +1,5 @@
 ---
-description: Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.
+description: Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.
 ---
 
 # PowerShell Connector

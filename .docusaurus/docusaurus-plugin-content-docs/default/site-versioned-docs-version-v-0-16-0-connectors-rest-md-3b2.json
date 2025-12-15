@@ -2,7 +2,7 @@
   "unversionedId": "connectors/rest",
   "id": "version-v0.16.0/connectors/rest",
   "title": "REST Connector",
-  "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+  "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
   "source": "@site/versioned_docs/version-v0.16.0/connectors/rest.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/rest",
@@ -12,7 +12,7 @@
   "tags": [],
   "version": "v0.16.0",
   "frontMatter": {
-    "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector."
+    "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector."
   },
   "sidebar": "docs",
   "previous": {

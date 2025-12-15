@@ -1,7 +1,7 @@
 ---
 sidebar_label: File System Connector
 sidebar_position: 0
-description: Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows.
+description: Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows.
 ---
 
 # File System Connector Examples

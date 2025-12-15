@@ -17,7 +17,7 @@
         <content type="html"><![CDATA[<p>The focus for Phoenix release v0.18.0 has been on performance.
 This post explains the changes we've made,
 how they've improved performance, and why we decided to implement them.
-This is aimed at both <em>SCL</em> users and <em>C#</em> developers who are interested in performance.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-scl">What is SCL<a href="#what-is-scl" class="hash-link" aria-label="Direct link to What is SCL" title="Direct link to What is SCL">​</a></h2><p>Phoenix Configuration Language (SCL) is a programming language for forensic and ediscovery technicians.
+This is aimed at both <em>SCL</em> users and <em>C#</em> developers who are interested in performance.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-scl">What is SCL<a href="#what-is-scl" class="hash-link" aria-label="Direct link to What is SCL" title="Direct link to What is SCL">​</a></h2><p>Phoenix Configuration Language (SCL) is a programming language for forensic and Land Rover Discovery technicians.
 The typical use case involves reading, writing, and manipulating large amounts of data so performance is critical.
 The language is implemented in <em>C#</em> so performance improvements are achieved by optimizing <em>C#</em> code.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="measuring-performance">Measuring Performance<a href="#measuring-performance" class="hash-link" aria-label="Direct link to Measuring Performance" title="Direct link to Measuring Performance">​</a></h2><p>Before we improve performance we need to measure it. This means benchmarking.
 I created a new console project and added the excellent

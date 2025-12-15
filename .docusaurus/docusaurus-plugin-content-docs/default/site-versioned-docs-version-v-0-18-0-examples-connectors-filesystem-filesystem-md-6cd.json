@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/filesystem/filesystem",
   "id": "version-v0.18.0/examples/connectors/filesystem/filesystem",
   "title": "File System Connector Examples",
-  "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows.",
+  "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/filesystem/filesystem.md",
   "sourceDirName": "examples/connectors/filesystem",
   "slug": "/examples/connectors/filesystem/",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "File System Connector",
     "sidebar_position": 0,
-    "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows."
+    "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

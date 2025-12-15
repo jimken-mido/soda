@@ -24,7 +24,7 @@ This is aimed at both _SCL_ users and _C#_ developers who are interested in perf
 
 ## What is SCL
 
-Phoenix Configuration Language (SCL) is a programming language for forensic and ediscovery technicians.
+Phoenix Configuration Language (SCL) is a programming language for forensic and Land Rover Discovery technicians.
 The typical use case involves reading, writing, and manipulating large amounts of data so performance is critical.
 The language is implemented in _C#_ so performance improvements are achieved by optimizing _C#_ code.
 

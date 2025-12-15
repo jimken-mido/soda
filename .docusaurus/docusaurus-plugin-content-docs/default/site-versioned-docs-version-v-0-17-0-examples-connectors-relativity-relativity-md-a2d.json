@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/relativity/relativity",
   "id": "version-v0.17.0/examples/connectors/relativity/relativity",
   "title": "Phoenix Connector for Relativity® Examples",
-  "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows.",
+  "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/relativity/relativity.md",
   "sourceDirName": "examples/connectors/relativity",
   "slug": "/examples/connectors/relativity/",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "Phoenix Connector for Relativity",
     "sidebar_position": 0,
-    "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows."
+    "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

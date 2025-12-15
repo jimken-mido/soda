@@ -1,5 +1,5 @@
 ---
-description: Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.
+description: Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.
 ---
 
 # REST Connector

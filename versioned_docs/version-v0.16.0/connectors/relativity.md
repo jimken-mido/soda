@@ -1,5 +1,5 @@
 ---
-description: Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.
+description: Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.
 ---
 
 # Connector for Relativity®

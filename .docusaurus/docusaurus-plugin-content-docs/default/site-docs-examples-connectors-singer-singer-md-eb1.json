@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/singer/singer",
   "id": "examples/connectors/singer/singer",
   "title": "Singer Connector Examples",
-  "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
+  "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows.",
   "source": "@site/docs/examples/connectors/singer/singer.md",
   "sourceDirName": "examples/connectors/singer",
   "slug": "/examples/connectors/singer/",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "Singer Connector",
     "sidebar_position": 0,
-    "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows."
+    "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

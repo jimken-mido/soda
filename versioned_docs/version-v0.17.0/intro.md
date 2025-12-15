@@ -1,5 +1,5 @@
 ---
-description: Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.
+description: Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows.
 ---
 
 # What is Phoenix

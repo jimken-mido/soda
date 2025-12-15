@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/rest/rest",
   "id": "examples/connectors/rest/rest",
   "title": "REST Connector Examples",
-  "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows.",
+  "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows.",
   "source": "@site/docs/examples/connectors/rest/rest.md",
   "sourceDirName": "examples/connectors/rest",
   "slug": "/examples/connectors/rest/",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "REST Connector",
     "sidebar_position": 0,
-    "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows."
+    "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

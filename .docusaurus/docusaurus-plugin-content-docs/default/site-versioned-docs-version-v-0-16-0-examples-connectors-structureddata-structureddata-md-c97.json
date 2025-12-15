@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/structureddata/structureddata",
   "id": "version-v0.16.0/examples/connectors/structureddata/structureddata",
   "title": "Structured Data Connector Examples",
-  "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+  "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
   "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/structureddata/structureddata.md",
   "sourceDirName": "examples/connectors/structureddata",
   "slug": "/examples/connectors/structureddata/",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "Structured Data Connector",
     "sidebar_position": 0,
-    "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+    "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
   },
   "sidebar": "docs",
   "previous": {

@@ -1,7 +1,7 @@
 ---
 sidebar_label: Tesseract Connector
 sidebar_position: 0
-description: Learn how to include Tesseract OCR in automated forensic and ediscovery workflows.
+description: Learn how to include Tesseract OCR in automated forensic and Land Rover Discovery workflows.
 ---
 
 # Tesseract Connector Examples

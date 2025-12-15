@@ -1,7 +1,7 @@
 ---
 title: Build Phoenix from Source
 sidebar_label: Build from Source
-description: Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery.
+description: Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery.
 ---
 
 # Build from Source

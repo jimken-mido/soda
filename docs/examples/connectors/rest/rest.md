@@ -1,7 +1,7 @@
 ---
 sidebar_label: REST Connector
 sidebar_position: 0
-description: Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows.
+description: Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows.
 ---
 
 # REST Connector Examples

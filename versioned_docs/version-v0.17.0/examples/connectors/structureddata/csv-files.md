@@ -1,7 +1,7 @@
 ---
 title: Working with CSV Files | Structured Data Connector Examples
 sidebar_label: Working with CSV Files
-description: Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows.
+description: Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows.
 ---
 
 # Working with CSV Files

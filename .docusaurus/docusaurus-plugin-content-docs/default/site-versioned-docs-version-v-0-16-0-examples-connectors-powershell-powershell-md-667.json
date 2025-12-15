@@ -2,7 +2,7 @@
   "unversionedId": "examples/connectors/powershell/powershell",
   "id": "version-v0.16.0/examples/connectors/powershell/powershell",
   "title": "PowerShell Connector Examples",
-  "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows.",
+  "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/powershell/powershell.md",
   "sourceDirName": "examples/connectors/powershell",
   "slug": "/examples/connectors/powershell/",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_label": "PowerShell Connector",
     "sidebar_position": 0,
-    "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows."
+    "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

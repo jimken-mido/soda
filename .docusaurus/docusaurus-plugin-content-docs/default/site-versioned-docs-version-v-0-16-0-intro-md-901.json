@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "version-v0.16.0/intro",
   "title": "What is Phoenix",
-  "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
+  "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.16.0/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -12,7 +12,7 @@
   "tags": [],
   "version": "v0.16.0",
   "frontMatter": {
-    "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows."
+    "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "next": {

@@ -1,7 +1,7 @@
 ---
 sidebar_label: Phoenix Connector for Relativity
 sidebar_position: 0
-description: Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows.
+description: Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows.
 ---
 
 # Phoenix Connector for Relativity® Examples

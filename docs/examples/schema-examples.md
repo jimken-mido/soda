@@ -1,7 +1,7 @@
 ---
 title: Schema Examples
 sidebar_label: Schemas
-description: Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.
+description: Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications.
 ---
 
 # Schemas

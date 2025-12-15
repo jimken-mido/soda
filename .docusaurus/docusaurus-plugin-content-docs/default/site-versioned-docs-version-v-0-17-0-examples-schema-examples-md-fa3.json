@@ -2,7 +2,7 @@
   "unversionedId": "examples/schema-examples",
   "id": "version-v0.17.0/examples/schema-examples",
   "title": "Schema Examples",
-  "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
+  "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications.",
   "source": "@site/versioned_docs/version-v0.17.0/examples/schema-examples.md",
   "sourceDirName": "examples",
   "slug": "/examples/schema-examples",
@@ -14,7 +14,7 @@
   "frontMatter": {
     "title": "Schema Examples",
     "sidebar_label": "Schemas",
-    "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications."
+    "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications."
   },
   "sidebar": "docs",
   "previous": {

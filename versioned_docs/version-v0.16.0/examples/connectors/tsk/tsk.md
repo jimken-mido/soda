@@ -1,7 +1,7 @@
 ---
 sidebar_label: The Sleuth Kit Connector
 sidebar_position: 0
-description: Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows.
+description: Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows.
 ---
 
 # The Sleuth Kit® Connector Examples

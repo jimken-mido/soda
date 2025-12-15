@@ -1,5 +1,5 @@
 ---
-description: Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.
+description: Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows.
 ---
 
 # Application Settings

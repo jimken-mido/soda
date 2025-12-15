@@ -2519,7 +2519,7 @@
     "Microsoft365": {
       "id": "Microsoft365",
       "title": "All Steps | Microsoft 365 Connector Documentation",
-      "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+      "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
       "sidebar": "steps"
     },
     "Microsoft365/M365ChannelMessagesRead": {
@@ -2789,7 +2789,7 @@
     "Pwsh": {
       "id": "Pwsh",
       "title": "All Steps | PowerShell Connector Documentation",
-      "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+      "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
       "sidebar": "steps"
     },
     "Pwsh/PwshRunScript": {
@@ -2807,7 +2807,7 @@
     "Relativity": {
       "id": "Relativity",
       "title": "All Steps | Phoenix Connector for Relativity Documentation",
-      "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+      "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
       "sidebar": "steps"
     },
     "Relativity/RelativityCreateDynamicObjects": {
@@ -2975,7 +2975,7 @@
     "Rest": {
       "id": "Rest",
       "title": "All Steps | REST Connector Documentation",
-      "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+      "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
       "sidebar": "steps"
     },
     "Rest/RESTDelete": {
@@ -3029,7 +3029,7 @@
     "Sql": {
       "id": "Sql",
       "title": "All Steps | SQL Database Connector Documentation",
-      "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+      "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
       "sidebar": "steps"
     },
     "Sql/CreateMsSQLConnectionString": {
@@ -3089,7 +3089,7 @@
     "StructuredData": {
       "id": "StructuredData",
       "title": "All Steps | Structured Data Connector Documentation",
-      "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+      "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
       "sidebar": "steps"
     },
     "StructuredData/FromConcordance": {
@@ -3191,7 +3191,7 @@
     "Tesseract": {
       "id": "Tesseract",
       "title": "All Steps | Tesseract OCR Connector Documentation",
-      "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+      "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
       "sidebar": "steps"
     },
     "Tesseract/GetImageFormat": {

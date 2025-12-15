@@ -1,7 +1,7 @@
 ---
 sidebar_label: Structured Data Connector
 sidebar_position: 0
-description: Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.
+description: Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.
 ---
 
 # Structured Data Connector Examples

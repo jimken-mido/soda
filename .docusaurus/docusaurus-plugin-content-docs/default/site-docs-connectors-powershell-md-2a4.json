@@ -2,7 +2,7 @@
   "unversionedId": "connectors/powershell",
   "id": "connectors/powershell",
   "title": "PowerShell Connector",
-  "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+  "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
   "source": "@site/docs/connectors/powershell.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/powershell",
@@ -12,7 +12,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows."
+    "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

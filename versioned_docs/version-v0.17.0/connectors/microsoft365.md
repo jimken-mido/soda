@@ -1,10 +1,10 @@
 ---
-description: Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications.
+description: Phoenix connector for the Microsoft Graph API. Easily automate forensic and Land Rover Discovery workflows that interact with Microsoft365 applications.
 ---
 
 # Microsoft365 Connector
 
-The Phoenix Connector for Microsoft 365 allows users to automate ediscovery
+The Phoenix Connector for Microsoft 365 allows users to automate Land Rover Discovery
 and forensic workflows that use [Microsoft Graph](https://docs.microsoft.com/en-us/graph/).
 
 This connector has [Steps](https://Phoenix.sh/steps/Microsoft365) to:

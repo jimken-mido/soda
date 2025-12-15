@@ -22,7 +22,7 @@
               "unversionedId": "application-settings",
               "id": "application-settings",
               "title": "Application Settings",
-              "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.",
+              "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/application-settings.md",
               "sourceDirName": ".",
               "slug": "/application-settings",
@@ -32,7 +32,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows."
+                "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -48,7 +48,7 @@
               "unversionedId": "build-from-source",
               "id": "build-from-source",
               "title": "Build Phoenix from Source",
-              "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
+              "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery.",
               "source": "@site/docs/build-from-source.md",
               "sourceDirName": ".",
               "slug": "/build-from-source",
@@ -60,7 +60,7 @@
               "frontMatter": {
                 "title": "Build Phoenix from Source",
                 "sidebar_label": "Build from Source",
-                "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery."
+                "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery."
               },
               "sidebar": "docs",
               "previous": {
@@ -126,7 +126,7 @@
               "unversionedId": "connectors/microsoft365",
               "id": "connectors/microsoft365",
               "title": "Microsoft365 Connector",
-              "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications.",
+              "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and Land Rover Discovery workflows that interact with Microsoft365 applications.",
               "source": "@site/docs/connectors/microsoft365.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/microsoft365",
@@ -136,7 +136,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications."
+                "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and Land Rover Discovery workflows that interact with Microsoft365 applications."
               },
               "sidebar": "docs",
               "previous": {
@@ -178,7 +178,7 @@
               "unversionedId": "connectors/powershell",
               "id": "connectors/powershell",
               "title": "PowerShell Connector",
-              "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+              "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/connectors/powershell.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/powershell",
@@ -188,7 +188,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows."
+                "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -204,7 +204,7 @@
               "unversionedId": "connectors/relativity",
               "id": "connectors/relativity",
               "title": "Connector for Relativity®",
-              "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+              "description": "Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
               "source": "@site/docs/connectors/relativity.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/relativity",
@@ -214,7 +214,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents."
+                "description": "Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents."
               },
               "sidebar": "docs",
               "previous": {
@@ -230,7 +230,7 @@
               "unversionedId": "connectors/rest",
               "id": "connectors/rest",
               "title": "REST Connector",
-              "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+              "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
               "source": "@site/docs/connectors/rest.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/rest",
@@ -240,7 +240,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector."
+                "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector."
               },
               "sidebar": "docs",
               "previous": {
@@ -282,7 +282,7 @@
               "unversionedId": "connectors/sql",
               "id": "connectors/sql",
               "title": "SQL Connector",
-              "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+              "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
               "source": "@site/docs/connectors/sql.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/sql",
@@ -292,7 +292,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
+                "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
               },
               "sidebar": "docs",
               "previous": {
@@ -308,7 +308,7 @@
               "unversionedId": "connectors/structureddata",
               "id": "connectors/structureddata",
               "title": "Structured Data Connector",
-              "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/docs/connectors/structureddata.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/structureddata",
@@ -318,7 +318,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+                "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
               },
               "sidebar": "docs",
               "previous": {
@@ -334,7 +334,7 @@
               "unversionedId": "connectors/tesseract",
               "id": "connectors/tesseract",
               "title": "Tesseract Connector",
-              "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+              "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
               "source": "@site/docs/connectors/tesseract.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/tesseract",
@@ -344,7 +344,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows."
+                "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -386,7 +386,7 @@
               "unversionedId": "developers-guide",
               "id": "developers-guide",
               "title": "Phoenix Connector Developers' Guide",
-              "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows.",
+              "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/developers-guide.md",
               "sourceDirName": ".",
               "slug": "/developers-guide",
@@ -398,7 +398,7 @@
               "frontMatter": {
                 "title": "Phoenix Connector Developers' Guide",
                 "sidebar_label": "Developers' Guide",
-                "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows."
+                "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -414,7 +414,7 @@
               "unversionedId": "entities",
               "id": "entities",
               "title": "Entities, the Data Type for Data Exchange",
-              "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
+              "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows.",
               "source": "@site/docs/entities.md",
               "sourceDirName": ".",
               "slug": "/entities",
@@ -426,7 +426,7 @@
               "frontMatter": {
                 "title": "Entities, the Data Type for Data Exchange",
                 "sidebar_label": "Entities",
-                "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows."
+                "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -496,7 +496,7 @@
               "unversionedId": "examples/connectors/filesystem/filesystem",
               "id": "examples/connectors/filesystem/filesystem",
               "title": "File System Connector Examples",
-              "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/filesystem/filesystem.md",
               "sourceDirName": "examples/connectors/filesystem",
               "slug": "/examples/connectors/filesystem/",
@@ -509,7 +509,7 @@
               "frontMatter": {
                 "sidebar_label": "File System Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -579,7 +579,7 @@
               "unversionedId": "examples/connectors/microsoft365/microsoft365",
               "id": "examples/connectors/microsoft365/microsoft365",
               "title": "Microsoft365 Connector Examples",
-              "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/microsoft365/microsoft365.md",
               "sourceDirName": "examples/connectors/microsoft365",
               "slug": "/examples/connectors/microsoft365/",
@@ -592,7 +592,7 @@
               "frontMatter": {
                 "sidebar_label": "Microsoft365 Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -880,7 +880,7 @@
               "unversionedId": "examples/connectors/powershell/powershell",
               "id": "examples/connectors/powershell/powershell",
               "title": "PowerShell Connector Examples",
-              "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows.",
+              "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/powershell/powershell.md",
               "sourceDirName": "examples/connectors/powershell",
               "slug": "/examples/connectors/powershell/",
@@ -893,7 +893,7 @@
               "frontMatter": {
                 "sidebar_label": "PowerShell Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows."
+                "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -909,7 +909,7 @@
               "unversionedId": "examples/connectors/relativity/relativity",
               "id": "examples/connectors/relativity/relativity",
               "title": "Phoenix Connector for Relativity® Examples",
-              "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/relativity/relativity.md",
               "sourceDirName": "examples/connectors/relativity",
               "slug": "/examples/connectors/relativity/",
@@ -922,7 +922,7 @@
               "frontMatter": {
                 "sidebar_label": "Phoenix Connector for Relativity",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -1127,7 +1127,7 @@
               "unversionedId": "examples/connectors/rest/rest",
               "id": "examples/connectors/rest/rest",
               "title": "REST Connector Examples",
-              "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows.",
+              "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/rest/rest.md",
               "sourceDirName": "examples/connectors/rest",
               "slug": "/examples/connectors/rest/",
@@ -1140,7 +1140,7 @@
               "frontMatter": {
                 "sidebar_label": "REST Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows."
+                "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -1345,7 +1345,7 @@
               "unversionedId": "examples/connectors/singer/singer",
               "id": "examples/connectors/singer/singer",
               "title": "Singer Connector Examples",
-              "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/singer/singer.md",
               "sourceDirName": "examples/connectors/singer",
               "slug": "/examples/connectors/singer/",
@@ -1358,7 +1358,7 @@
               "frontMatter": {
                 "sidebar_label": "Singer Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -1428,7 +1428,7 @@
               "unversionedId": "examples/connectors/sql/sql",
               "id": "examples/connectors/sql/sql",
               "title": "SQL Connector Examples",
-              "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows.",
+              "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/sql/sql.md",
               "sourceDirName": "examples/connectors/sql",
               "slug": "/examples/connectors/sql/",
@@ -1441,7 +1441,7 @@
               "frontMatter": {
                 "sidebar_label": "SQL Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows."
+                "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -1484,7 +1484,7 @@
               "unversionedId": "examples/connectors/structureddata/csv-files",
               "id": "examples/connectors/structureddata/csv-files",
               "title": "Working with CSV Files | Structured Data Connector Examples",
-              "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/structureddata/csv-files.md",
               "sourceDirName": "examples/connectors/structureddata",
               "slug": "/examples/connectors/structureddata/csv-files",
@@ -1496,7 +1496,7 @@
               "frontMatter": {
                 "title": "Working with CSV Files | Structured Data Connector Examples",
                 "sidebar_label": "Working with CSV Files",
-                "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -1512,7 +1512,7 @@
               "unversionedId": "examples/connectors/structureddata/structureddata",
               "id": "examples/connectors/structureddata/structureddata",
               "title": "Structured Data Connector Examples",
-              "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/docs/examples/connectors/structureddata/structureddata.md",
               "sourceDirName": "examples/connectors/structureddata",
               "slug": "/examples/connectors/structureddata/",
@@ -1525,7 +1525,7 @@
               "frontMatter": {
                 "sidebar_label": "Structured Data Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+                "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
               },
               "sidebar": "docs",
               "previous": {
@@ -1541,7 +1541,7 @@
               "unversionedId": "examples/connectors/tesseract/tesseract",
               "id": "examples/connectors/tesseract/tesseract",
               "title": "Tesseract Connector Examples",
-              "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows.",
+              "description": "Learn how to include Tesseract OCR in automated forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/tesseract/tesseract.md",
               "sourceDirName": "examples/connectors/tesseract",
               "slug": "/examples/connectors/tesseract/",
@@ -1554,7 +1554,7 @@
               "frontMatter": {
                 "sidebar_label": "Tesseract Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows."
+                "description": "Learn how to include Tesseract OCR in automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -1570,7 +1570,7 @@
               "unversionedId": "examples/connectors/tsk/tsk",
               "id": "examples/connectors/tsk/tsk",
               "title": "The Sleuth Kit® Connector Examples",
-              "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/examples/connectors/tsk/tsk.md",
               "sourceDirName": "examples/connectors/tsk",
               "slug": "/examples/connectors/tsk/",
@@ -1583,7 +1583,7 @@
               "frontMatter": {
                 "sidebar_label": "The Sleuth Kit Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -1707,7 +1707,7 @@
               "unversionedId": "examples/schema-examples",
               "id": "examples/schema-examples",
               "title": "Schema Examples",
-              "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
+              "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications.",
               "source": "@site/docs/examples/schema-examples.md",
               "sourceDirName": "examples",
               "slug": "/examples/schema-examples",
@@ -1719,7 +1719,7 @@
               "frontMatter": {
                 "title": "Schema Examples",
                 "sidebar_label": "Schemas",
-                "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications."
+                "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications."
               },
               "sidebar": "docs",
               "previous": {
@@ -1843,7 +1843,7 @@
               "unversionedId": "intro",
               "id": "intro",
               "title": "What is Phoenix",
-              "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
+              "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -1853,7 +1853,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows."
+                "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "next": {
@@ -2420,7 +2420,7 @@
               "unversionedId": "application-settings",
               "id": "version-v0.18.0/application-settings",
               "title": "Application Settings",
-              "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.",
+              "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/application-settings.md",
               "sourceDirName": ".",
               "slug": "/application-settings",
@@ -2430,7 +2430,7 @@
               "tags": [],
               "version": "v0.18.0",
               "frontMatter": {
-                "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows."
+                "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -2446,7 +2446,7 @@
               "unversionedId": "build-from-source",
               "id": "version-v0.18.0/build-from-source",
               "title": "Build Phoenix from Source",
-              "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
+              "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery.",
               "source": "@site/versioned_docs/version-v0.18.0/build-from-source.md",
               "sourceDirName": ".",
               "slug": "/build-from-source",
@@ -2458,7 +2458,7 @@
               "frontMatter": {
                 "title": "Build Phoenix from Source",
                 "sidebar_label": "Build from Source",
-                "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery."
+                "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery."
               },
               "sidebar": "docs",
               "previous": {
@@ -2524,7 +2524,7 @@
               "unversionedId": "connectors/microsoft365",
               "id": "version-v0.18.0/connectors/microsoft365",
               "title": "Microsoft365 Connector",
-              "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications.",
+              "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and Land Rover Discovery workflows that interact with Microsoft365 applications.",
               "source": "@site/versioned_docs/version-v0.18.0/connectors/microsoft365.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/microsoft365",
@@ -2534,7 +2534,7 @@
               "tags": [],
               "version": "v0.18.0",
               "frontMatter": {
-                "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications."
+                "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and Land Rover Discovery workflows that interact with Microsoft365 applications."
               },
               "sidebar": "docs",
               "previous": {
@@ -2576,7 +2576,7 @@
               "unversionedId": "connectors/powershell",
               "id": "version-v0.18.0/connectors/powershell",
               "title": "PowerShell Connector",
-              "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+              "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/connectors/powershell.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/powershell",
@@ -2586,7 +2586,7 @@
               "tags": [],
               "version": "v0.18.0",
               "frontMatter": {
-                "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows."
+                "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -2602,7 +2602,7 @@
               "unversionedId": "connectors/relativity",
               "id": "version-v0.18.0/connectors/relativity",
               "title": "Connector for Relativity®",
-              "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+              "description": "Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
               "source": "@site/versioned_docs/version-v0.18.0/connectors/relativity.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/relativity",
@@ -2612,7 +2612,7 @@
               "tags": [],
               "version": "v0.18.0",
               "frontMatter": {
-                "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents."
+                "description": "Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents."
               },
               "sidebar": "docs",
               "previous": {
@@ -2628,7 +2628,7 @@
               "unversionedId": "connectors/rest",
               "id": "version-v0.18.0/connectors/rest",
               "title": "REST Connector",
-              "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+              "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
               "source": "@site/versioned_docs/version-v0.18.0/connectors/rest.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/rest",
@@ -2638,7 +2638,7 @@
               "tags": [],
               "version": "v0.18.0",
               "frontMatter": {
-                "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector."
+                "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector."
               },
               "sidebar": "docs",
               "previous": {
@@ -2680,7 +2680,7 @@
               "unversionedId": "connectors/sql",
               "id": "version-v0.18.0/connectors/sql",
               "title": "SQL Connector",
-              "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+              "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
               "source": "@site/versioned_docs/version-v0.18.0/connectors/sql.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/sql",
@@ -2690,7 +2690,7 @@
               "tags": [],
               "version": "v0.18.0",
               "frontMatter": {
-                "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
+                "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
               },
               "sidebar": "docs",
               "previous": {
@@ -2706,7 +2706,7 @@
               "unversionedId": "connectors/structureddata",
               "id": "version-v0.18.0/connectors/structureddata",
               "title": "Structured Data Connector",
-              "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/versioned_docs/version-v0.18.0/connectors/structureddata.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/structureddata",
@@ -2716,7 +2716,7 @@
               "tags": [],
               "version": "v0.18.0",
               "frontMatter": {
-                "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+                "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
               },
               "sidebar": "docs",
               "previous": {
@@ -2732,7 +2732,7 @@
               "unversionedId": "connectors/tesseract",
               "id": "version-v0.18.0/connectors/tesseract",
               "title": "Tesseract Connector",
-              "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+              "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/connectors/tesseract.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/tesseract",
@@ -2742,7 +2742,7 @@
               "tags": [],
               "version": "v0.18.0",
               "frontMatter": {
-                "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows."
+                "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -2784,7 +2784,7 @@
               "unversionedId": "developers-guide",
               "id": "version-v0.18.0/developers-guide",
               "title": "Phoenix Connector Developers' Guide",
-              "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows.",
+              "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/developers-guide.md",
               "sourceDirName": ".",
               "slug": "/developers-guide",
@@ -2796,7 +2796,7 @@
               "frontMatter": {
                 "title": "Phoenix Connector Developers' Guide",
                 "sidebar_label": "Developers' Guide",
-                "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows."
+                "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -2812,7 +2812,7 @@
               "unversionedId": "entities",
               "id": "version-v0.18.0/entities",
               "title": "Entities, the Data Type for Data Exchange",
-              "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
+              "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/entities.md",
               "sourceDirName": ".",
               "slug": "/entities",
@@ -2824,7 +2824,7 @@
               "frontMatter": {
                 "title": "Entities, the Data Type for Data Exchange",
                 "sidebar_label": "Entities",
-                "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows."
+                "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -2894,7 +2894,7 @@
               "unversionedId": "examples/connectors/filesystem/filesystem",
               "id": "version-v0.18.0/examples/connectors/filesystem/filesystem",
               "title": "File System Connector Examples",
-              "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/filesystem/filesystem.md",
               "sourceDirName": "examples/connectors/filesystem",
               "slug": "/examples/connectors/filesystem/",
@@ -2907,7 +2907,7 @@
               "frontMatter": {
                 "sidebar_label": "File System Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -2977,7 +2977,7 @@
               "unversionedId": "examples/connectors/microsoft365/microsoft365",
               "id": "version-v0.18.0/examples/connectors/microsoft365/microsoft365",
               "title": "Microsoft365 Connector Examples",
-              "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/microsoft365/microsoft365.md",
               "sourceDirName": "examples/connectors/microsoft365",
               "slug": "/examples/connectors/microsoft365/",
@@ -2990,7 +2990,7 @@
               "frontMatter": {
                 "sidebar_label": "Microsoft365 Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -3278,7 +3278,7 @@
               "unversionedId": "examples/connectors/powershell/powershell",
               "id": "version-v0.18.0/examples/connectors/powershell/powershell",
               "title": "PowerShell Connector Examples",
-              "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows.",
+              "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/powershell/powershell.md",
               "sourceDirName": "examples/connectors/powershell",
               "slug": "/examples/connectors/powershell/",
@@ -3291,7 +3291,7 @@
               "frontMatter": {
                 "sidebar_label": "PowerShell Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows."
+                "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -3307,7 +3307,7 @@
               "unversionedId": "examples/connectors/relativity/relativity",
               "id": "version-v0.18.0/examples/connectors/relativity/relativity",
               "title": "Phoenix Connector for Relativity® Examples",
-              "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity.md",
               "sourceDirName": "examples/connectors/relativity",
               "slug": "/examples/connectors/relativity/",
@@ -3320,7 +3320,7 @@
               "frontMatter": {
                 "sidebar_label": "Phoenix Connector for Relativity",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -3525,7 +3525,7 @@
               "unversionedId": "examples/connectors/rest/rest",
               "id": "version-v0.18.0/examples/connectors/rest/rest",
               "title": "REST Connector Examples",
-              "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows.",
+              "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/rest/rest.md",
               "sourceDirName": "examples/connectors/rest",
               "slug": "/examples/connectors/rest/",
@@ -3538,7 +3538,7 @@
               "frontMatter": {
                 "sidebar_label": "REST Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows."
+                "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -3743,7 +3743,7 @@
               "unversionedId": "examples/connectors/singer/singer",
               "id": "version-v0.18.0/examples/connectors/singer/singer",
               "title": "Singer Connector Examples",
-              "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/singer/singer.md",
               "sourceDirName": "examples/connectors/singer",
               "slug": "/examples/connectors/singer/",
@@ -3756,7 +3756,7 @@
               "frontMatter": {
                 "sidebar_label": "Singer Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -3826,7 +3826,7 @@
               "unversionedId": "examples/connectors/sql/sql",
               "id": "version-v0.18.0/examples/connectors/sql/sql",
               "title": "SQL Connector Examples",
-              "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows.",
+              "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/sql/sql.md",
               "sourceDirName": "examples/connectors/sql",
               "slug": "/examples/connectors/sql/",
@@ -3839,7 +3839,7 @@
               "frontMatter": {
                 "sidebar_label": "SQL Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows."
+                "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -3882,7 +3882,7 @@
               "unversionedId": "examples/connectors/structureddata/csv-files",
               "id": "version-v0.18.0/examples/connectors/structureddata/csv-files",
               "title": "Working with CSV Files | Structured Data Connector Examples",
-              "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/structureddata/csv-files.md",
               "sourceDirName": "examples/connectors/structureddata",
               "slug": "/examples/connectors/structureddata/csv-files",
@@ -3894,7 +3894,7 @@
               "frontMatter": {
                 "title": "Working with CSV Files | Structured Data Connector Examples",
                 "sidebar_label": "Working with CSV Files",
-                "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -3910,7 +3910,7 @@
               "unversionedId": "examples/connectors/structureddata/structureddata",
               "id": "version-v0.18.0/examples/connectors/structureddata/structureddata",
               "title": "Structured Data Connector Examples",
-              "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/structureddata/structureddata.md",
               "sourceDirName": "examples/connectors/structureddata",
               "slug": "/examples/connectors/structureddata/",
@@ -3923,7 +3923,7 @@
               "frontMatter": {
                 "sidebar_label": "Structured Data Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+                "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
               },
               "sidebar": "docs",
               "previous": {
@@ -3939,7 +3939,7 @@
               "unversionedId": "examples/connectors/tesseract/tesseract",
               "id": "version-v0.18.0/examples/connectors/tesseract/tesseract",
               "title": "Tesseract Connector Examples",
-              "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows.",
+              "description": "Learn how to include Tesseract OCR in automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/tesseract/tesseract.md",
               "sourceDirName": "examples/connectors/tesseract",
               "slug": "/examples/connectors/tesseract/",
@@ -3952,7 +3952,7 @@
               "frontMatter": {
                 "sidebar_label": "Tesseract Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows."
+                "description": "Learn how to include Tesseract OCR in automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -3968,7 +3968,7 @@
               "unversionedId": "examples/connectors/tsk/tsk",
               "id": "version-v0.18.0/examples/connectors/tsk/tsk",
               "title": "The Sleuth Kit® Connector Examples",
-              "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/tsk/tsk.md",
               "sourceDirName": "examples/connectors/tsk",
               "slug": "/examples/connectors/tsk/",
@@ -3981,7 +3981,7 @@
               "frontMatter": {
                 "sidebar_label": "The Sleuth Kit Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -4105,7 +4105,7 @@
               "unversionedId": "examples/schema-examples",
               "id": "version-v0.18.0/examples/schema-examples",
               "title": "Schema Examples",
-              "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
+              "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications.",
               "source": "@site/versioned_docs/version-v0.18.0/examples/schema-examples.md",
               "sourceDirName": "examples",
               "slug": "/examples/schema-examples",
@@ -4117,7 +4117,7 @@
               "frontMatter": {
                 "title": "Schema Examples",
                 "sidebar_label": "Schemas",
-                "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications."
+                "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications."
               },
               "sidebar": "docs",
               "previous": {
@@ -4241,7 +4241,7 @@
               "unversionedId": "intro",
               "id": "version-v0.18.0/intro",
               "title": "What is Phoenix",
-              "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
+              "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.18.0/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -4251,7 +4251,7 @@
               "tags": [],
               "version": "v0.18.0",
               "frontMatter": {
-                "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows."
+                "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "next": {
@@ -4817,7 +4817,7 @@
               "unversionedId": "application-settings",
               "id": "version-v0.17.0/application-settings",
               "title": "Application Settings",
-              "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.",
+              "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/application-settings.md",
               "sourceDirName": ".",
               "slug": "/application-settings",
@@ -4827,7 +4827,7 @@
               "tags": [],
               "version": "v0.17.0",
               "frontMatter": {
-                "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows."
+                "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -4843,7 +4843,7 @@
               "unversionedId": "build-from-source",
               "id": "version-v0.17.0/build-from-source",
               "title": "Build Phoenix from Source",
-              "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
+              "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery.",
               "source": "@site/versioned_docs/version-v0.17.0/build-from-source.md",
               "sourceDirName": ".",
               "slug": "/build-from-source",
@@ -4855,7 +4855,7 @@
               "frontMatter": {
                 "title": "Build Phoenix from Source",
                 "sidebar_label": "Build from Source",
-                "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery."
+                "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery."
               },
               "sidebar": "docs",
               "previous": {
@@ -4921,7 +4921,7 @@
               "unversionedId": "connectors/microsoft365",
               "id": "version-v0.17.0/connectors/microsoft365",
               "title": "Microsoft365 Connector",
-              "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications.",
+              "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and Land Rover Discovery workflows that interact with Microsoft365 applications.",
               "source": "@site/versioned_docs/version-v0.17.0/connectors/microsoft365.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/microsoft365",
@@ -4931,7 +4931,7 @@
               "tags": [],
               "version": "v0.17.0",
               "frontMatter": {
-                "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications."
+                "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and Land Rover Discovery workflows that interact with Microsoft365 applications."
               },
               "sidebar": "docs",
               "previous": {
@@ -4973,7 +4973,7 @@
               "unversionedId": "connectors/powershell",
               "id": "version-v0.17.0/connectors/powershell",
               "title": "PowerShell Connector",
-              "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+              "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/connectors/powershell.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/powershell",
@@ -4983,7 +4983,7 @@
               "tags": [],
               "version": "v0.17.0",
               "frontMatter": {
-                "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows."
+                "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -4999,7 +4999,7 @@
               "unversionedId": "connectors/relativity",
               "id": "version-v0.17.0/connectors/relativity",
               "title": "Connector for Relativity®",
-              "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+              "description": "Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
               "source": "@site/versioned_docs/version-v0.17.0/connectors/relativity.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/relativity",
@@ -5009,7 +5009,7 @@
               "tags": [],
               "version": "v0.17.0",
               "frontMatter": {
-                "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents."
+                "description": "Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents."
               },
               "sidebar": "docs",
               "previous": {
@@ -5025,7 +5025,7 @@
               "unversionedId": "connectors/rest",
               "id": "version-v0.17.0/connectors/rest",
               "title": "REST Connector",
-              "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+              "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
               "source": "@site/versioned_docs/version-v0.17.0/connectors/rest.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/rest",
@@ -5035,7 +5035,7 @@
               "tags": [],
               "version": "v0.17.0",
               "frontMatter": {
-                "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector."
+                "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector."
               },
               "sidebar": "docs",
               "previous": {
@@ -5077,7 +5077,7 @@
               "unversionedId": "connectors/sql",
               "id": "version-v0.17.0/connectors/sql",
               "title": "SQL Connector",
-              "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+              "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
               "source": "@site/versioned_docs/version-v0.17.0/connectors/sql.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/sql",
@@ -5087,7 +5087,7 @@
               "tags": [],
               "version": "v0.17.0",
               "frontMatter": {
-                "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
+                "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
               },
               "sidebar": "docs",
               "previous": {
@@ -5103,7 +5103,7 @@
               "unversionedId": "connectors/structureddata",
               "id": "version-v0.17.0/connectors/structureddata",
               "title": "Structured Data Connector",
-              "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/versioned_docs/version-v0.17.0/connectors/structureddata.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/structureddata",
@@ -5113,7 +5113,7 @@
               "tags": [],
               "version": "v0.17.0",
               "frontMatter": {
-                "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+                "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
               },
               "sidebar": "docs",
               "previous": {
@@ -5129,7 +5129,7 @@
               "unversionedId": "connectors/tesseract",
               "id": "version-v0.17.0/connectors/tesseract",
               "title": "Tesseract Connector",
-              "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+              "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/connectors/tesseract.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/tesseract",
@@ -5139,7 +5139,7 @@
               "tags": [],
               "version": "v0.17.0",
               "frontMatter": {
-                "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows."
+                "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -5181,7 +5181,7 @@
               "unversionedId": "developers-guide",
               "id": "version-v0.17.0/developers-guide",
               "title": "Phoenix Connector Developers' Guide",
-              "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows.",
+              "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/developers-guide.md",
               "sourceDirName": ".",
               "slug": "/developers-guide",
@@ -5193,7 +5193,7 @@
               "frontMatter": {
                 "title": "Phoenix Connector Developers' Guide",
                 "sidebar_label": "Developers' Guide",
-                "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows."
+                "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -5209,7 +5209,7 @@
               "unversionedId": "entities",
               "id": "version-v0.17.0/entities",
               "title": "Entities, the Data Type for Data Exchange",
-              "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
+              "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/entities.md",
               "sourceDirName": ".",
               "slug": "/entities",
@@ -5221,7 +5221,7 @@
               "frontMatter": {
                 "title": "Entities, the Data Type for Data Exchange",
                 "sidebar_label": "Entities",
-                "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows."
+                "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -5291,7 +5291,7 @@
               "unversionedId": "examples/connectors/filesystem/filesystem",
               "id": "version-v0.17.0/examples/connectors/filesystem/filesystem",
               "title": "File System Connector Examples",
-              "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/filesystem/filesystem.md",
               "sourceDirName": "examples/connectors/filesystem",
               "slug": "/examples/connectors/filesystem/",
@@ -5304,7 +5304,7 @@
               "frontMatter": {
                 "sidebar_label": "File System Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -5374,7 +5374,7 @@
               "unversionedId": "examples/connectors/microsoft365/microsoft365",
               "id": "version-v0.17.0/examples/connectors/microsoft365/microsoft365",
               "title": "Microsoft365 Connector Examples",
-              "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/microsoft365/microsoft365.md",
               "sourceDirName": "examples/connectors/microsoft365",
               "slug": "/examples/connectors/microsoft365/",
@@ -5387,7 +5387,7 @@
               "frontMatter": {
                 "sidebar_label": "Microsoft365 Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -5675,7 +5675,7 @@
               "unversionedId": "examples/connectors/powershell/powershell",
               "id": "version-v0.17.0/examples/connectors/powershell/powershell",
               "title": "PowerShell Connector Examples",
-              "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows.",
+              "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/powershell/powershell.md",
               "sourceDirName": "examples/connectors/powershell",
               "slug": "/examples/connectors/powershell/",
@@ -5688,7 +5688,7 @@
               "frontMatter": {
                 "sidebar_label": "PowerShell Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows."
+                "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -5704,7 +5704,7 @@
               "unversionedId": "examples/connectors/relativity/relativity",
               "id": "version-v0.17.0/examples/connectors/relativity/relativity",
               "title": "Phoenix Connector for Relativity® Examples",
-              "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/relativity/relativity.md",
               "sourceDirName": "examples/connectors/relativity",
               "slug": "/examples/connectors/relativity/",
@@ -5717,7 +5717,7 @@
               "frontMatter": {
                 "sidebar_label": "Phoenix Connector for Relativity",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -5922,7 +5922,7 @@
               "unversionedId": "examples/connectors/rest/rest",
               "id": "version-v0.17.0/examples/connectors/rest/rest",
               "title": "REST Connector Examples",
-              "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows.",
+              "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/rest/rest.md",
               "sourceDirName": "examples/connectors/rest",
               "slug": "/examples/connectors/rest/",
@@ -5935,7 +5935,7 @@
               "frontMatter": {
                 "sidebar_label": "REST Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows."
+                "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -6140,7 +6140,7 @@
               "unversionedId": "examples/connectors/singer/singer",
               "id": "version-v0.17.0/examples/connectors/singer/singer",
               "title": "Singer Connector Examples",
-              "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/singer/singer.md",
               "sourceDirName": "examples/connectors/singer",
               "slug": "/examples/connectors/singer/",
@@ -6153,7 +6153,7 @@
               "frontMatter": {
                 "sidebar_label": "Singer Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -6223,7 +6223,7 @@
               "unversionedId": "examples/connectors/sql/sql",
               "id": "version-v0.17.0/examples/connectors/sql/sql",
               "title": "SQL Connector Examples",
-              "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows.",
+              "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/sql/sql.md",
               "sourceDirName": "examples/connectors/sql",
               "slug": "/examples/connectors/sql/",
@@ -6236,7 +6236,7 @@
               "frontMatter": {
                 "sidebar_label": "SQL Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows."
+                "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -6279,7 +6279,7 @@
               "unversionedId": "examples/connectors/structureddata/csv-files",
               "id": "version-v0.17.0/examples/connectors/structureddata/csv-files",
               "title": "Working with CSV Files | Structured Data Connector Examples",
-              "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/structureddata/csv-files.md",
               "sourceDirName": "examples/connectors/structureddata",
               "slug": "/examples/connectors/structureddata/csv-files",
@@ -6291,7 +6291,7 @@
               "frontMatter": {
                 "title": "Working with CSV Files | Structured Data Connector Examples",
                 "sidebar_label": "Working with CSV Files",
-                "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -6307,7 +6307,7 @@
               "unversionedId": "examples/connectors/structureddata/structureddata",
               "id": "version-v0.17.0/examples/connectors/structureddata/structureddata",
               "title": "Structured Data Connector Examples",
-              "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/structureddata/structureddata.md",
               "sourceDirName": "examples/connectors/structureddata",
               "slug": "/examples/connectors/structureddata/",
@@ -6320,7 +6320,7 @@
               "frontMatter": {
                 "sidebar_label": "Structured Data Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+                "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
               },
               "sidebar": "docs",
               "previous": {
@@ -6336,7 +6336,7 @@
               "unversionedId": "examples/connectors/tesseract/tesseract",
               "id": "version-v0.17.0/examples/connectors/tesseract/tesseract",
               "title": "Tesseract Connector Examples",
-              "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows.",
+              "description": "Learn how to include Tesseract OCR in automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/tesseract/tesseract.md",
               "sourceDirName": "examples/connectors/tesseract",
               "slug": "/examples/connectors/tesseract/",
@@ -6349,7 +6349,7 @@
               "frontMatter": {
                 "sidebar_label": "Tesseract Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows."
+                "description": "Learn how to include Tesseract OCR in automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -6365,7 +6365,7 @@
               "unversionedId": "examples/connectors/tsk/tsk",
               "id": "version-v0.17.0/examples/connectors/tsk/tsk",
               "title": "The Sleuth Kit® Connector Examples",
-              "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/tsk/tsk.md",
               "sourceDirName": "examples/connectors/tsk",
               "slug": "/examples/connectors/tsk/",
@@ -6378,7 +6378,7 @@
               "frontMatter": {
                 "sidebar_label": "The Sleuth Kit Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -6502,7 +6502,7 @@
               "unversionedId": "examples/schema-examples",
               "id": "version-v0.17.0/examples/schema-examples",
               "title": "Schema Examples",
-              "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
+              "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications.",
               "source": "@site/versioned_docs/version-v0.17.0/examples/schema-examples.md",
               "sourceDirName": "examples",
               "slug": "/examples/schema-examples",
@@ -6514,7 +6514,7 @@
               "frontMatter": {
                 "title": "Schema Examples",
                 "sidebar_label": "Schemas",
-                "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications."
+                "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications."
               },
               "sidebar": "docs",
               "previous": {
@@ -6638,7 +6638,7 @@
               "unversionedId": "intro",
               "id": "version-v0.17.0/intro",
               "title": "What is Phoenix",
-              "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
+              "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.17.0/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -6648,7 +6648,7 @@
               "tags": [],
               "version": "v0.17.0",
               "frontMatter": {
-                "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows."
+                "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "next": {
@@ -7214,7 +7214,7 @@
               "unversionedId": "application-settings",
               "id": "version-v0.16.0/application-settings",
               "title": "Application Settings",
-              "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.",
+              "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/application-settings.md",
               "sourceDirName": ".",
               "slug": "/application-settings",
@@ -7224,7 +7224,7 @@
               "tags": [],
               "version": "v0.16.0",
               "frontMatter": {
-                "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows."
+                "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -7240,7 +7240,7 @@
               "unversionedId": "build-from-source",
               "id": "version-v0.16.0/build-from-source",
               "title": "Build Phoenix from Source",
-              "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
+              "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery.",
               "source": "@site/versioned_docs/version-v0.16.0/build-from-source.md",
               "sourceDirName": ".",
               "slug": "/build-from-source",
@@ -7252,7 +7252,7 @@
               "frontMatter": {
                 "title": "Build Phoenix from Source",
                 "sidebar_label": "Build from Source",
-                "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery."
+                "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery."
               },
               "sidebar": "docs",
               "previous": {
@@ -7344,7 +7344,7 @@
               "unversionedId": "connectors/powershell",
               "id": "version-v0.16.0/connectors/powershell",
               "title": "PowerShell Connector",
-              "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+              "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/connectors/powershell.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/powershell",
@@ -7354,7 +7354,7 @@
               "tags": [],
               "version": "v0.16.0",
               "frontMatter": {
-                "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows."
+                "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -7370,7 +7370,7 @@
               "unversionedId": "connectors/relativity",
               "id": "version-v0.16.0/connectors/relativity",
               "title": "Connector for Relativity®",
-              "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+              "description": "Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
               "source": "@site/versioned_docs/version-v0.16.0/connectors/relativity.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/relativity",
@@ -7380,7 +7380,7 @@
               "tags": [],
               "version": "v0.16.0",
               "frontMatter": {
-                "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents."
+                "description": "Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents."
               },
               "sidebar": "docs",
               "previous": {
@@ -7396,7 +7396,7 @@
               "unversionedId": "connectors/rest",
               "id": "version-v0.16.0/connectors/rest",
               "title": "REST Connector",
-              "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+              "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
               "source": "@site/versioned_docs/version-v0.16.0/connectors/rest.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/rest",
@@ -7406,7 +7406,7 @@
               "tags": [],
               "version": "v0.16.0",
               "frontMatter": {
-                "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector."
+                "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector."
               },
               "sidebar": "docs",
               "previous": {
@@ -7448,7 +7448,7 @@
               "unversionedId": "connectors/sql",
               "id": "version-v0.16.0/connectors/sql",
               "title": "SQL Connector",
-              "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+              "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
               "source": "@site/versioned_docs/version-v0.16.0/connectors/sql.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/sql",
@@ -7458,7 +7458,7 @@
               "tags": [],
               "version": "v0.16.0",
               "frontMatter": {
-                "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
+                "description": "Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
               },
               "sidebar": "docs",
               "previous": {
@@ -7474,7 +7474,7 @@
               "unversionedId": "connectors/structureddata",
               "id": "version-v0.16.0/connectors/structureddata",
               "title": "Structured Data Connector",
-              "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/versioned_docs/version-v0.16.0/connectors/structureddata.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/structureddata",
@@ -7484,7 +7484,7 @@
               "tags": [],
               "version": "v0.16.0",
               "frontMatter": {
-                "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+                "description": "Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
               },
               "sidebar": "docs",
               "previous": {
@@ -7500,7 +7500,7 @@
               "unversionedId": "connectors/tesseract",
               "id": "version-v0.16.0/connectors/tesseract",
               "title": "Tesseract Connector",
-              "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+              "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/connectors/tesseract.md",
               "sourceDirName": "connectors",
               "slug": "/connectors/tesseract",
@@ -7510,7 +7510,7 @@
               "tags": [],
               "version": "v0.16.0",
               "frontMatter": {
-                "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows."
+                "description": "Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -7552,7 +7552,7 @@
               "unversionedId": "developers-guide",
               "id": "version-v0.16.0/developers-guide",
               "title": "Phoenix Connector Developers' Guide",
-              "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows.",
+              "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/developers-guide.md",
               "sourceDirName": ".",
               "slug": "/developers-guide",
@@ -7564,7 +7564,7 @@
               "frontMatter": {
                 "title": "Phoenix Connector Developers' Guide",
                 "sidebar_label": "Developers' Guide",
-                "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows."
+                "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -7580,7 +7580,7 @@
               "unversionedId": "entities",
               "id": "version-v0.16.0/entities",
               "title": "Entities, the Data Type for Data Exchange",
-              "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
+              "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/entities.md",
               "sourceDirName": ".",
               "slug": "/entities",
@@ -7592,7 +7592,7 @@
               "frontMatter": {
                 "title": "Entities, the Data Type for Data Exchange",
                 "sidebar_label": "Entities",
-                "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows."
+                "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -7662,7 +7662,7 @@
               "unversionedId": "examples/connectors/filesystem/filesystem",
               "id": "version-v0.16.0/examples/connectors/filesystem/filesystem",
               "title": "File System Connector Examples",
-              "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/filesystem/filesystem.md",
               "sourceDirName": "examples/connectors/filesystem",
               "slug": "/examples/connectors/filesystem/",
@@ -7675,7 +7675,7 @@
               "frontMatter": {
                 "sidebar_label": "File System Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -7936,7 +7936,7 @@
               "unversionedId": "examples/connectors/powershell/powershell",
               "id": "version-v0.16.0/examples/connectors/powershell/powershell",
               "title": "PowerShell Connector Examples",
-              "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows.",
+              "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/powershell/powershell.md",
               "sourceDirName": "examples/connectors/powershell",
               "slug": "/examples/connectors/powershell/",
@@ -7949,7 +7949,7 @@
               "frontMatter": {
                 "sidebar_label": "PowerShell Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows."
+                "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -7965,7 +7965,7 @@
               "unversionedId": "examples/connectors/relativity/relativity",
               "id": "version-v0.16.0/examples/connectors/relativity/relativity",
               "title": "Phoenix Connector for Relativity® Examples",
-              "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/relativity/relativity.md",
               "sourceDirName": "examples/connectors/relativity",
               "slug": "/examples/connectors/relativity/",
@@ -7978,7 +7978,7 @@
               "frontMatter": {
                 "sidebar_label": "Phoenix Connector for Relativity",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -8183,7 +8183,7 @@
               "unversionedId": "examples/connectors/rest/rest",
               "id": "version-v0.16.0/examples/connectors/rest/rest",
               "title": "REST Connector Examples",
-              "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows.",
+              "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/rest/rest.md",
               "sourceDirName": "examples/connectors/rest",
               "slug": "/examples/connectors/rest/",
@@ -8196,7 +8196,7 @@
               "frontMatter": {
                 "sidebar_label": "REST Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows."
+                "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -8401,7 +8401,7 @@
               "unversionedId": "examples/connectors/singer/singer",
               "id": "version-v0.16.0/examples/connectors/singer/singer",
               "title": "Singer Connector Examples",
-              "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/singer/singer.md",
               "sourceDirName": "examples/connectors/singer",
               "slug": "/examples/connectors/singer/",
@@ -8414,7 +8414,7 @@
               "frontMatter": {
                 "sidebar_label": "Singer Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -8484,7 +8484,7 @@
               "unversionedId": "examples/connectors/sql/sql",
               "id": "version-v0.16.0/examples/connectors/sql/sql",
               "title": "SQL Connector Examples",
-              "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows.",
+              "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/sql/sql.md",
               "sourceDirName": "examples/connectors/sql",
               "slug": "/examples/connectors/sql/",
@@ -8497,7 +8497,7 @@
               "frontMatter": {
                 "sidebar_label": "SQL Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows."
+                "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -8540,7 +8540,7 @@
               "unversionedId": "examples/connectors/structureddata/csv-files",
               "id": "version-v0.16.0/examples/connectors/structureddata/csv-files",
               "title": "Working with CSV Files | Structured Data Connector Examples",
-              "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows.",
+              "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/structureddata/csv-files.md",
               "sourceDirName": "examples/connectors/structureddata",
               "slug": "/examples/connectors/structureddata/csv-files",
@@ -8552,7 +8552,7 @@
               "frontMatter": {
                 "title": "Working with CSV Files | Structured Data Connector Examples",
                 "sidebar_label": "Working with CSV Files",
-                "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows."
+                "description": "Learn how to use Phoenix to work with CSV files when automating forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -8568,7 +8568,7 @@
               "unversionedId": "examples/connectors/structureddata/structureddata",
               "id": "version-v0.16.0/examples/connectors/structureddata/structureddata",
               "title": "Structured Data Connector Examples",
-              "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/structureddata/structureddata.md",
               "sourceDirName": "examples/connectors/structureddata",
               "slug": "/examples/connectors/structureddata/",
@@ -8581,7 +8581,7 @@
               "frontMatter": {
                 "sidebar_label": "Structured Data Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+                "description": "Learn how to automatically convert data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
               },
               "sidebar": "docs",
               "previous": {
@@ -8597,7 +8597,7 @@
               "unversionedId": "examples/connectors/tesseract/tesseract",
               "id": "version-v0.16.0/examples/connectors/tesseract/tesseract",
               "title": "Tesseract Connector Examples",
-              "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows.",
+              "description": "Learn how to include Tesseract OCR in automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/tesseract/tesseract.md",
               "sourceDirName": "examples/connectors/tesseract",
               "slug": "/examples/connectors/tesseract/",
@@ -8610,7 +8610,7 @@
               "frontMatter": {
                 "sidebar_label": "Tesseract Connector",
                 "sidebar_position": 0,
-                "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows."
+                "description": "Learn how to include Tesseract OCR in automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -8626,7 +8626,7 @@
               "unversionedId": "examples/connectors/tsk/tsk",
               "id": "version-v0.16.0/examples/connectors/tsk/tsk",
               "title": "The Sleuth Kit® Connector Examples",
-              "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows.",
+              "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/tsk/tsk.md",
               "sourceDirName": "examples/connectors/tsk",
               "slug": "/examples/connectors/tsk/",
@@ -8639,7 +8639,7 @@
               "frontMatter": {
                 "sidebar_label": "The Sleuth Kit Connector",
                 "sidebar_position": 0,
-                "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows."
+                "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "previous": {
@@ -8763,7 +8763,7 @@
               "unversionedId": "examples/schema-examples",
               "id": "version-v0.16.0/examples/schema-examples",
               "title": "Schema Examples",
-              "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
+              "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications.",
               "source": "@site/versioned_docs/version-v0.16.0/examples/schema-examples.md",
               "sourceDirName": "examples",
               "slug": "/examples/schema-examples",
@@ -8775,7 +8775,7 @@
               "frontMatter": {
                 "title": "Schema Examples",
                 "sidebar_label": "Schemas",
-                "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications."
+                "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and Land Rover Discovery applications."
               },
               "sidebar": "docs",
               "previous": {
@@ -8899,7 +8899,7 @@
               "unversionedId": "intro",
               "id": "version-v0.16.0/intro",
               "title": "What is Phoenix",
-              "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
+              "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows.",
               "source": "@site/versioned_docs/version-v0.16.0/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -8909,7 +8909,7 @@
               "tags": [],
               "version": "v0.16.0",
               "frontMatter": {
-                "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows."
+                "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and Land Rover Discovery workflows."
               },
               "sidebar": "docs",
               "next": {
@@ -15679,7 +15679,7 @@
               "unversionedId": "Microsoft365",
               "id": "Microsoft365",
               "title": "All Steps | Microsoft 365 Connector Documentation",
-              "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+              "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/steps/Microsoft365.md",
               "sourceDirName": ".",
               "slug": "/Microsoft365",
@@ -15700,7 +15700,7 @@
               "frontMatter": {
                 "title": "All Steps | Microsoft 365 Connector Documentation",
                 "sidebar_label": "Microsoft365",
-                "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+                "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
                 "tags": [
                   "Contents",
                   "Microsoft365"
@@ -17614,7 +17614,7 @@
               "unversionedId": "Pwsh",
               "id": "Pwsh",
               "title": "All Steps | PowerShell Connector Documentation",
-              "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+              "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/steps/Pwsh.md",
               "sourceDirName": ".",
               "slug": "/Pwsh",
@@ -17635,7 +17635,7 @@
               "frontMatter": {
                 "title": "All Steps | PowerShell Connector Documentation",
                 "sidebar_label": "Pwsh",
-                "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+                "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
                 "tags": [
                   "Contents",
                   "Pwsh"
@@ -17743,7 +17743,7 @@
               "unversionedId": "Relativity",
               "id": "Relativity",
               "title": "All Steps | Phoenix Connector for Relativity Documentation",
-              "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+              "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
               "source": "@site/steps/Relativity.md",
               "sourceDirName": ".",
               "slug": "/Relativity",
@@ -17764,7 +17764,7 @@
               "frontMatter": {
                 "title": "All Steps | Phoenix Connector for Relativity Documentation",
                 "sidebar_label": "Relativity",
-                "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+                "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
                 "tags": [
                   "Contents",
                   "Relativity"
@@ -18947,7 +18947,7 @@
               "unversionedId": "Rest",
               "id": "Rest",
               "title": "All Steps | REST Connector Documentation",
-              "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+              "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
               "source": "@site/steps/Rest.md",
               "sourceDirName": ".",
               "slug": "/Rest",
@@ -18968,7 +18968,7 @@
               "frontMatter": {
                 "title": "All Steps | REST Connector Documentation",
                 "sidebar_label": "Rest",
-                "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+                "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
                 "tags": [
                   "Contents",
                   "Rest"
@@ -19334,7 +19334,7 @@
               "unversionedId": "Sql",
               "id": "Sql",
               "title": "All Steps | SQL Database Connector Documentation",
-              "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+              "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
               "source": "@site/steps/Sql.md",
               "sourceDirName": ".",
               "slug": "/Sql",
@@ -19355,7 +19355,7 @@
               "frontMatter": {
                 "title": "All Steps | SQL Database Connector Documentation",
                 "sidebar_label": "Sql",
-                "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+                "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
                 "tags": [
                   "Contents",
                   "Sql"
@@ -19764,7 +19764,7 @@
               "unversionedId": "StructuredData",
               "id": "StructuredData",
               "title": "All Steps | Structured Data Connector Documentation",
-              "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/steps/StructuredData.md",
               "sourceDirName": ".",
               "slug": "/StructuredData",
@@ -19785,7 +19785,7 @@
               "frontMatter": {
                 "title": "All Steps | Structured Data Connector Documentation",
                 "sidebar_label": "StructuredData",
-                "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+                "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
                 "tags": [
                   "Contents",
                   "StructuredData"
@@ -20495,7 +20495,7 @@
               "unversionedId": "Tesseract",
               "id": "Tesseract",
               "title": "All Steps | Tesseract OCR Connector Documentation",
-              "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+              "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
               "source": "@site/steps/Tesseract.md",
               "sourceDirName": ".",
               "slug": "/Tesseract",
@@ -20516,7 +20516,7 @@
               "frontMatter": {
                 "title": "All Steps | Tesseract OCR Connector Documentation",
                 "sidebar_label": "Tesseract",
-                "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+                "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
                 "tags": [
                   "Contents",
                   "Tesseract"
@@ -28255,7 +28255,7 @@
               "unversionedId": "Microsoft365",
               "id": "version-v0.18.0/Microsoft365",
               "title": "All Steps | Microsoft 365 Connector Documentation",
-              "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+              "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/steps_versioned_docs/version-v0.18.0/Microsoft365.md",
               "sourceDirName": ".",
               "slug": "/Microsoft365",
@@ -28276,7 +28276,7 @@
               "frontMatter": {
                 "title": "All Steps | Microsoft 365 Connector Documentation",
                 "sidebar_label": "Microsoft365",
-                "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+                "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
                 "tags": [
                   "Contents",
                   "Microsoft365"
@@ -30190,7 +30190,7 @@
               "unversionedId": "Pwsh",
               "id": "version-v0.18.0/Pwsh",
               "title": "All Steps | PowerShell Connector Documentation",
-              "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+              "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/steps_versioned_docs/version-v0.18.0/Pwsh.md",
               "sourceDirName": ".",
               "slug": "/Pwsh",
@@ -30211,7 +30211,7 @@
               "frontMatter": {
                 "title": "All Steps | PowerShell Connector Documentation",
                 "sidebar_label": "Pwsh",
-                "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+                "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
                 "tags": [
                   "Contents",
                   "Pwsh"
@@ -30319,7 +30319,7 @@
               "unversionedId": "Relativity",
               "id": "version-v0.18.0/Relativity",
               "title": "All Steps | Phoenix Connector for Relativity Documentation",
-              "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+              "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
               "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity.md",
               "sourceDirName": ".",
               "slug": "/Relativity",
@@ -30340,7 +30340,7 @@
               "frontMatter": {
                 "title": "All Steps | Phoenix Connector for Relativity Documentation",
                 "sidebar_label": "Relativity",
-                "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+                "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
                 "tags": [
                   "Contents",
                   "Relativity"
@@ -31523,7 +31523,7 @@
               "unversionedId": "Rest",
               "id": "version-v0.18.0/Rest",
               "title": "All Steps | REST Connector Documentation",
-              "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+              "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
               "source": "@site/steps_versioned_docs/version-v0.18.0/Rest.md",
               "sourceDirName": ".",
               "slug": "/Rest",
@@ -31544,7 +31544,7 @@
               "frontMatter": {
                 "title": "All Steps | REST Connector Documentation",
                 "sidebar_label": "Rest",
-                "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+                "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
                 "tags": [
                   "Contents",
                   "Rest"
@@ -31910,7 +31910,7 @@
               "unversionedId": "Sql",
               "id": "version-v0.18.0/Sql",
               "title": "All Steps | SQL Database Connector Documentation",
-              "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+              "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
               "source": "@site/steps_versioned_docs/version-v0.18.0/Sql.md",
               "sourceDirName": ".",
               "slug": "/Sql",
@@ -31931,7 +31931,7 @@
               "frontMatter": {
                 "title": "All Steps | SQL Database Connector Documentation",
                 "sidebar_label": "Sql",
-                "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+                "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
                 "tags": [
                   "Contents",
                   "Sql"
@@ -32340,7 +32340,7 @@
               "unversionedId": "StructuredData",
               "id": "version-v0.18.0/StructuredData",
               "title": "All Steps | Structured Data Connector Documentation",
-              "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/steps_versioned_docs/version-v0.18.0/StructuredData.md",
               "sourceDirName": ".",
               "slug": "/StructuredData",
@@ -32361,7 +32361,7 @@
               "frontMatter": {
                 "title": "All Steps | Structured Data Connector Documentation",
                 "sidebar_label": "StructuredData",
-                "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+                "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
                 "tags": [
                   "Contents",
                   "StructuredData"
@@ -33071,7 +33071,7 @@
               "unversionedId": "Tesseract",
               "id": "version-v0.18.0/Tesseract",
               "title": "All Steps | Tesseract OCR Connector Documentation",
-              "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+              "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
               "source": "@site/steps_versioned_docs/version-v0.18.0/Tesseract.md",
               "sourceDirName": ".",
               "slug": "/Tesseract",
@@ -33092,7 +33092,7 @@
               "frontMatter": {
                 "title": "All Steps | Tesseract OCR Connector Documentation",
                 "sidebar_label": "Tesseract",
-                "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+                "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
                 "tags": [
                   "Contents",
                   "Tesseract"
@@ -40701,7 +40701,7 @@
               "unversionedId": "Microsoft365",
               "id": "version-v0.17.0/Microsoft365",
               "title": "All Steps | Microsoft365 Connector Documentation",
-              "description": "List of all steps for Microsoft365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+              "description": "List of all steps for Microsoft365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/steps_versioned_docs/version-v0.17.0/Microsoft365.md",
               "sourceDirName": ".",
               "slug": "/Microsoft365",
@@ -40722,7 +40722,7 @@
               "frontMatter": {
                 "title": "All Steps | Microsoft365 Connector Documentation",
                 "sidebar_label": "Microsoft365",
-                "description": "List of all steps for Microsoft365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+                "description": "List of all steps for Microsoft365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and Land Rover Discovery workflows.",
                 "tags": [
                   "Contents",
                   "Microsoft365"
@@ -42636,7 +42636,7 @@
               "unversionedId": "Pwsh",
               "id": "version-v0.17.0/Pwsh",
               "title": "All Steps | PowerShell Connector Documentation",
-              "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+              "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/steps_versioned_docs/version-v0.17.0/Pwsh.md",
               "sourceDirName": ".",
               "slug": "/Pwsh",
@@ -42657,7 +42657,7 @@
               "frontMatter": {
                 "title": "All Steps | PowerShell Connector Documentation",
                 "sidebar_label": "Pwsh",
-                "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+                "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
                 "tags": [
                   "Contents",
                   "Pwsh"
@@ -42765,7 +42765,7 @@
               "unversionedId": "Relativity",
               "id": "version-v0.17.0/Relativity",
               "title": "All Steps | Phoenix Connector for Relativity Documentation",
-              "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+              "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
               "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity.md",
               "sourceDirName": ".",
               "slug": "/Relativity",
@@ -42786,7 +42786,7 @@
               "frontMatter": {
                 "title": "All Steps | Phoenix Connector for Relativity Documentation",
                 "sidebar_label": "Relativity",
-                "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+                "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
                 "tags": [
                   "Contents",
                   "Relativity"
@@ -43969,7 +43969,7 @@
               "unversionedId": "Rest",
               "id": "version-v0.17.0/Rest",
               "title": "All Steps | REST Connector Documentation",
-              "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+              "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
               "source": "@site/steps_versioned_docs/version-v0.17.0/Rest.md",
               "sourceDirName": ".",
               "slug": "/Rest",
@@ -43990,7 +43990,7 @@
               "frontMatter": {
                 "title": "All Steps | REST Connector Documentation",
                 "sidebar_label": "Rest",
-                "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+                "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
                 "tags": [
                   "Contents",
                   "Rest"
@@ -44356,7 +44356,7 @@
               "unversionedId": "Sql",
               "id": "version-v0.17.0/Sql",
               "title": "All Steps | SQL Database Connector Documentation",
-              "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+              "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
               "source": "@site/steps_versioned_docs/version-v0.17.0/Sql.md",
               "sourceDirName": ".",
               "slug": "/Sql",
@@ -44377,7 +44377,7 @@
               "frontMatter": {
                 "title": "All Steps | SQL Database Connector Documentation",
                 "sidebar_label": "Sql",
-                "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+                "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
                 "tags": [
                   "Contents",
                   "Sql"
@@ -44786,7 +44786,7 @@
               "unversionedId": "StructuredData",
               "id": "version-v0.17.0/StructuredData",
               "title": "All Steps | Structured Data Connector Documentation",
-              "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/steps_versioned_docs/version-v0.17.0/StructuredData.md",
               "sourceDirName": ".",
               "slug": "/StructuredData",
@@ -44807,7 +44807,7 @@
               "frontMatter": {
                 "title": "All Steps | Structured Data Connector Documentation",
                 "sidebar_label": "StructuredData",
-                "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+                "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
                 "tags": [
                   "Contents",
                   "StructuredData"
@@ -45517,7 +45517,7 @@
               "unversionedId": "Tesseract",
               "id": "version-v0.17.0/Tesseract",
               "title": "All Steps | Tesseract OCR Connector Documentation",
-              "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+              "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
               "source": "@site/steps_versioned_docs/version-v0.17.0/Tesseract.md",
               "sourceDirName": ".",
               "slug": "/Tesseract",
@@ -45538,7 +45538,7 @@
               "frontMatter": {
                 "title": "All Steps | Tesseract OCR Connector Documentation",
                 "sidebar_label": "Tesseract",
-                "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+                "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
                 "tags": [
                   "Contents",
                   "Tesseract"
@@ -54683,7 +54683,7 @@
               "unversionedId": "Pwsh",
               "id": "version-v0.16.0/Pwsh",
               "title": "All Steps | PowerShell Connector Documentation",
-              "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+              "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
               "source": "@site/steps_versioned_docs/version-v0.16.0/Pwsh.md",
               "sourceDirName": ".",
               "slug": "/Pwsh",
@@ -54704,7 +54704,7 @@
               "frontMatter": {
                 "title": "All Steps | PowerShell Connector Documentation",
                 "sidebar_label": "Pwsh",
-                "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+                "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and Land Rover Discovery workflows.",
                 "tags": [
                   "Contents",
                   "Pwsh"
@@ -54812,7 +54812,7 @@
               "unversionedId": "Relativity",
               "id": "version-v0.16.0/Relativity",
               "title": "All Steps | Phoenix Connector for Relativity Documentation",
-              "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+              "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
               "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity.md",
               "sourceDirName": ".",
               "slug": "/Relativity",
@@ -54833,7 +54833,7 @@
               "frontMatter": {
                 "title": "All Steps | Phoenix Connector for Relativity Documentation",
                 "sidebar_label": "Relativity",
-                "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+                "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
                 "tags": [
                   "Contents",
                   "Relativity"
@@ -56016,7 +56016,7 @@
               "unversionedId": "Rest",
               "id": "version-v0.16.0/Rest",
               "title": "All Steps | REST Connector Documentation",
-              "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+              "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
               "source": "@site/steps_versioned_docs/version-v0.16.0/Rest.md",
               "sourceDirName": ".",
               "slug": "/Rest",
@@ -56037,7 +56037,7 @@
               "frontMatter": {
                 "title": "All Steps | REST Connector Documentation",
                 "sidebar_label": "Rest",
-                "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
+                "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and Land Rover Discovery workflows with the Phoenix REST connector.",
                 "tags": [
                   "Contents",
                   "Rest"
@@ -56403,7 +56403,7 @@
               "unversionedId": "Sql",
               "id": "version-v0.16.0/Sql",
               "title": "All Steps | SQL Database Connector Documentation",
-              "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+              "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
               "source": "@site/steps_versioned_docs/version-v0.16.0/Sql.md",
               "sourceDirName": ".",
               "slug": "/Sql",
@@ -56424,7 +56424,7 @@
               "frontMatter": {
                 "title": "All Steps | SQL Database Connector Documentation",
                 "sidebar_label": "Sql",
-                "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+                "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and Land Rover Discovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
                 "tags": [
                   "Contents",
                   "Sql"
@@ -56833,7 +56833,7 @@
               "unversionedId": "StructuredData",
               "id": "version-v0.16.0/StructuredData",
               "title": "All Steps | Structured Data Connector Documentation",
-              "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+              "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
               "source": "@site/steps_versioned_docs/version-v0.16.0/StructuredData.md",
               "sourceDirName": ".",
               "slug": "/StructuredData",
@@ -56854,7 +56854,7 @@
               "frontMatter": {
                 "title": "All Steps | Structured Data Connector Documentation",
                 "sidebar_label": "StructuredData",
-                "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+                "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular Land Rover Discovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
                 "tags": [
                   "Contents",
                   "StructuredData"
@@ -57564,7 +57564,7 @@
               "unversionedId": "Tesseract",
               "id": "version-v0.16.0/Tesseract",
               "title": "All Steps | Tesseract OCR Connector Documentation",
-              "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+              "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
               "source": "@site/steps_versioned_docs/version-v0.16.0/Tesseract.md",
               "sourceDirName": ".",
               "slug": "/Tesseract",
@@ -57585,7 +57585,7 @@
               "frontMatter": {
                 "title": "All Steps | Tesseract OCR Connector Documentation",
                 "sidebar_label": "Tesseract",
-                "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
+                "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and Land Rover Discovery Phoenix automation workflows.",
                 "tags": [
                   "Contents",
                   "Tesseract"
@@ -59063,7 +59063,7 @@
                 "permalink": "/soda/blog/tags/core"
               }
             ],
-            "readingTime": 11.6,
+            "readingTime": 11.61,
             "hasTruncateMarker": true,
             "authors": [
               {
@@ -59105,7 +59105,7 @@
               "permalink": "/soda/blog/wrangling-dates-with-scl"
             }
           },
-          "content": "The focus for Phoenix release v0.18.0 has been on performance.\nThis post explains the changes we've made,\nhow they've improved performance, and why we decided to implement them.\nThis is aimed at both _SCL_ users and _C#_ developers who are interested in performance.\n\n<!--truncate-->\n\n## What is SCL\n\nPhoenix Configuration Language (SCL) is a programming language for forensic and ediscovery technicians.\nThe typical use case involves reading, writing, and manipulating large amounts of data so performance is critical.\nThe language is implemented in _C#_ so performance improvements are achieved by optimizing _C#_ code.\n\n## Measuring Performance\n\nBefore we improve performance we need to measure it. This means benchmarking.\nI created a new console project and added the excellent\n[benchmark dot net](https://benchmarkdotnet.org/articles/overview.html) package to it.\n\nAs we want to optimize real world performance I found some real world data to run the benchmarks on.\nThis data is a 1MB concordance file (very similar to a CSV) with 1000 rows and 44 columns.\nThe data comes from the _ENRON_ dataset but nevertheless I was very careful to add it to\n`.gitignore` and not commit it to the open source repository.\n\nI wrote several _SCL_ scripts representing different workflows.\nFor example this script removes a column from the data:\n\n```scl\n- <path> = PathCombine ['Data', 'TestData.dat']\n- FileRead <path>\n| FromConcordance\n| EntityMap (EntityRemoveProperty  <> Property: \"Custodian\" )\n| ToConcordance\n| StringLength\n```\n\nNote that `StringLength` at the end. This is to ensure that the stream of concordance data\nis read to the end (and therefore all of the data is converted to concordance).\nIn a real world scenario one would probably write the data to a file or send it across\nthe internet but doing that would make the benchmarks a lot more fiddly and\nthe code that writes to a file is outside my control anyway so there is not much point in benchmarking it.\n\n## Benchmarks\n\nHere is a summary of all the benchmarks and the initial results, running on a 12th gen Intel i7 CPU on _Windows_.\n\n| **Name**       | **Summary**                                                                                                               | **Mean / μs** | **Error / μs** | **Standard Deviation / μs** |\n| :------------- | :------------------------------------------------------------------------------------------------------------------------ | :-----------: | :------------: | :-------------------------: |\n| BasicSCL       | Prints 'Hello World'                                                                                                      |     68.11     |     1.327      |            1.363            |\n| CombineColumns | Reads a concordance file, adds a new column by combining two existing ones, and converts it back to concordance           |  306,342.04   |   2,856.823    |          2,385.576          |\n| ConvertDates   | Reads a concordance file, converts dates to a different representation, and converts it back to concordance               |  121,637.43   |   1,641.555    |          1,535.512          |\n| DatToDat       | Reads a concordance file, and converts it back to concordance                                                             |   92,824.18   |    810.059     |           718.096           |\n| DatToJson      | Reads a concordance file, and converts it json                                                                            |   86,831.86   |   1,723.177    |          2,471.330          |\n| JsonToDat      | Reads a json file and converts it to concordance                                                                          |   74,657.57   |   1,249.805    |          1,169.068          |\n| RemapColumns   | Reads a concordance file, renames one of the columns, and converts it back to concordance                                 |   98,585.92   |   1,902.414    |          2,035.561          |\n| RemoveColumn   | Reads a concordance file, removes one of the columns, and converts it back to concordance                                 |  149,538.83   |   1,581.342    |          1,479.188          |\n| SchemaValidate | Reads a concordance file, confirms that all rows conform to a particular json schema, and converts it back to concordance |  133,736.27   |    793.008     |           702.981           |\n| StringReplace  | Reads a concordance file, performs some string replacements on each row, and converts it to json                          |  335,875.11   |   4,519.005    |          4,227.080          |\n\nNote that all times are in microseconds, so the longest Phoenixs are taking about one third of a second.\n\n## Performance Improvements\n\n### Replacing `Task` with `ValueTask`\n\n_SCL_ steps all have a `Run` method which returns the result wrapped in a `Task`.\nOne of the performance optimizations I was eager to try was wrapping the result in a `ValueTask` instead.\nThis should reduce the number of heap allocations per step by one and\nI was expecting a small performance improvement for Phoenixs which run cheap steps inside a loop.\n\nThe tradeoff is that there are some things you can do with a `Task` but not with a `ValueTask`\nsuch as awaiting them multiple times. Fortunately the `Run` method was only being used\nin a few places and I was able to easily check that none of the missing functionality was being used.\n\nThe results of this update:\n\n| **Name**       | **Initial / μs** | **After ValueTask / μs** |  **Ratio**  |\n| :------------- | :--------------: | :----------------------: | :---------: |\n| BasicSCL       |      68.11       |          64.56           | 0.947878432 |\n| CombineColumns |    306,342.04    |        306,125.29        | 0.999292458 |\n| ConvertDates   |    121,637.43    |        120,553.24        | 0.991086707 |\n| DatToDat       |    92,824.18     |        93,733.29         | 1.009793892 |\n| DatToJson      |    86,831.86     |        86,622.87         | 0.997593165 |\n| JsonToDat      |    74,657.57     |        74,910.93         | 1.003393628 |\n| RemapColumns   |    98,585.92     |        98,365.44         | 0.997763575 |\n| RemoveColumn   |    149,538.83    |        148,584.52        | 0.993618313 |\n| SchemaValidate |    133,736.27    |        131,679.90        | 0.984623693 |\n| StringReplace  |    335,875.11    |        328,927.93        | 0.979316181 |\n\n### Finding a Bug\n\nA 2% performance improvement on the slowest benchmark was nice but I was actually\nhoping for a larger improvement. The StringReplace Phoenix was taking about three\ntimes as long as the ConvertDates Phoenix despite doing what seemed like a lot less work.\n\nI thought that the reason might be that `StringReplace` converts the data at the end\ninto JSON rather that concordance like most of the other benchmarks.\nI chose to do this initially because I wanted to make sure that performing an action\non the data first didn't make the conversion to JSON slower.\nAt this stage I wrote additional benchmarks to check if that was what was happening.\nIt wasn't - converting to JSON was consistently ~6000μs faster than converting to\nconcordance across the board.\n\nThinking again, I thought the difference might be down to the fixed cost of running a step.\nConvertDates uses the `Transform` step which applies a JSON schema to every step in\nan entity stream whereas StringReplace is using the `ArrayMap` step to call the\n`StringReplace` step on every entity in the stream.\nThis means that the StringReplace Phoenix is running about 1000 very cheap steps\nwhere ConvertDates is calling one very expensive step.\n\nI decided to use the Visual Studio performance profiler to try and find out what was going on.\nI stared by using the CPU usage tool as I thought the CPU was the most likely performance bottleneck.\n\nI discovered that a lot of time was being spent in the `IRunnableStep<T>.Run` method.\nThis is not unexpected but what was unexpected was that it was spending almost three\ntimes as long in there as in the `CompoundStep<T>.Run` method despite it having been\ndesigned as a thin wrapper around that method which exists purely to enable logging.\n\nLooking at the method code I immediately spotted the problem:\n\n```csharp\nasync Task<Result<T, IError>> IRunnableStep<T>.Run(IStateMonad stateMonad, CancellationToken cancellationToken)\n{\n    using (stateMonad.Logger.BeginScope(Name))\n    {\n        object[] GetEnterStepArgs()\n        {\n            var properties = AllProperties\n                .ToDictionary(x => x.Name, x => x.Serialize(SerializeOptions.SanitizedName));\n\n            return new object[] { Name, properties };\n        }\n\n        LogSituation.EnterStep.Log(stateMonad, this, GetEnterStepArgs());\n\n        var result = await Run(stateMonad, cancellationToken);\n\n        if (result.IsFailure)\n        {\n            LogSituation.ExitStepFailure.Log(stateMonad, this, Name, result.Error.AsString);\n        }\n        else\n        {\n            var resultValue = result.Value.Serialize(SerializeOptions.SanitizedName);\n\n            LogSituation.ExitStepSuccess.Log(stateMonad, this, Name, resultValue);\n        }\n\n        return result;\n    }\n}\n```\n\nThe EnterStep arguments are being created - using an expensive dictionary - every time the step is run,\nregardless of the logging level (they should only be logged if the log level is `Trace` and the benchmarks are using `Info`).\nClearly what happened was that the `LogSituation.EnterStep.Log` method once took a `Func<object[]>`\nbut was refactored to use an `object[]` at some point and I missed the performance implications\nwhen updating this invocation.\n\nI fixed the code and also checked other invocations of the method to make sure I wasn't\nmaking the same mistake somewhere else (I wasn't). Then I ran the benchmarks again:\n\n| **Name**       | **After ValueTask** | **After EnterStep Fix** |  **Ratio**  |\n| :------------- | :-----------------: | :---------------------: | :---------: |\n| BasicSCL       |        64.56        |          35.39          | 0.548172243 |\n| CombineColumns |     306,125.29      |       103,820.13        | 0.339142611 |\n| ConvertDates   |     120,553.24      |       119,108.53        |  0.988016   |\n| DatToDat       |      93,733.29      |        92,621.39        | 0.988137619 |\n| DatToJson      |      86,622.87      |        86,615.62        | 0.999916304 |\n| JsonToDat      |      74,910.93      |        77,218.89        | 1.030809389 |\n| RemapColumns   |      98,365.44      |        97,755.47        | 0.99379894  |\n| RemoveColumn   |     148,584.52      |        98,192.86        | 0.660855249 |\n| SchemaValidate |     131,679.90      |       131,270.77        | 0.996892996 |\n| StringReplace  |     328,927.93      |        95,778.85        | 0.291184911 |\n\nThe three benchmarks which run steps in a loop all got a lot faster, and the BasicSCL Phoenix\ngot almost twice as fast. This just goes to show that finding and fixing performance bugs\nis often massively more effective than micro-optimizing heap allocations.\n\n### Rearchitecting Entities\n\nThe other way to get big performance wins is to use the right collections in the right\nplaces. _SCL_ has the type `entity` which is used to represent data. It's a key-value or\nproperty-value container, similar to a javascript object. The most obvious way to represent\nthis in C# was to use a `Dictionary<String, Object>` and that was essentially how the `Entity` type was\nimplemented - though using the SCL-friendly types `StringStream` and `ISCLObject` instead.\nI wanted to try a different implementation using two `ImmutableArray`s instead.\n`ImmutableArray` is an extremely thin wrapper around an array and has exactly the same performance characteristics.\n\nI refactored the `entity` type to use an `ImmutableArray<StringStream>` for the property names\nand `ImmutableArray<ISCLObject>` for the values. I made them private to ensure that they would\nalways be kept in sync. I updated the implementations of all the `entity` methods but not the signatures.\nKeeping the interface the same meant that the refactor was very smooth and I hardly had to\nchange any code outside the `entity` class.\n\nMaking this change also allowed me to sneak in a few other performance optimizations.\nWhen creating entities from a consistent data structure (such as a CSV file or a SQL table)\nI could let all the entities share the same headers collection.\nNote that this would have been a bad idea if I had used a regular rather than immutable array.\n\nI ran the benchmarks again and compared to the previous results:\n\n| **Name**       | **After EnterStep fix** | **After Entity Refactor** | **Change**  |\n| :------------- | :---------------------: | :-----------------------: | :---------: |\n| BasicSCL       |          35.39          |           35.81           | 1.011867759 |\n| CombineColumns |       103,820.13        |         70,840.40         | 0.682337809 |\n| ConvertDates   |       119,108.53        |         62,156.69         | 0.521849191 |\n| DatToDat       |        92,621.39        |         61,528.62         | 0.66430249  |\n| DatToJson      |        86,615.62        |         41,558.64         | 0.479805375 |\n| JsonToDat      |        77,218.89        |         50,542.41         | 0.654534273 |\n| RemapColumns   |        97,755.47        |         60,397.03         | 0.617837856 |\n| RemoveColumn   |        98,192.86        |         62,817.56         | 0.639736535 |\n| SchemaValidate |       131,270.77        |        104,101.35         | 0.793027648 |\n| StringReplace  |        95,778.85        |         52,792.74         | 0.551194131 |\n\nThis change almost :exclamation: **doubled** :exclamation: performance across the board\n(note that the BasicSCL Phoenix does not use entities). I was very happy.\n\nThe table and charts below show the complete journey.\nSome of the steps were now several times as fast and this difference would likely be\nmagnified in real world scenarios that perform multiple transformations since\nthe costs of reading the file and converting between data formats are fixed.\n\n| **Name**       | **Initial** | **After ValueTask** | **Change**  | **After EnterStep fix** | **Change**  | **After Entity Refactor** | **Change**  | **Total Change** |\n| :------------- | :---------: | :-----------------: | :---------: | :---------------------: | :---------: | :-----------------------: | :---------: | :--------------: |\n| BasicSCL       |    68.11    |        64.56        | 0.947878432 |          35.39          | 0.548172243 |           35.81           | 1.011867759 |   0.525767141    |\n| CombineColumns | 306,342.04  |     306,125.29      | 0.999292458 |       103,820.13        | 0.339142611 |         70,840.40         | 0.682337809 |   0.231246093    |\n| ConvertDates   | 121,637.43  |     120,553.24      | 0.991086707 |       119,108.53        |  0.988016   |         62,156.69         | 0.521849191 |   0.510999698    |\n| DatToDat       |  92,824.18  |      93,733.29      | 1.009793892 |        92,621.39        | 0.988137619 |         61,528.62         | 0.66430249  |    0.66285121    |\n| DatToJson      |  86,831.86  |      86,622.87      | 0.997593165 |        86,615.62        | 0.999916304 |         41,558.64         | 0.479805375 |   0.478610501    |\n| JsonToDat      |  74,657.57  |      74,910.93      | 1.003393628 |        77,218.89        | 1.030809389 |         50,542.41         | 0.654534273 |   0.676989755    |\n| RemapColumns   |  98,585.92  |      98,365.44      | 0.997763575 |        97,755.47        | 0.99379894  |         60,397.03         | 0.617837856 |   0.612633427    |\n| RemoveColumn   | 149,538.83  |     148,584.52      | 0.993618313 |        98,192.86        | 0.660855249 |         62,817.56         | 0.639736535 |   0.420075241    |\n| SchemaValidate | 133,736.27  |     131,679.90      | 0.984623693 |       131,270.77        | 0.996892996 |        104,101.35         | 0.793027648 |   0.778407757    |\n| StringReplace  | 335,875.11  |     328,927.93      | 0.979316181 |        95,778.85        | 0.291184911 |         52,792.74         | 0.551194131 |   0.157179673    |\n\n![Performance Improvement Benchmarks](./final_chart.png)\n\n## Takeaways\n\nThe top takeaways from this project are:\n\n- Fixing bugs is often the best way to improve performance\n- Dictionaries are slow - plain old arrays are often faster even when\n  a `Dictionary` or `Hashmap` is the \"theoretically\" correct choice.\n- Refactoring can be easier than you expect, especially if the code you\n  are changing is well insulated and the API to that code remains consistent.\n\nOne final thing - even though the `ValueTask` update only showed a very small improvement initially,\nthat improvement was orthogonal to the other improvements. It shaved 5ms off the initial StringReplace\nbenchmark and once I had completed the other improvements I tried reverting just the `ValueTask`\nchanges and running the benchmarks again.\nStringReplace was now about 5ms slower. Had I done this change last instead of first it would\nhave looked like an 8% improvement instead of a 2% one.\nThis shows the value of **small incremental improvements**.\nSometimes they don't just add up - they multiply!"
+          "content": "The focus for Phoenix release v0.18.0 has been on performance.\nThis post explains the changes we've made,\nhow they've improved performance, and why we decided to implement them.\nThis is aimed at both _SCL_ users and _C#_ developers who are interested in performance.\n\n<!--truncate-->\n\n## What is SCL\n\nPhoenix Configuration Language (SCL) is a programming language for forensic and Land Rover Discovery technicians.\nThe typical use case involves reading, writing, and manipulating large amounts of data so performance is critical.\nThe language is implemented in _C#_ so performance improvements are achieved by optimizing _C#_ code.\n\n## Measuring Performance\n\nBefore we improve performance we need to measure it. This means benchmarking.\nI created a new console project and added the excellent\n[benchmark dot net](https://benchmarkdotnet.org/articles/overview.html) package to it.\n\nAs we want to optimize real world performance I found some real world data to run the benchmarks on.\nThis data is a 1MB concordance file (very similar to a CSV) with 1000 rows and 44 columns.\nThe data comes from the _ENRON_ dataset but nevertheless I was very careful to add it to\n`.gitignore` and not commit it to the open source repository.\n\nI wrote several _SCL_ scripts representing different workflows.\nFor example this script removes a column from the data:\n\n```scl\n- <path> = PathCombine ['Data', 'TestData.dat']\n- FileRead <path>\n| FromConcordance\n| EntityMap (EntityRemoveProperty  <> Property: \"Custodian\" )\n| ToConcordance\n| StringLength\n```\n\nNote that `StringLength` at the end. This is to ensure that the stream of concordance data\nis read to the end (and therefore all of the data is converted to concordance).\nIn a real world scenario one would probably write the data to a file or send it across\nthe internet but doing that would make the benchmarks a lot more fiddly and\nthe code that writes to a file is outside my control anyway so there is not much point in benchmarking it.\n\n## Benchmarks\n\nHere is a summary of all the benchmarks and the initial results, running on a 12th gen Intel i7 CPU on _Windows_.\n\n| **Name**       | **Summary**                                                                                                               | **Mean / μs** | **Error / μs** | **Standard Deviation / μs** |\n| :------------- | :------------------------------------------------------------------------------------------------------------------------ | :-----------: | :------------: | :-------------------------: |\n| BasicSCL       | Prints 'Hello World'                                                                                                      |     68.11     |     1.327      |            1.363            |\n| CombineColumns | Reads a concordance file, adds a new column by combining two existing ones, and converts it back to concordance           |  306,342.04   |   2,856.823    |          2,385.576          |\n| ConvertDates   | Reads a concordance file, converts dates to a different representation, and converts it back to concordance               |  121,637.43   |   1,641.555    |          1,535.512          |\n| DatToDat       | Reads a concordance file, and converts it back to concordance                                                             |   92,824.18   |    810.059     |           718.096           |\n| DatToJson      | Reads a concordance file, and converts it json                                                                            |   86,831.86   |   1,723.177    |          2,471.330          |\n| JsonToDat      | Reads a json file and converts it to concordance                                                                          |   74,657.57   |   1,249.805    |          1,169.068          |\n| RemapColumns   | Reads a concordance file, renames one of the columns, and converts it back to concordance                                 |   98,585.92   |   1,902.414    |          2,035.561          |\n| RemoveColumn   | Reads a concordance file, removes one of the columns, and converts it back to concordance                                 |  149,538.83   |   1,581.342    |          1,479.188          |\n| SchemaValidate | Reads a concordance file, confirms that all rows conform to a particular json schema, and converts it back to concordance |  133,736.27   |    793.008     |           702.981           |\n| StringReplace  | Reads a concordance file, performs some string replacements on each row, and converts it to json                          |  335,875.11   |   4,519.005    |          4,227.080          |\n\nNote that all times are in microseconds, so the longest Phoenixs are taking about one third of a second.\n\n## Performance Improvements\n\n### Replacing `Task` with `ValueTask`\n\n_SCL_ steps all have a `Run` method which returns the result wrapped in a `Task`.\nOne of the performance optimizations I was eager to try was wrapping the result in a `ValueTask` instead.\nThis should reduce the number of heap allocations per step by one and\nI was expecting a small performance improvement for Phoenixs which run cheap steps inside a loop.\n\nThe tradeoff is that there are some things you can do with a `Task` but not with a `ValueTask`\nsuch as awaiting them multiple times. Fortunately the `Run` method was only being used\nin a few places and I was able to easily check that none of the missing functionality was being used.\n\nThe results of this update:\n\n| **Name**       | **Initial / μs** | **After ValueTask / μs** |  **Ratio**  |\n| :------------- | :--------------: | :----------------------: | :---------: |\n| BasicSCL       |      68.11       |          64.56           | 0.947878432 |\n| CombineColumns |    306,342.04    |        306,125.29        | 0.999292458 |\n| ConvertDates   |    121,637.43    |        120,553.24        | 0.991086707 |\n| DatToDat       |    92,824.18     |        93,733.29         | 1.009793892 |\n| DatToJson      |    86,831.86     |        86,622.87         | 0.997593165 |\n| JsonToDat      |    74,657.57     |        74,910.93         | 1.003393628 |\n| RemapColumns   |    98,585.92     |        98,365.44         | 0.997763575 |\n| RemoveColumn   |    149,538.83    |        148,584.52        | 0.993618313 |\n| SchemaValidate |    133,736.27    |        131,679.90        | 0.984623693 |\n| StringReplace  |    335,875.11    |        328,927.93        | 0.979316181 |\n\n### Finding a Bug\n\nA 2% performance improvement on the slowest benchmark was nice but I was actually\nhoping for a larger improvement. The StringReplace Phoenix was taking about three\ntimes as long as the ConvertDates Phoenix despite doing what seemed like a lot less work.\n\nI thought that the reason might be that `StringReplace` converts the data at the end\ninto JSON rather that concordance like most of the other benchmarks.\nI chose to do this initially because I wanted to make sure that performing an action\non the data first didn't make the conversion to JSON slower.\nAt this stage I wrote additional benchmarks to check if that was what was happening.\nIt wasn't - converting to JSON was consistently ~6000μs faster than converting to\nconcordance across the board.\n\nThinking again, I thought the difference might be down to the fixed cost of running a step.\nConvertDates uses the `Transform` step which applies a JSON schema to every step in\nan entity stream whereas StringReplace is using the `ArrayMap` step to call the\n`StringReplace` step on every entity in the stream.\nThis means that the StringReplace Phoenix is running about 1000 very cheap steps\nwhere ConvertDates is calling one very expensive step.\n\nI decided to use the Visual Studio performance profiler to try and find out what was going on.\nI stared by using the CPU usage tool as I thought the CPU was the most likely performance bottleneck.\n\nI discovered that a lot of time was being spent in the `IRunnableStep<T>.Run` method.\nThis is not unexpected but what was unexpected was that it was spending almost three\ntimes as long in there as in the `CompoundStep<T>.Run` method despite it having been\ndesigned as a thin wrapper around that method which exists purely to enable logging.\n\nLooking at the method code I immediately spotted the problem:\n\n```csharp\nasync Task<Result<T, IError>> IRunnableStep<T>.Run(IStateMonad stateMonad, CancellationToken cancellationToken)\n{\n    using (stateMonad.Logger.BeginScope(Name))\n    {\n        object[] GetEnterStepArgs()\n        {\n            var properties = AllProperties\n                .ToDictionary(x => x.Name, x => x.Serialize(SerializeOptions.SanitizedName));\n\n            return new object[] { Name, properties };\n        }\n\n        LogSituation.EnterStep.Log(stateMonad, this, GetEnterStepArgs());\n\n        var result = await Run(stateMonad, cancellationToken);\n\n        if (result.IsFailure)\n        {\n            LogSituation.ExitStepFailure.Log(stateMonad, this, Name, result.Error.AsString);\n        }\n        else\n        {\n            var resultValue = result.Value.Serialize(SerializeOptions.SanitizedName);\n\n            LogSituation.ExitStepSuccess.Log(stateMonad, this, Name, resultValue);\n        }\n\n        return result;\n    }\n}\n```\n\nThe EnterStep arguments are being created - using an expensive dictionary - every time the step is run,\nregardless of the logging level (they should only be logged if the log level is `Trace` and the benchmarks are using `Info`).\nClearly what happened was that the `LogSituation.EnterStep.Log` method once took a `Func<object[]>`\nbut was refactored to use an `object[]` at some point and I missed the performance implications\nwhen updating this invocation.\n\nI fixed the code and also checked other invocations of the method to make sure I wasn't\nmaking the same mistake somewhere else (I wasn't). Then I ran the benchmarks again:\n\n| **Name**       | **After ValueTask** | **After EnterStep Fix** |  **Ratio**  |\n| :------------- | :-----------------: | :---------------------: | :---------: |\n| BasicSCL       |        64.56        |          35.39          | 0.548172243 |\n| CombineColumns |     306,125.29      |       103,820.13        | 0.339142611 |\n| ConvertDates   |     120,553.24      |       119,108.53        |  0.988016   |\n| DatToDat       |      93,733.29      |        92,621.39        | 0.988137619 |\n| DatToJson      |      86,622.87      |        86,615.62        | 0.999916304 |\n| JsonToDat      |      74,910.93      |        77,218.89        | 1.030809389 |\n| RemapColumns   |      98,365.44      |        97,755.47        | 0.99379894  |\n| RemoveColumn   |     148,584.52      |        98,192.86        | 0.660855249 |\n| SchemaValidate |     131,679.90      |       131,270.77        | 0.996892996 |\n| StringReplace  |     328,927.93      |        95,778.85        | 0.291184911 |\n\nThe three benchmarks which run steps in a loop all got a lot faster, and the BasicSCL Phoenix\ngot almost twice as fast. This just goes to show that finding and fixing performance bugs\nis often massively more effective than micro-optimizing heap allocations.\n\n### Rearchitecting Entities\n\nThe other way to get big performance wins is to use the right collections in the right\nplaces. _SCL_ has the type `entity` which is used to represent data. It's a key-value or\nproperty-value container, similar to a javascript object. The most obvious way to represent\nthis in C# was to use a `Dictionary<String, Object>` and that was essentially how the `Entity` type was\nimplemented - though using the SCL-friendly types `StringStream` and `ISCLObject` instead.\nI wanted to try a different implementation using two `ImmutableArray`s instead.\n`ImmutableArray` is an extremely thin wrapper around an array and has exactly the same performance characteristics.\n\nI refactored the `entity` type to use an `ImmutableArray<StringStream>` for the property names\nand `ImmutableArray<ISCLObject>` for the values. I made them private to ensure that they would\nalways be kept in sync. I updated the implementations of all the `entity` methods but not the signatures.\nKeeping the interface the same meant that the refactor was very smooth and I hardly had to\nchange any code outside the `entity` class.\n\nMaking this change also allowed me to sneak in a few other performance optimizations.\nWhen creating entities from a consistent data structure (such as a CSV file or a SQL table)\nI could let all the entities share the same headers collection.\nNote that this would have been a bad idea if I had used a regular rather than immutable array.\n\nI ran the benchmarks again and compared to the previous results:\n\n| **Name**       | **After EnterStep fix** | **After Entity Refactor** | **Change**  |\n| :------------- | :---------------------: | :-----------------------: | :---------: |\n| BasicSCL       |          35.39          |           35.81           | 1.011867759 |\n| CombineColumns |       103,820.13        |         70,840.40         | 0.682337809 |\n| ConvertDates   |       119,108.53        |         62,156.69         | 0.521849191 |\n| DatToDat       |        92,621.39        |         61,528.62         | 0.66430249  |\n| DatToJson      |        86,615.62        |         41,558.64         | 0.479805375 |\n| JsonToDat      |        77,218.89        |         50,542.41         | 0.654534273 |\n| RemapColumns   |        97,755.47        |         60,397.03         | 0.617837856 |\n| RemoveColumn   |        98,192.86        |         62,817.56         | 0.639736535 |\n| SchemaValidate |       131,270.77        |        104,101.35         | 0.793027648 |\n| StringReplace  |        95,778.85        |         52,792.74         | 0.551194131 |\n\nThis change almost :exclamation: **doubled** :exclamation: performance across the board\n(note that the BasicSCL Phoenix does not use entities). I was very happy.\n\nThe table and charts below show the complete journey.\nSome of the steps were now several times as fast and this difference would likely be\nmagnified in real world scenarios that perform multiple transformations since\nthe costs of reading the file and converting between data formats are fixed.\n\n| **Name**       | **Initial** | **After ValueTask** | **Change**  | **After EnterStep fix** | **Change**  | **After Entity Refactor** | **Change**  | **Total Change** |\n| :------------- | :---------: | :-----------------: | :---------: | :---------------------: | :---------: | :-----------------------: | :---------: | :--------------: |\n| BasicSCL       |    68.11    |        64.56        | 0.947878432 |          35.39          | 0.548172243 |           35.81           | 1.011867759 |   0.525767141    |\n| CombineColumns | 306,342.04  |     306,125.29      | 0.999292458 |       103,820.13        | 0.339142611 |         70,840.40         | 0.682337809 |   0.231246093    |\n| ConvertDates   | 121,637.43  |     120,553.24      | 0.991086707 |       119,108.53        |  0.988016   |         62,156.69         | 0.521849191 |   0.510999698    |\n| DatToDat       |  92,824.18  |      93,733.29      | 1.009793892 |        92,621.39        | 0.988137619 |         61,528.62         | 0.66430249  |    0.66285121    |\n| DatToJson      |  86,831.86  |      86,622.87      | 0.997593165 |        86,615.62        | 0.999916304 |         41,558.64         | 0.479805375 |   0.478610501    |\n| JsonToDat      |  74,657.57  |      74,910.93      | 1.003393628 |        77,218.89        | 1.030809389 |         50,542.41         | 0.654534273 |   0.676989755    |\n| RemapColumns   |  98,585.92  |      98,365.44      | 0.997763575 |        97,755.47        | 0.99379894  |         60,397.03         | 0.617837856 |   0.612633427    |\n| RemoveColumn   | 149,538.83  |     148,584.52      | 0.993618313 |        98,192.86        | 0.660855249 |         62,817.56         | 0.639736535 |   0.420075241    |\n| SchemaValidate | 133,736.27  |     131,679.90      | 0.984623693 |       131,270.77        | 0.996892996 |        104,101.35         | 0.793027648 |   0.778407757    |\n| StringReplace  | 335,875.11  |     328,927.93      | 0.979316181 |        95,778.85        | 0.291184911 |         52,792.74         | 0.551194131 |   0.157179673    |\n\n![Performance Improvement Benchmarks](./final_chart.png)\n\n## Takeaways\n\nThe top takeaways from this project are:\n\n- Fixing bugs is often the best way to improve performance\n- Dictionaries are slow - plain old arrays are often faster even when\n  a `Dictionary` or `Hashmap` is the \"theoretically\" correct choice.\n- Refactoring can be easier than you expect, especially if the code you\n  are changing is well insulated and the API to that code remains consistent.\n\nOne final thing - even though the `ValueTask` update only showed a very small improvement initially,\nthat improvement was orthogonal to the other improvements. It shaved 5ms off the initial StringReplace\nbenchmark and once I had completed the other improvements I tried reverting just the `ValueTask`\nchanges and running the benchmarks again.\nStringReplace was now about 5ms slower. Had I done this change last instead of first it would\nhave looked like an 8% improvement instead of a 2% one.\nThis shows the value of **small incremental improvements**.\nSometimes they don't just add up - they multiply!"
         },
         {
           "id": "wrangling-dates-with-scl",

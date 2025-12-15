@@ -2,7 +2,7 @@
   "unversionedId": "developers-guide",
   "id": "version-v0.18.0/developers-guide",
   "title": "Phoenix Connector Developers' Guide",
-  "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows.",
+  "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows.",
   "source": "@site/versioned_docs/version-v0.18.0/developers-guide.md",
   "sourceDirName": ".",
   "slug": "/developers-guide",
@@ -14,7 +14,7 @@
   "frontMatter": {
     "title": "Phoenix Connector Developers' Guide",
     "sidebar_label": "Developers' Guide",
-    "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows."
+    "description": "Build your own Phoenix connector to automate any application in your forensic and Land Rover Discovery workflows."
   },
   "sidebar": "docs",
   "previous": {

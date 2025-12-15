@@ -2,7 +2,7 @@
   "unversionedId": "entities",
   "id": "version-v0.16.0/entities",
   "title": "Entities, the Data Type for Data Exchange",
-  "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
+  "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows.",
   "source": "@site/versioned_docs/version-v0.16.0/entities.md",
   "sourceDirName": ".",
   "slug": "/entities",
@@ -14,7 +14,7 @@
   "frontMatter": {
     "title": "Entities, the Data Type for Data Exchange",
     "sidebar_label": "Entities",
-    "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows."
+    "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and Land Rover Discovery applications in automated workflows."
   },
   "sidebar": "docs",
   "previous": {

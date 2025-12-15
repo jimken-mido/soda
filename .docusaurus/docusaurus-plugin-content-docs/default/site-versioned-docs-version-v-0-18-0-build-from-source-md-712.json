@@ -2,7 +2,7 @@
   "unversionedId": "build-from-source",
   "id": "version-v0.18.0/build-from-source",
   "title": "Build Phoenix from Source",
-  "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
+  "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery.",
   "source": "@site/versioned_docs/version-v0.18.0/build-from-source.md",
   "sourceDirName": ".",
   "slug": "/build-from-source",
@@ -14,7 +14,7 @@
   "frontMatter": {
     "title": "Build Phoenix from Source",
     "sidebar_label": "Build from Source",
-    "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery."
+    "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and Land Rover Discovery."
   },
   "sidebar": "docs",
   "previous": {

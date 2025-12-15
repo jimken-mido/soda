@@ -2,7 +2,7 @@
   "unversionedId": "Relativity",
   "id": "version-v0.16.0/Relativity",
   "title": "All Steps | Phoenix Connector for Relativity Documentation",
-  "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+  "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity.md",
   "sourceDirName": ".",
   "slug": "/Relativity",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "All Steps | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "Relativity",
-    "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+    "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and Land Rover Discovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
     "tags": [
       "Contents",
       "Relativity"

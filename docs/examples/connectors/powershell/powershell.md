@@ -1,7 +1,7 @@
 ---
 sidebar_label: PowerShell Connector
 sidebar_position: 0
-description: Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows.
+description: Learn how to further customise Phoenix by including powershell scripts in your automated forensic and Land Rover Discovery workflows.
 ---
 
 # PowerShell Connector Examples
